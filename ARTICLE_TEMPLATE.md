@@ -1,6 +1,8 @@
-# APPGM-SDG Research Article Template
+# APPGM-SDG Research Article Template for "Legal Ghosts, Real Lives"
 
 ## 1. Competition compliance checklist
+
+This template is tailored to the APPGM-SDG Research Article Writing Competition entry **"Legal Ghosts, Real Lives: Unmasking the Socioeconomic Toll of Statelessness in Sabah"**. If it is reused for another topic or competition cycle, re-check the latest APPGM-SDG guidelines and replace all topic-specific placeholders accordingly.
 
 - [ ] Uses findings from **3-5 APPGM-SDG mapping reports (2023, 2024, 2025)** as the **primary source** for analysis; articles that do not refer to the mapping reports will be rejected
 - [ ] Lists every mapping report used below with the **official report title**, **constituency**, **year**, and **page number(s)** cited
@@ -14,7 +16,7 @@
 - [ ] Includes a clear **AI-use declaration** and paragraph-level footnote markers
 - [ ] Completes a **plagiarism check** before submission
 - [ ] Keeps quotations, statistics, and page references exact; every numerical claim is verified against the named report before submission
-- [ ] Notes the key competition dates and outcomes: **full paper due 16 November 2026**; **30 papers shortlisted** (**RM500 + certificate each**); **top 10** present at the **SDG Parliamentary Research Symposium in Parliament on 2-3 December 2026**; **top 3 receive RM3,000 each**
+- [ ] Notes the key **2026 competition-cycle** dates and outcomes from the current guidelines: **full paper due 16 November 2026**; **30 papers shortlisted** (**RM500 + certificate each**); **top 10** present at the **SDG Parliamentary Research Symposium in Parliament on 2-3 December 2026**; **top 3 receive RM3,000 each**; re-check the official guidelines before reusing this template in a later cycle
 
 ### Mapping reports to compare (fill in before drafting)
 
