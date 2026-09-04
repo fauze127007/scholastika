@@ -189,7 +189,7 @@
 
 ---
 
-## 3. AI-use declaration block
+## AI-use declaration block
 
 **Sample declaration statement**  
 I used AI-assisted tools for limited drafting and analytical support during the preparation of this article. Every paragraph is marked through footnote-style disclosure to indicate whether it was drafted with AI assistance or written entirely by the author, in line with the competition guidelines. All claims, statistics, citations, interpretations, and final wording were reviewed and approved by the author before submission.
@@ -203,7 +203,7 @@ I used AI-assisted tools for limited drafting and analytical support during the 
 
 ---
 
-## 4. Style guide callout box
+## Style guide callout box
 
 > **Style reminders for a strong scholarly voice**  
 > Vary sentence length so the prose does not sound mechanical. Prefer active voice when naming causes, actors, and consequences. Replace transition crutches such as "Moreover," "Furthermore," and "In conclusion" with logical bridges that show thought. Introduce one statistic at a time, then explain its human meaning. Make your judgment explicit: "I argue...", "The mapping reports reveal...", "This comparison suggests..."
