@@ -50,4 +50,4 @@
 - Currency: RM (Malaysian ringgit). Percentages with % sign.
 - Bold key terms at first definition; italics for emphasis only.
 - Tables: use Markdown tables with headers.
-- Target length: 7,000–9,000 words per chapter. Do not pad; depth over repetition.
+- Target length: 7,000–9,000 words for full subject chapters. The integrated Chapter 4 may be longer because it combines blockchain and digital-asset foundations; the emerging-technology survey in Chapter 6 is intentionally shorter. Do not pad; depth over repetition.

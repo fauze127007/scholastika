@@ -10,7 +10,7 @@ text = open("book.md", encoding="utf-8").read()
 emoji = re.compile("[\U0001F1E6-\U0001F1FF\U0001F300-\U0001F5FF\U0001F600-\U0001F64F\U0001F680-\U0001F6FF\U0001F900-\U0001F9FF\U0001FA00-\U0001FAFF]")
 text = emoji.sub("", text)
 text = text.replace("✓", "$\\checkmark$")
-text = re.sub(r"\*\*\s+(QUICK NOTE|DID YOU KNOW|BRAINSTORMER|MALAYSIAN SPOTLIGHT)", r"**\1", text)
+text = re.sub(r"\*\*\s+(QUICK NOTE|DID YOU KNOW|BRAINSTORMER|MALAYSIAN SPOTLIGHT|CHAPTER 6 VIEWING)", r"**\1", text)
 open("book-pdf.md", "w", encoding="utf-8").write(text)
 print("sanitized -> book-pdf.md")
 EOF

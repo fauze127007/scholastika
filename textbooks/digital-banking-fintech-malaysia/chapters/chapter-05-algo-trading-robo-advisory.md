@@ -1,11 +1,11 @@
-# Chapter 5: Introduction to Algorithmic Trading and Robo-Advisory
+# Chapter 5: Algorithmic Trading and Robo-Advisory
 
 ## Chapter Outline
 
-- 5.1 Overview of Algorithmic Trading and Automated Trading
-- 5.2 Trading Strategies and Their Applications
-- 5.3 Robo-Advisory and Digital Investment Services
-- 5.4 Benefits, Limitations, Risks and Ethical Considerations
+- 5.1 Algorithmic Trading, Automated Execution, Rules and Data
+- 5.2 Illustrative Trading Rules: Moving-Average Signals and Historical Tests
+- 5.3 Robo-Advisory: Risk Profiling, Allocation, Rebalancing and Fees
+- 5.4 Suitability, Model and Execution Risk, Transaction Costs and Historical-Test Limitations
 
 ## Learning Outcomes
 
@@ -26,7 +26,7 @@ One evening, Aina downloads a robo-advisory app licensed by the Securities Commi
 
 Is Aina making a wise choice? How do the algorithms behind trading systems and robo-advisors actually work, what can go wrong, and what protections does Malaysian regulation give her? This chapter answers these questions.
 
-## 5.1 Overview of Algorithmic Trading and Automated Trading
+## 5.1 Algorithmic Trading, Automated Execution, Rules and Data
 
 Walk into the dealing room of a large investment bank today and you will find far fewer humans shouting into telephones than in the movies. Most trading is now done by computers that follow precise, pre-programmed instructions. This section defines algorithmic trading and high-frequency trading, explains the pipeline that turns a trading idea into an executed order, and describes how these activities are permitted and supervised on Bursa Malaysia.
 
@@ -82,7 +82,7 @@ Two practical consequences matter for you as a future finance professional or in
 
 > **🇲🇾 MALAYSIAN SPOTLIGHT:** Malaysia's capital market regulator, the Securities Commission Malaysia (SC), introduced the Digital Investment Management (DIM) framework in May 2017 — the first regulatory framework for robo-advisory in the region — while Bursa Malaysia's rules have long accommodated algorithmic and direct market access trading (SC, 2017; Bursa Malaysia Securities Berhad, n.d.). Together, these frameworks mean that automation in Malaysian markets operates inside clear licensing and conduct perimeters rather than in a legal vacuum.
 
-## 5.2 Trading Strategies and Their Applications
+## 5.2 Illustrative Trading Rules: Moving-Average Signals and Historical Tests
 
 An algorithm is only as good as the strategy it encodes. This section explains five widely used strategy families — momentum, mean reversion, arbitrage, market making and index-fund rebalancing — each with a simple numeric example, and then examines how strategies are tested before real money is risked.
 
@@ -131,7 +131,7 @@ Two real-world frictions turn many paper profits into live losses:
 
 > **🧠 BRAINSTORMER:** Suppose your classmate's backtest shows a 40% annual return over five years of historical KLCI data. What three questions would you ask before believing the result, and what does your suspicion tell you about the difference between historical and live performance?
 
-## 5.3 Robo-Advisory and Digital Investment Services
+## 5.3 Robo-Advisory: Risk Profiling, Allocation, Rebalancing and Fees
 
 Sections 5.1 and 5.2 described algorithms that *trade*. This section describes algorithms that *invest*: robo-advisors, which automate portfolio management for ordinary savers. In Malaysia these services are regulated under the Securities Commission Malaysia's Digital Investment Management framework, introduced in May 2017 — the first such framework in the region (Securities Commission Malaysia [SC], 2017).
 
@@ -192,7 +192,7 @@ Two balanced observations are in order. First, lower cost is a structural advant
 
 > **🧠 BRAINSTORMER:** If robo-advisors are cheaper, more accessible and more disciplined, why do you think they still manage less than 1% of Malaysia's RM1.07 trillion fund industry? Consider trust, financial literacy, marketing budgets and the role of human agents.
 
-## 5.4 Benefits, Limitations, Risks and Ethical Considerations
+## 5.4 Suitability, Model and Execution Risk, Transaction Costs and Historical-Test Limitations
 
 Automation makes markets faster, cheaper and more inclusive — and introduces failure modes that did not exist when humans traded by telephone. This final section weighs both sides, because a balanced assessment is exactly what regulators, employers and your own money deserve.
 
@@ -224,6 +224,18 @@ Overfitting (Section 5.2.5) is the micro-level cousin of model risk: a strategy 
 ### 5.4.4 A Balanced Assessment
 
 Algorithmic trading and robo-advisory are tools, and tools are judged by use. For institutions, automation delivers speed, consistency and lower costs, but demands investment in model governance, risk controls and cyber-resilience of the kind required by BNM's RMiT framework (BNM, 2025b). For young Malaysians like Aina, a licensed DIM offers a disciplined, low-cost start to investing — provided she understands that market risk is not automated away: her ETF portfolio can and will fall in value during downturns. The ethical frontier lies in design choices — what the app encourages you to do, whose interests the algorithm serves, and whether you can get a straight answer about how it works.
+
+## Applied Activity: Moving-Average Rule and Risk Profile
+
+**Purpose:** Apply a predefined trading rule and connect an investor profile to a suitable portfolio approach.
+
+Use the sample prices in the Problem-Solving Corner. Calculate the short and long moving averages exactly as defined there, mark each buy, sell or no-trade signal, and repeat the exercise after subtracting the stated transaction costs. Record why a historical signal is not a forecast.
+
+Then review this fictional customer: a 23-year-old with stable income, no high-interest debt, an emergency fund, a seven-year goal and low tolerance for a 20% temporary loss. Select a risk-profile band from the chapter's illustrative table, propose a broad allocation, and state what additional suitability questions a licensed provider should ask before implementation.
+
+**Deliverable:** A signal-and-trade log and a brief suitability note. Use no real customer data or investment recommendation.
+
+---
 
 ## Case Study 5.1: Aina's RM300-a-Month Robo-Advisory Journey
 

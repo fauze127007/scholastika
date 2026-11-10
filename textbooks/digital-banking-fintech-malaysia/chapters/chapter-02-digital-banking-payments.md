@@ -2,11 +2,11 @@
 
 ## Chapter Outline
 
-- **2.1** Mobile and Digital Banking Services
-- **2.2** Digital Customer Journey and e-KYC
-- **2.3** Open Banking and APIs
-- **2.4** Digital Payment Systems (QR, Instant Transfer, International)
-- **2.5** Stablecoins and Central Bank Digital Currencies (CBDCs)
+- 2.1 Mobile Banking, Licensed Digital Banks and Digital Account Services
+- 2.2 Digital Customer Journeys, e-KYC, Consent and Verification Exceptions
+- 2.3 Open Banking, APIs, Permissions and Data Sharing
+- 2.4 QR Payments, Instant Transfers, E-Wallets and Cross-Border Payments
+- 2.5 Payment Use Cases for Stablecoins and CBDCs
 
 ## Learning Outcomes
 
@@ -23,7 +23,7 @@ After studying this chapter, you should be able to:
 
 Aina, 19, is a foundation student at a polytechnic in Johor Bahru. On a Monday morning she downloads a banking app, photographs her MyKad, records a short selfie video, and — fifteen minutes later — her first savings account is approved. A virtual debit card appears in the app instantly; the plastic card arrives by post days later. At the campus canteen she pays for nasi lemak by scanning a DuitNow QR sticker. At lunch she splits the bill with three friends using DuitNow transfers addressed to their mobile numbers — no bank account numbers needed. In the evening she sends RM100 to her grandmother in Mersing, checks the app's spending summary, and moves RM50 into a savings goal. During the semester break, she pays for boat noodles in Bangkok by scanning a Thai QR code with the same Malaysian app. Not once did she visit a branch, fill in a paper form, or handle cash she could not immediately replace. This chapter explains the services, regulations and payment rails that make Aina's ordinary day possible — and the risks that regulators and banks must manage behind the scenes.
 
-## 2.1 Mobile and Digital Banking Services
+## 2.1 Mobile Banking, Licensed Digital Banks and Digital Account Services
 
 ### 2.1.1 From internet banking to mobile-first
 
@@ -73,7 +73,7 @@ The model also carries risks: new institutions must build trust without a physic
 
 > **💡 DID YOU KNOW? (TRIVIA):** When Maybank2u launched in 2000, checking your balance without visiting a branch felt revolutionary. By 2025, Malaysians were making an average of 538 electronic payment transactions each per year (BNM, 2026) — a behavioural revolution in one generation.
 
-## 2.2 Digital Customer Journey and e-KYC
+## 2.2 Digital Customer Journeys, e-KYC, Consent and Verification Exceptions
 
 ### 2.2.1 The digital onboarding funnel
 
@@ -122,9 +122,15 @@ Tiering is the compromise that makes both inclusion and integrity possible. A ba
 
 Money laundering itself — the process of disguising criminal proceeds so they appear legitimate — and terrorism financing harm not only institutions but society: mule accounts opened through weak checks are a key enabler of the scam networks that Malaysian authorities, through bodies such as the National Scam Response Centre (hotline 997), work to disrupt (BNM, 2026).
 
+### 2.2.4 Consent and verification exceptions
+
+Digital onboarding should not treat a failed automated check as proof of fraud. A blurred identity-card image, an outdated phone camera, a transliteration difference in a name, a database outage or an accessibility need may prevent an otherwise legitimate customer from completing the standard flow. The institution should explain what failed in plain language, request only proportionate additional evidence, provide a secure manual-review route, and record the reason for the exception and the reviewer’s decision.
+
+Consent is a separate step from identity verification. Customers should be told what data is collected, why it is needed, whether it will be shared, and how to ask questions or withdraw optional permissions. Consent to use an account service should not be bundled unnecessarily with consent to unrelated marketing. If a mismatch cannot be resolved, the safe action is to pause or escalate under policy — not to weaken identity checks, share credentials through an insecure channel or ask the customer to bypass controls.
+
 > **🧠 BRAINSTORMER:** Tighter identity checks stop criminals, but they also slow down honest customers and can exclude people with damaged documents or old phones. Where should the balance lie — and who should bear the cost when the balance is wrong?
 
-## 2.3 Open Banking and APIs
+## 2.3 Open Banking, APIs, Permissions and Data Sharing
 
 ### 2.3.1 APIs and the idea of open banking
 
@@ -168,7 +174,7 @@ The risks are equally real, and they centre on **consent**. Did the customer gen
 
 > **🧠 BRAINSTORMER:** Would you allow a budgeting app to read all your bank transactions? What would you demand in return — and what would make you withdraw consent later?
 
-## 2.4 Digital Payment Systems (QR, Instant Transfer, International)
+## 2.4 QR Payments, Instant Transfers, E-Wallets and Cross-Border Payments
 
 ### 2.4.1 The rails beneath the apps
 
@@ -214,7 +220,7 @@ Fintech providers attack this cost directly. **MoneyMatch**, a Malaysian cross-b
 
 > **💡 DID YOU KNOW? (TRIVIA):** Malaysia's real-time gross settlement system, RENTAS, has been running since 1999 — older than most of this book's readers. The QR code a hawker displays today ultimately settles on infrastructure that has moved interbank billions for more than two decades (PayNet, 2026).
 
-## 2.5 Stablecoins and Central Bank Digital Currencies (CBDCs)
+## 2.5 Payment Use Cases for Stablecoins and CBDCs
 
 ### 2.5.1 Stablecoins: private digital money
 
@@ -260,6 +266,18 @@ The frontier has also widened beyond CBDCs. BNM's work programme for 2026 includ
 *Table 2.6: Wholesale versus retail CBDC.*
 
 > **🧠 BRAINSTORMER:** Suppose BNM offered every Malaysian a retail digital ringgit tomorrow. Who would benefit most — and who might be harmed? What would happen to commercial-bank deposits if people could hold central-bank money directly?
+
+## Applied Activity: Mock Onboarding and Payment Reconciliation
+
+**Purpose:** Practise a digital customer journey and investigate a failed or duplicate payment without exposing real customer information.
+
+In groups of three, assign the roles of customer, digital-bank onboarding analyst and payment-operations officer. Use fictional identity details only. The customer completes a mock account-opening flow, including identity-document capture, a liveness step, consent choices and a verification exception (for example, a blurred document or name mismatch). The analyst records the evidence requested, the reason for any pause or escalation, and what must not be bypassed.
+
+Next, reconcile this mock statement: a RM38.50 DuitNow QR purchase appears twice, while a RM24.00 FPX purchase shows as debited but the merchant order is marked unpaid. For each item, record the transaction reference, status, amount, time and next safe action. Do not assume that a second payment is required; follow the provider's dispute and trace process.
+
+**Deliverable:** A completed onboarding exception log and payment-reconciliation table. Remove all fictional personal data before submission.
+
+---
 
 ## Case Study 2.1: A Hawker's Journey to Cashless
 

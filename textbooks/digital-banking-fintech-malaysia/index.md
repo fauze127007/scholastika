@@ -6,31 +6,34 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 ## A
 
 - **51% attack**, 4
+- **Accessibility**, 6
 - **Account takeover (ATO)**, 8
+- **Adoption readiness**, 6
 - AEON Bank, 1, 2, 7, 9
 - Akru, 1, 5
 - **Algorithmic bias**, 8
 - **Algorithmic trading**, 5
 - Alixco, 1, 3
-- **Altcoin**, 6
+- **Altcoin**, 4
 - **Alternative data**, 3
-- AMLA, 2, 6, 7
+- AMLA, 2, 4, 7
 - Apple Card, 7
 - **Application programming interface (API)**, 2
 - **Arbitrage**, 5
 - **Artificial intelligence (AI)**, 7
 - Ata Plus, 1, 3, 7
+- **Augmented reality (AR)**, 6
 - **Authorised push payment (APP) scam**, 8
 
 ## B
 
 - B2B FinPAL, 1, 3
 - **Backtesting**, 5
-- Bank for International Settlements, 2, 4, 7
+- Bank for International Settlements, 2, 4, 6, 7
 - Bank Negara Malaysia, 1, 2, 3, 4, 5, 6, 7, 8, 9
 - BEST Invest, 1, 3, 5, 9
 - **BigTech**, 1
-- **Bitcoin**, 1, 2, 4, 6, 9
+- **Bitcoin**, 1, 2, 4, 9
 - **Black-box problem**, 7
 - **Block**, 4
 - **Blockchain**, 4
@@ -38,12 +41,12 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - Bursa Malaysia, 5, 9
 - **Business continuity plan (BCP)**, 8
 - **Business model**, 1
-- Buterin, 4, 6
+- Buterin, 4
 
 ## C
 
 - CapBay, 1, 3
-- Capital Markets and Services Act 2007, 1, 3, 4, 6
+- Capital Markets and Services Act 2007, 1, 3, 4
 - CCPT, 9
 - **Central bank digital currency (CBDC)**, 2
 - Central Bank of Malaysia Act 2009, 1, 2, 5, 7, 9
@@ -53,12 +56,14 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Consensus mechanism**, 4
 - **Credit scoring**, 3
 - **Crowdfunding**, 3
+- **Cryptographic agility**, 6
 - **Customer due diligence (CDD)**, 2
 
 ## D
 
 - **Data breach**, 8
-- **Decentralised finance (DeFi)**, 6
+- **Data minimisation**, 6
+- **Decentralised finance (DeFi)**, 4
 - **Deep learning**, 7
 - **Default risk**, 3
 - **Digital asset exchange (DAX)**, 1
@@ -70,13 +75,13 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Dilution**, 3
 - **Direct market access (DMA)**, 5
 - **Distributed ledger technology (DLT)**, 4
-- **Double-spending problem**, 6
+- **Double-spending problem**, 4
 - **DuitNow**, 1, 2, 7, 8
 - **DuitNow QR**, 1, 2, 7, 8
 
 ## E
 
-- e-KYC, 1, 2, 3, 4, 5, 6, 7, 8, 9
+- e-KYC, 1, 2, 3, 4, 5, 7, 8, 9
 - **E-wallet**, 1
 - **Effective annual cost**, 3
 - **Electronic know-your-customer (e-KYC)**, 1
@@ -84,17 +89,17 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Embedded finance**, 1
 - **Environmental, social and governance (ESG)**, 9
 - **Equity crowdfunding (ECF)**, 1
-- Ethereum, 4, 6
+- Ethereum, 4
 - Ethis, 1, 3, 9
 - **Exchange-traded fund (ETF)**, 5
 - **Explainability**, 8
 
 ## F
 
-- FATF, 6
+- FATF, 4
 - **FEAT principles**, 5, 7, 8
 - **Financial inclusion**, 1
-- Financial Sector Blueprint, 1, 2, 3, 4, 7, 8
+- Financial Sector Blueprint, 1, 2, 3, 4, 6, 7, 8
 - Financial Services Act 2013, 1, 2, 8, 9
 - **Financial technology (FinTech)**, 1
 - Financial Technology Regulatory Sandbox, 1
@@ -103,14 +108,14 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - FPX, 1, 2, 7, 8
 - **Fraud detection**, 7
 - **Freemium**, 1
-- FTX, 4, 6
+- FTX, 4
 - **Full node**, 4
 - Fundaztic, 1, 3
 - Funding Societies, 1, 3
 
 ## G
 
-- **Gas**, 6
+- **Gas**, 4
 - **Generative AI**, 7
 - **Gharar**, 9
 - Global Findex, 1, 2, 3, 7, 8, 9
@@ -119,23 +124,25 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Green sukuk**, 9
 - **Greenwashing**, 9
 - Guidelines on Digital Assets, 1, 4, 6, 9
-- Guidelines on Recognized Markets, 1, 3, 4, 6, 9
+- Guidelines on Recognized Markets, 1, 3, 4, 9
 - GXBank, 1, 2, 7, 9
 
 ## H
 
-- **Halving**, 6
+- **Halving**, 4
 - **Hash**, 4
-- Hata, 1, 4, 6
+- Hata, 1, 4
 - HelloGold, 1, 9
 - **High-frequency trading (HFT)**, 5
 - **Human-in-the-loop (HITL)**, 7
 
 ## I
 
+- **Immersive technology**, 6
 - **Information asymmetry**, 3
-- **Initial coin offering (ICO)**, 6
+- **Initial coin offering (ICO)**, 4
 - **Interchange fee**, 1
+- **Internet of Things (IoT)**, 6
 - **Investment note**, 3
 - **Islamic digital finance**, 9
 - Islamic Financial Services Act 2013, 1, 2, 9
@@ -160,7 +167,7 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - Licensing Framework for Digital Banks, 1, 2, 7, 8, 9
 - **Light node**, 4
 - **Liveness detection**, 2
-- Luno, 1, 4, 6
+- Luno, 1, 4
 
 ## M
 
@@ -175,7 +182,7 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Merkle tree**, 4
 - microLEAP, 1, 3, 9
 - MIFC, 1, 9
-- **Mining**, 6
+- **Mining**, 4
 - **Mobile-first**, 2
 - **Model risk**, 7
 - Modern Portfolio Theory, 5
@@ -193,13 +200,13 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 
 ## N
 
-- Nakamoto, 1, 4, 6
+- Nakamoto, 1, 4
 - **Neobank**, 1
 - **Neural network**, 7
 - **Node**, 4
-- **Non-fungible token (NFT)**, 6
+- **Non-fungible token (NFT)**, 4
 - **Nonce**, 4
-- NSRC, 2, 6, 7, 8
+- NSRC, 2, 7, 8
 
 ## O
 
@@ -224,16 +231,21 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Phishing**, 8
 - pitchIN, 1, 3
 - **Post-money valuation**, 3
+- **Post-quantum cryptography**, 6
 - **Pre-money valuation**, 3
-- **Private key**, 6
-- Project Dunbar, 2, 4
+- **Private key**, 4
+- Project Dunbar, 2, 4, 6
 - Project mBridge, 2, 4
-- **Proof of stake**, 6
+- **Proof of stake**, 4
 - **Proof of stake (PoS)**, 4
-- **Proof of work**, 6
+- **Proof of work**, 4
 - **Proof of work (PoW)**, 4
-- **Public key**, 6
+- **Public key**, 4
 - **Public-key cryptography**, 4
+
+## Q
+
+- **Quantum computing**, 6
 
 ## R
 
@@ -248,20 +260,21 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - RENTAS, 1, 2, 7, 8
 - **Riba**, 9
 - **Risk profiling**, 5
-- RMiT, 1, 2, 3, 4, 5, 6, 7, 8, 9
+- RMiT, 1, 2, 3, 4, 5, 7, 8, 9
 - **Robo-advisory**, 5
 - Ryt Bank, 1, 2, 7, 9
 
 ## S
 
 - Securities Commission Malaysia, 1, 3, 4, 5, 6, 7, 8, 9
-- **Security token offering (STO)**, 6
-- SemakMule, 6, 7, 8
-- Shariah Advisory Council, 4, 6, 9
+- **Security token offering (STO)**, 4
+- SemakMule, 4, 7, 8
+- **Sensor data**, 6
+- Shariah Advisory Council, 4, 9
 - **Shariah Advisory Council (SAC)**, 9
 - **Shariah-compliant**, 3
 - **Signal**, 5
-- SINEGY, 1, 4, 6
+- SINEGY, 1, 4
 - **Slippage**, 5
 - **Smart contract**, 4
 - **Social engineering**, 8
@@ -276,30 +289,33 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - Tadau Energy, 9
 - **Takaful**, 9
 - **Tawarruq**, 9
-- TerraUSD, 6
-- TerraUSD (UST), 6
+- TerraUSD, 4
+- TerraUSD (UST), 4
 - **Three lines of defence**, 8
 - **Tokenisation**, 4
 - **Tokenised deposit**, 2
-- Tokenize, 1, 4, 6
+- Tokenize, 1, 4
 - Touch 'n Go eWallet, 1, 2, 7
 - **Transaction monitoring**, 7
 
 ## U
 
-- **Unspent transaction output (UTXO)**, 6
+- **Unspent transaction output (UTXO)**, 4
 - **Unsupervised learning**, 7
+- **Usage-based insurance**, 6
 
 ## V
 
 - Value-based Intermediation, 1, 9
 - **Value-based Intermediation (VBI)**, 9
 - VBI, 9
-- Versa, 1, 4, 5, 7
+- Versa, 1, 4, 5, 6, 7
 - **Virtual card**, 2
+- **Virtual reality (VR)**, 6
 
 ## W
 
 - Wahed Invest, 1, 5, 7, 9
 - **Wakalah**, 9
+- **Wearable**, 6
 - World Bank, 1, 2, 3, 7, 8, 9

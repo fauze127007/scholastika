@@ -33,7 +33,7 @@ Each chapter follows a consistent pedagogical structure designed around Bloom's 
 - **Problem-Solving Corner** — worked numerical and scenario problems.
 - **References** — APA 7th edition.
 
-**For lecturers:** each chapter maps to roughly one to two weeks of a 14-week semester. Chapters 1–3 suit the first half (foundations, banking and payments, digital financing); Chapters 4–7 suit the technology core (blockchain, trading and robo-advisory, crypto-assets, AI); Chapters 8–9 close with risk, regulation, ethics and Islamic/sustainable finance — a distinctive Malaysian strength.
+**For lecturers:** the nine chapters follow the revised syllabus sequence. The applied activity in each chapter can be used as a tutorial, lab or formative assessment. The sequence moves from FinTech foundations, through banking and digital finance, into blockchain and digital assets, trading, emerging technology, AI, responsible innovation, and Islamic/sustainable finance.
 
 **For practitioners:** the Case Studies, Malaysian Spotlights and Problem-Solving Corners are self-contained and can be read independently as professional briefings.
 
@@ -53,9 +53,9 @@ Recommended as the main companion text. Published within the last five years, th
 
 2. **Gupta, P., & Tham, T. M. (2019). *Fintech: The new DNA of financial services*. De Gruyter.** — A structured, teaching-oriented treatment of FinTech segments with an Asian perspective; particularly useful for payments, P2P lending and robo-advisory (supports Chapters 1–3 and 5).
 
-3. **Harvey, C. R., Ramachandran, A., & Santoro, J. (2021). *DeFi and the future of finance*. Wiley.** — A Duke University scholar's accessible yet rigorous introduction to decentralised finance; the best single short book for Chapters 4 and 6.
+3. **Harvey, C. R., Ramachandran, A., & Santoro, J. (2021). *DeFi and the future of finance*. Wiley.** — A Duke University scholar's accessible yet rigorous introduction to decentralised finance; useful for Chapters 4 and 6.
 
-4. **Arslanian, H. (2022). *The book of crypto: The complete guide to understanding Bitcoin, cryptocurrencies and digital assets*. Palgrave Macmillan.** — A practitioner-scholar's guide to crypto-assets, tokenisation and institutional adoption (supports Chapter 6).
+4. **Arslanian, H. (2022). *The book of crypto: The complete guide to understanding Bitcoin, cryptocurrencies and digital assets*. Palgrave Macmillan.** — A practitioner-scholar's guide to crypto-assets, tokenisation and institutional adoption (supports Chapter 4).
 
 5. **Oseni, U. A., & Ali, S. N. (Eds.). (2019). *Fintech in Islamic finance: Theory and practice*. Routledge.** — The leading academic treatment of Islamic FinTech, essential for Chapter 9 and for understanding Malaysia's distinctive advantage.
 
@@ -69,32 +69,32 @@ In addition to these textbooks, students should treat the primary sources of **B
 
 ## Table of Contents
 
-**Chapter 1: Introduction to Digital Banking and Financial Technology**
-1.1 Overview of Digital Banking and FinTech · 1.2 Evolution of Financial Services: From FinTech 1.0 to 4.0 · 1.3 The Digital Financial Services Ecosystem and Landscape in Malaysia · 1.4 Key Players and Business Models · 1.5 Benefits and Challenges: Financial Inclusion and Operational Viability
+**Chapter 1: Introduction to Financial Technology**
+1.1 Scope of FinTech and Its Relationship to Digital Banking · 1.2 Evolution of Financial Technology: From Early Digitisation to Platform-Based Finance · 1.3 The Malaysian FinTech Ecosystem and the Roles of Banks, FinTech Firms, Regulators and Payment Operators · 1.4 FinTech Business Models, Customer Needs and Sources of Revenue · 1.5 Benefits, Operating Challenges and Barriers to Financial Inclusion · Applied Activity: Map a Malaysian FinTech Service
 
 **Chapter 2: Digital Banking, Open Banking and Payment Systems**
-2.1 Mobile and Digital Banking Services · 2.2 Digital Customer Journey and e-KYC · 2.3 Open Banking and APIs · 2.4 Digital Payment Systems (QR, Instant Transfer, International) · 2.5 Stablecoins and Central Bank Digital Currencies (CBDCs)
+2.1 Mobile Banking, Licensed Digital Banks and Digital Account Services · 2.2 Digital Customer Journeys, e-KYC, Consent and Verification Exceptions · 2.3 Open Banking, APIs, Permissions and Data Sharing · 2.4 QR Payments, Instant Transfers, E-Wallets and Cross-Border Payments · 2.5 Payment Use Cases for Stablecoins and CBDCs · Applied Activity: Mock Onboarding and Payment Reconciliation
 
 **Chapter 3: Digital Financing, Peer-to-Peer Lending and Crowdfunding**
-3.1 Capital Raising and Digital Financing · 3.2 Peer-to-Peer (P2P) Financing · 3.3 Types of Crowdfunding and Equity Crowdfunding · 3.4 Platform Fees and Financing Costs · 3.5 Risks, Financial Inclusion and Regulatory Considerations
+3.1 Digital Financing and Capital-Raising Options for Individuals and Small Businesses · 3.2 P2P Financing: Issuers, Investors and Platform Operators · 3.3 Donation, Reward and Equity Crowdfunding: ECF Compared with P2P Financing · 3.4 Platform Fees, Repayment Terms and Total Financing Cost · 3.5 Credit and Platform Risks, Disclosure, Inclusion and Malaysian Oversight · Applied Activity: Compare Two Digital Funding Offers
 
-**Chapter 4: Introduction to Blockchain Technology and Applications**
-4.1 Blockchain and Distributed Ledger Technology (DLT) · 4.2 Key Components of Blockchain (Blocks, Transactions, Nodes) · 4.3 Types of Blockchain Networks and Applications · 4.4 Benefits, Limitations and Real-World Uses of Blockchain
+**Chapter 4: Blockchain, Cryptocurrencies and Digital Assets**
+4.1 Blockchain and DLT: Transactions, Blocks, Hashes, Nodes and Consensus · 4.2 Public and Permissioned Networks, Smart Contracts and Financial Uses · 4.3 Bitcoin, Ethereum and Other Cryptoassets: Wallets, Keys, Custody and Transaction Flow · 4.4 Cryptoassets, Stablecoins, Tokenised Deposits and CBDCs Compared · 4.5 Digital Tokens, NFTs, ICOs and STOs · 4.6 DeFi: Introductory Lending and Decentralised Exchange · 4.7 Volatility, Fraud, Custody, Smart-Contract Risk, Due Diligence, Accounting, Tax and Regulation · Applied Activity: Mock Ledger and Digital-Asset Custody
 
-**Chapter 5: Introduction to Algorithmic Trading and Robo-Advisory**
-5.1 Overview of Algorithmic Trading and Automated Trading · 5.2 Trading Strategies and Their Applications · 5.3 Robo-Advisory and Digital Investment Services · 5.4 Benefits, Limitations, Risks and Ethical Considerations
+**Chapter 5: Algorithmic Trading and Robo-Advisory**
+5.1 Algorithmic Trading, Automated Execution, Rules and Data · 5.2 Illustrative Trading Rules: Moving-Average Signals and Historical Tests · 5.3 Robo-Advisory: Risk Profiling, Allocation, Rebalancing and Fees · 5.4 Suitability, Model and Execution Risk, Transaction Costs and Historical-Test Limitations · Applied Activity: Moving-Average Rule and Risk Profile
 
-**Chapter 6: Introduction to Cryptocurrencies and Digital Assets**
-6.1 Bitcoin: Development, Characteristics and Transactions · 6.2 Ethereum, Altcoins and Stablecoins · 6.3 Digital Assets (NFTs, ICOs and STOs) · 6.4 Accounting, Taxation, Regulation and Investment Risks
+**Chapter 6: Future of FinTech**
+6.1 Virtual and Augmented Reality for Financial Education and Customer Engagement · 6.2 Internet of Things and Wearables for Payments and Usage-Based Insurance · 6.3 Quantum Computing: Portfolio Optimisation and Encryption Implications · 6.4 Emerging AI-Enabled Services and DeFi Business Models · 6.5 Adoption Readiness, Customer Value, Accessibility, Privacy and Security · Applied Activity: Compare Two Emerging Technologies
 
-**Chapter 7: Artificial Intelligence and Digital Technologies in Finance**
-7.1 AI and Machine Learning (ML) in Financial Services · 7.2 Applications of AI in Banking and Financial Services · 7.3 Financial Data, Information Systems and Data Analytics · 7.4 Benefits, Limitations and Ethical Considerations of AI
+**Chapter 7: AI, Data and Digital Technologies in Finance**
+7.1 Artificial Intelligence, Machine Learning and Generative AI in Finance · 7.2 AI Use Cases: Credit Scoring, Fraud Detection, Customer Service and Document Processing · 7.3 Financial Data, Data Quality, Information Systems and Spreadsheet Analytics · 7.4 Limits of Automated Outputs: Bias, Verification and Human Review · Applied Activity: Review Synthetic Credit or Fraud Outputs
 
-**Chapter 8: Digital Banking Risk, Regulation and AI Ethics**
-8.1 Key Risks in Digital Banking and FinTech (Cybersecurity, Fraud, Scams) · 8.2 Risk Management in Digital Banking Businesses · 8.3 AI Ethics (Bias, Fairness, Transparency and Accountability) · 8.4 Data Privacy, Consumer Protection and Regulatory Technology (RegTech)
+**Chapter 8: FinTech Risk, Regulation and Responsible Innovation**
+8.1 Cybersecurity, Phishing, Scams, Account Takeover and Operational Risk · 8.2 Preventive Controls, Incident Triage, Evidence Capture and Escalation · 8.3 AI Ethics in Practice: Bias, Fairness, Transparency and Accountability · 8.4 Data Privacy, Consumer Protection, AML Awareness and RegTech · Applied Activity: Scam Response and Escalation Drill
 
-**Chapter 9: Islamic and Sustainable Digital Finance**
-9.1 Islamic Digital Finance and Its Development · 9.2 FinTech Applications in Islamic Banking and Financial Services · 9.3 Shariah-Compliant Digital Investment and Financing · 9.4 Sustainable Finance and Its Role in Digital Finance (Green and Social)
+**Chapter 9: Islamic and Sustainable Digital Finance (Week 14)**
+9.1 Development of Islamic FinTech and Basic Shariah Considerations · 9.2 Islamic Digital Banking, Takaful and Digital Social Finance · 9.3 Shariah-Compliant Digital Investment and Financing · 9.4 Green and Social Finance, Accessible Services and Digital Impact Tracking · Applied Activity: Shariah, Accessibility and Impact Checklist
 
 **End matter:** Master References · Glossary · Index
 
@@ -105,15 +105,15 @@ In addition to these textbooks, students should treat the primary sources of **B
 
 ---
 
-# Chapter 1: Introduction to Digital Banking and Financial Technology
+# Chapter 1: Introduction to Financial Technology
 
 ## Chapter Outline
 
-- 1.1 Overview of Digital Banking and FinTech
-- 1.2 Evolution of Financial Services: From FinTech 1.0 to 4.0
-- 1.3 The Digital Financial Services Ecosystem and Landscape in Malaysia
-- 1.4 Key Players and Business Models
-- 1.5 Benefits and Challenges: Financial Inclusion and Operational Viability
+- 1.1 Scope of FinTech and Its Relationship to Digital Banking
+- 1.2 Evolution of Financial Technology: From Early Digitisation to Platform-Based Finance
+- 1.3 The Malaysian FinTech Ecosystem and the Roles of Banks, FinTech Firms, Regulators and Payment Operators
+- 1.4 FinTech Business Models, Customer Needs and Sources of Revenue
+- 1.5 Benefits, Operating Challenges and Barriers to Financial Inclusion
 
 ## Learning Outcomes
 
@@ -132,7 +132,7 @@ At 7.30 a.m. in Kota Bharu, Kelantan, twenty-year-old diploma student Aina Sofia
 
 None of these services existed in Malaysia when Aina was born. This chapter explains what they are, where they came from, who provides and regulates them in Malaysia, how they make money, and whether they truly make finance fairer for everyone.
 
-## 1.1 Overview of Digital Banking and FinTech
+## 1.1 Scope of FinTech and Its Relationship to Digital Banking
 
 Few pairs of words are used as loosely in business today as "digital banking" and "FinTech". News articles, bank advertisements and even regulators sometimes use them differently. Before we can study the Malaysian landscape, we need precise, citable definitions. This section defines financial technology, separates its two common meanings, defines digital banking, and distinguishes digital banking from online banking and neobanks.
 
@@ -182,7 +182,7 @@ Table 1.1 summarises the distinctions.
 | Malaysian examples | Maybank2u, CIMB Clicks | GXBank, Boost Bank, AEON Bank, KAF Digital Bank, Ryt Bank | The five licensed digital banks are the local equivalent |
 | Global examples | Internet portals of large banks | — | Chime (US), Revolut (UK/EU) |
 
-## 1.2 Evolution of Financial Services: From FinTech 1.0 to 4.0
+## 1.2 Evolution of Financial Technology: From Early Digitisation to Platform-Based Finance
 
 FinTech did not begin with the smartphone. In an influential framework, Arner, Barberis and Buckley (2016) divide the technological evolution of finance into three historical eras — FinTech 1.0, 2.0 and 3.0 (with a 3.5 variant for parts of Asia) — and subsequent literature, notably Gupta and Tham (2019), has extended the story with an emerging FinTech 4.0. Understanding this evolution matters because each era left behind institutions, regulations and habits that still shape Malaysia's financial system today.
 
@@ -235,7 +235,7 @@ A note of caution: eras overlap and labels are debated. FinTech 4.0 is an *emerg
 
 *Sources: Arner et al. (2016); Gupta and Tham (2019); BNM (2025a, 2025b).*
 
-## 1.3 The Digital Financial Services Ecosystem and Landscape in Malaysia
+## 1.3 The Malaysian FinTech Ecosystem and the Roles of Banks, FinTech Firms, Regulators and Payment Operators
 
 A FinTech *ecosystem* is the network of regulators, market operators, industry bodies, infrastructure providers and firms whose interactions produce digital financial services (Lee & Shin, 2018). Malaysia's ecosystem is distinctive in two ways: it is shared between two powerful regulators, and it contains an unusually strong Islamic finance dimension. This section maps the key institutions and market segments.
 
@@ -309,7 +309,7 @@ Behind every tap, scan and transfer lies shared infrastructure operated mainly b
 
 Usage has grown explosively. PayNet processed 8.44 billion digital payment transactions in 2025 (PayNet, 2026). DuitNow QR has also gone regional: cross-border QR payment linkages are live with Thailand, Indonesia, Singapore and China, with Cambodia added in 2025 and India expected in 2026; cross-border QR transactions grew 2.5 times in 2025 (PayNet, 2026). A Malaysian traveller in Bangkok can therefore pay a Thai merchant with the same app used at home — a quiet but remarkable piece of financial diplomacy built on shared rails.
 
-## 1.4 Key Players and Business Models
+## 1.4 FinTech Business Models, Customer Needs and Sources of Revenue
 
 Technology alone does not explain the transformation of finance; equally important is *who* provides the services and *how* they earn revenue. This section identifies five groups of players and examines the business models that sustain them, drawing on Lee and Shin's (2018) analysis of fintech ecosystems and business models.
 
@@ -361,7 +361,7 @@ In practice, successful firms combine several models. A digital bank, for instan
 
 > **🧠 BRAINSTORMER:** If customers expect payments, accounts and transfers to be free, where should a digital bank's profits come from? Would you rather pay visible fees, a subscription, or allow the provider to earn from your data and spending behaviour? What are the trade-offs?
 
-## 1.5 Benefits and Challenges: Financial Inclusion and Operational Viability
+## 1.5 Benefits, Operating Challenges and Barriers to Financial Inclusion
 
 Is the fintech transformation actually good for Malaysians? The honest answer is: mostly yes, with important qualifications. This section weighs the documented benefits — cost efficiency, convenience and financial inclusion — against the challenges of the digital divide, trust, regulation and, especially for new providers, operational viability.
 
@@ -396,6 +396,21 @@ By 2024 the gender gap in Malaysian account ownership had narrowed to less than 
 > **📌 QUICK NOTE:** An asset cap limits the *balance sheet*, not the number of customers. A digital bank can still grow deposits, accounts and fee income beyond the cap's shadow — which is why fee-based business models (Section 1.4.2) matter so much to its survival.
 
 The central policy tension of Malaysian digital banking is now clear: the same licence conditions that push digital banks towards *financial inclusion* (serving small, remote, thin-file customers) make *operational viability* harder, because such customers are costly to serve and generate small balances. Whether Malaysia's digital banks can resolve this tension — through fee income, ecosystem partnerships and disciplined cost control — is one of the most important questions this book will follow.
+
+## Applied Activity: Map a Malaysian FinTech Service
+
+**Purpose:** Identify the providers, infrastructure and regulators involved in a familiar financial service.
+
+Work in pairs and choose one service: paying a shop using DuitNow QR, transferring money using DuitNow, paying an online merchant through FPX, or opening an account with a licensed digital bank.
+
+1. Draw the customer journey from the user's action to the final account entry.
+2. Label the customer-facing provider, any bank or e-money issuer, the payment operator or rail, and the regulator(s).
+3. Mark where customer data, payment instructions and money move. Distinguish the commercial provider from the shared infrastructure.
+4. Identify one customer benefit, one operational dependency and one inclusion barrier.
+
+**Deliverable:** A labelled one-page ecosystem map and a 150-word explanation. Check your map against the provider and regulator roles in Section 1.3.
+
+---
 
 ## Case Study 1.1: Malaysia's Five Digital Banks — The Licensing Journey
 
@@ -668,11 +683,11 @@ Zetzsche, D. A., Buckley, R. P., Arner, D. W., & Barberis, J. N. (2017). *From F
 
 ## Chapter Outline
 
-- **2.1** Mobile and Digital Banking Services
-- **2.2** Digital Customer Journey and e-KYC
-- **2.3** Open Banking and APIs
-- **2.4** Digital Payment Systems (QR, Instant Transfer, International)
-- **2.5** Stablecoins and Central Bank Digital Currencies (CBDCs)
+- 2.1 Mobile Banking, Licensed Digital Banks and Digital Account Services
+- 2.2 Digital Customer Journeys, e-KYC, Consent and Verification Exceptions
+- 2.3 Open Banking, APIs, Permissions and Data Sharing
+- 2.4 QR Payments, Instant Transfers, E-Wallets and Cross-Border Payments
+- 2.5 Payment Use Cases for Stablecoins and CBDCs
 
 ## Learning Outcomes
 
@@ -689,7 +704,7 @@ After studying this chapter, you should be able to:
 
 Aina, 19, is a foundation student at a polytechnic in Johor Bahru. On a Monday morning she downloads a banking app, photographs her MyKad, records a short selfie video, and — fifteen minutes later — her first savings account is approved. A virtual debit card appears in the app instantly; the plastic card arrives by post days later. At the campus canteen she pays for nasi lemak by scanning a DuitNow QR sticker. At lunch she splits the bill with three friends using DuitNow transfers addressed to their mobile numbers — no bank account numbers needed. In the evening she sends RM100 to her grandmother in Mersing, checks the app's spending summary, and moves RM50 into a savings goal. During the semester break, she pays for boat noodles in Bangkok by scanning a Thai QR code with the same Malaysian app. Not once did she visit a branch, fill in a paper form, or handle cash she could not immediately replace. This chapter explains the services, regulations and payment rails that make Aina's ordinary day possible — and the risks that regulators and banks must manage behind the scenes.
 
-## 2.1 Mobile and Digital Banking Services
+## 2.1 Mobile Banking, Licensed Digital Banks and Digital Account Services
 
 ### 2.1.1 From internet banking to mobile-first
 
@@ -739,7 +754,7 @@ The model also carries risks: new institutions must build trust without a physic
 
 > **💡 DID YOU KNOW? (TRIVIA):** When Maybank2u launched in 2000, checking your balance without visiting a branch felt revolutionary. By 2025, Malaysians were making an average of 538 electronic payment transactions each per year (BNM, 2026) — a behavioural revolution in one generation.
 
-## 2.2 Digital Customer Journey and e-KYC
+## 2.2 Digital Customer Journeys, e-KYC, Consent and Verification Exceptions
 
 ### 2.2.1 The digital onboarding funnel
 
@@ -788,9 +803,15 @@ Tiering is the compromise that makes both inclusion and integrity possible. A ba
 
 Money laundering itself — the process of disguising criminal proceeds so they appear legitimate — and terrorism financing harm not only institutions but society: mule accounts opened through weak checks are a key enabler of the scam networks that Malaysian authorities, through bodies such as the National Scam Response Centre (hotline 997), work to disrupt (BNM, 2026).
 
+### 2.2.4 Consent and verification exceptions
+
+Digital onboarding should not treat a failed automated check as proof of fraud. A blurred identity-card image, an outdated phone camera, a transliteration difference in a name, a database outage or an accessibility need may prevent an otherwise legitimate customer from completing the standard flow. The institution should explain what failed in plain language, request only proportionate additional evidence, provide a secure manual-review route, and record the reason for the exception and the reviewer’s decision.
+
+Consent is a separate step from identity verification. Customers should be told what data is collected, why it is needed, whether it will be shared, and how to ask questions or withdraw optional permissions. Consent to use an account service should not be bundled unnecessarily with consent to unrelated marketing. If a mismatch cannot be resolved, the safe action is to pause or escalate under policy — not to weaken identity checks, share credentials through an insecure channel or ask the customer to bypass controls.
+
 > **🧠 BRAINSTORMER:** Tighter identity checks stop criminals, but they also slow down honest customers and can exclude people with damaged documents or old phones. Where should the balance lie — and who should bear the cost when the balance is wrong?
 
-## 2.3 Open Banking and APIs
+## 2.3 Open Banking, APIs, Permissions and Data Sharing
 
 ### 2.3.1 APIs and the idea of open banking
 
@@ -834,7 +855,7 @@ The risks are equally real, and they centre on **consent**. Did the customer gen
 
 > **🧠 BRAINSTORMER:** Would you allow a budgeting app to read all your bank transactions? What would you demand in return — and what would make you withdraw consent later?
 
-## 2.4 Digital Payment Systems (QR, Instant Transfer, International)
+## 2.4 QR Payments, Instant Transfers, E-Wallets and Cross-Border Payments
 
 ### 2.4.1 The rails beneath the apps
 
@@ -880,7 +901,7 @@ Fintech providers attack this cost directly. **MoneyMatch**, a Malaysian cross-b
 
 > **💡 DID YOU KNOW? (TRIVIA):** Malaysia's real-time gross settlement system, RENTAS, has been running since 1999 — older than most of this book's readers. The QR code a hawker displays today ultimately settles on infrastructure that has moved interbank billions for more than two decades (PayNet, 2026).
 
-## 2.5 Stablecoins and Central Bank Digital Currencies (CBDCs)
+## 2.5 Payment Use Cases for Stablecoins and CBDCs
 
 ### 2.5.1 Stablecoins: private digital money
 
@@ -926,6 +947,18 @@ The frontier has also widened beyond CBDCs. BNM's work programme for 2026 includ
 *Table 2.6: Wholesale versus retail CBDC.*
 
 > **🧠 BRAINSTORMER:** Suppose BNM offered every Malaysian a retail digital ringgit tomorrow. Who would benefit most — and who might be harmed? What would happen to commercial-bank deposits if people could hold central-bank money directly?
+
+## Applied Activity: Mock Onboarding and Payment Reconciliation
+
+**Purpose:** Practise a digital customer journey and investigate a failed or duplicate payment without exposing real customer information.
+
+In groups of three, assign the roles of customer, digital-bank onboarding analyst and payment-operations officer. Use fictional identity details only. The customer completes a mock account-opening flow, including identity-document capture, a liveness step, consent choices and a verification exception (for example, a blurred document or name mismatch). The analyst records the evidence requested, the reason for any pause or escalation, and what must not be bypassed.
+
+Next, reconcile this mock statement: a RM38.50 DuitNow QR purchase appears twice, while a RM24.00 FPX purchase shows as debited but the merchant order is marked unpaid. For each item, record the transaction reference, status, amount, time and next safe action. Do not assume that a second payment is required; follow the provider's dispute and trace process.
+
+**Deliverable:** A completed onboarding exception log and payment-reconciliation table. Remove all fictional personal data before submission.
+
+---
 
 ## Case Study 2.1: A Hawker's Journey to Cashless
 
@@ -1182,15 +1215,15 @@ Zetzsche, D. A., Buckley, R. P., Arner, D. W., & Barberis, J. N. (2017). *From F
 
 ---
 
-# Chapter 3: Digital Financing, Peer-to-Peer Lending and Crowdfunding
+# Chapter 3: Digital Financing, P2P Financing and Crowdfunding
 
 ## Chapter Outline
 
-- 3.1 Capital Raising and Digital Financing
-- 3.2 Peer-to-Peer (P2P) Financing
-- 3.3 Types of Crowdfunding and Equity Crowdfunding
-- 3.4 Platform Fees and Financing Costs
-- 3.5 Risks, Financial Inclusion and Regulatory Considerations
+- 3.1 Digital Financing and Capital-Raising Options for Individuals and Small Businesses
+- 3.2 P2P Financing: Issuers, Investors and Platform Operators
+- 3.3 Donation, Reward and Equity Crowdfunding: ECF Compared with P2P Financing
+- 3.4 Platform Fees, Repayment Terms and Total Financing Cost
+- 3.5 Credit and Platform Risks, Disclosure, Inclusion and Malaysian Oversight
 
 ## Learning Outcomes
 
@@ -1211,7 +1244,7 @@ Her bank asks for audited accounts, collateral and a guarantor. Aina has none of
 
 Aina's story shows why digital financing exists — and why it matters to thousands of Malaysian micro, small and medium enterprises. This chapter explains how it works, what it costs, and what can go wrong.
 
-## 3.1 Capital Raising and Digital Financing
+## 3.1 Digital Financing and Capital-Raising Options for Individuals and Small Businesses
 
 Every business needs capital. Money is needed to start a business (seed capital), to buy equipment (capital expenditure) and to pay for daily running costs such as wages, rent and raw materials (working capital). Traditionally, Malaysian businesses raised this money from their own savings, from family and friends, from bank loans or — for larger companies — from issuing shares and bonds. This section explains why that traditional system leaves many small businesses behind, and how digital channels are filling the gap.
 
@@ -1266,7 +1299,7 @@ Malaysia moved early. It was the first country in ASEAN to regulate equity crowd
 
 > **🇲🇾 MALAYSIAN SPOTLIGHT:** The Securities Commission Malaysia, established in 1993, has become one of Asia's most active regulators of alternative finance. Its decision to license P2P and ECF platforms in 2015–2016 — years before many neighbours — helped build a market that by 2025 had supplied more than RM12 billion in cumulative alternative financing to Malaysian MSMEs, much of it to businesses too small for conventional bank credit (SC, 2026).
 
-## 3.2 Peer-to-Peer (P2P) Financing
+## 3.2 P2P Financing: Issuers, Investors and Platform Operators
 
 P2P financing is the larger of Malaysia's two alternative-financing segments and the one most relevant to ordinary small businesses. This section defines the concept, explains how investment notes work, shows how platforms assess credit using alternative data, and presents the Malaysian market in numbers.
 
@@ -1338,7 +1371,7 @@ Registered operators active in Malaysia include Funding Societies, Fundaztic, B2
 
 > **🧠 BRAINSTORMER:** If 98% of P2P campaigns finance working capital, what does that suggest about the *types* of needs banks are still not meeting for Malaysian MSMEs? What might happen to these businesses if P2P platforms suddenly disappeared?
 
-## 3.3 Types of Crowdfunding and Equity Crowdfunding
+## 3.3 Donation, Reward and Equity Crowdfunding: ECF Compared with P2P Financing
 
 P2P financing is, in fact, one member of a larger family: crowdfunding. This section defines the four main types of crowdfunding, then focuses on equity crowdfunding (ECF), the segment in which investors become part-owners of the businesses they back.
 
@@ -1388,7 +1421,7 @@ Three observations follow. First, growth is rapid from a small base: 2025 fundra
 
 > **🧠 BRAINSTORMER:** A social enterprise wants to build recycling centres but will earn only modest profits for its first five years. Which type of crowdfunding — donation, reward, debt or equity — would you recommend, and why? Would your answer change if the founders refused to give up any ownership?
 
-## 3.4 Platform Fees and Financing Costs
+## 3.4 Platform Fees, Repayment Terms and Total Financing Cost
 
 Digital financing is convenient, but it is not free. Platforms charge fees to run their marketplaces, and investors demand returns for bearing risk. This section maps the typical fee structures, shows how to compute the *effective* cost of P2P financing, and explains the different cost logic of equity crowdfunding.
 
@@ -1432,7 +1465,7 @@ ECF has a different cost logic, because there is no debt to repay. Instead, an E
 
 The absence of repayment obligations, however, is a genuine benefit: an ECF-funded company keeps all its cash for growth and owes investors nothing if the plan fails. For high-risk, high-growth ventures, equity is often the *only* sustainable financing — no prudent lender will fund a firm that cannot service debt. Students should therefore resist the question "which is cheaper?" and ask instead "which instrument matches the firm's cash-flow profile and risk?".
 
-## 3.5 Risks, Financial Inclusion and Regulatory Considerations
+## 3.5 Credit and Platform Risks, Disclosure, Inclusion and Malaysian Oversight
 
 Digital financing creates real opportunities, but it also creates new ways to lose money. This final section analyses the main risks, explains how the SC's framework protects investors, introduces Shariah-compliant options, and assesses what digital financing has — and has not — achieved for financial inclusion in Malaysia.
 
@@ -1469,6 +1502,21 @@ The supply of Shariah-compliant digital financing is substantial and growing. In
 Digital financing helps close this credit gap in several ways. Small ticket sizes (62% of 2025 P2P campaigns raised RM50,000 or less) match the needs of micro-businesses; unsecured notes remove the collateral barrier; alternative-data credit scoring serves thin-file applicants; and fully digital journeys reduce travel and paperwork for rural entrepreneurs (SC, 2026). The issuer base confirms the inclusive character of the market: 99% of issuers are non-technology businesses, and 54% come from Selangor and Kuala Lumpur, meaning the other 46% are spread across the rest of the country (SC, 2026). For entrepreneurs in the B40 (bottom 40% income) group — a food-stall operator formalising her business, a village craftsman buying equipment — a successful small campaign can be the first rung on the ladder of formal credit, building a repayment record that unlocks larger facilities later.
 
 Two cautions complete the picture. First, digital financing presupposes digital access and literacy; entrepreneurs without smartphones, connectivity or the skills to prepare an online application may be left further behind. Second, inclusion must not become *over-indebtedness*: easy credit that funds consumption rather than productive investment can harm the very households it is meant to help. Sustainable inclusion pairs access with financial education — which is precisely why you are studying this chapter.
+
+## Applied Activity: Compare Two Digital Funding Offers
+
+**Purpose:** Compare funding offers using total ringgit cost rather than headline rates alone.
+
+A fictional Malaysian food business needs RM20,000 for six months. **Offer A** is a P2P investment note with a 10% simple annual financing return, a one-time platform fee of RM300, and six equal monthly principal instalments; calculate the return using the average outstanding balance as an explicit simplifying assumption. **Offer B** is an alternative digital facility with a 12% simple annual rate on the full RM20,000 for six months and no separate platform fee. Ignore tax and late charges; state that these are hypothetical terms, not market quotations.
+
+1. Calculate the estimated financing charge and total ringgit cost under each offer.
+2. Add any mandatory fees and repayment dates from the offer sheet; do not treat optional services as compulsory.
+3. Compare the monthly cash-flow burden and identify one disclosure question the borrower should ask before signing.
+4. Recommend an offer only after considering affordability, repayment timing and the assumptions used.
+
+**Deliverable:** A one-page comparison table showing formulas, total cost, assumptions and a short recommendation.
+
+---
 
 ## Case Study 3.1: Sri Cahaya Food Products Sdn. Bhd. — Raising RM150,000 Working Capital through a P2P Investment Note
 
@@ -1738,25 +1786,28 @@ Zetzsche, D. A., Buckley, R. P., Arner, D. W., & Barberis, J. N. (2017). *From F
 
 ---
 
-# Chapter 4: Introduction to Blockchain Technology and Applications
+# Chapter 4: Blockchain, Cryptocurrencies and Digital Assets
 
 ## Chapter Outline
 
-- **4.1 Blockchain and Distributed Ledger Technology (DLT)**
-- **4.2 Key Components of Blockchain (Blocks, Transactions, Nodes)**
-- **4.3 Types of Blockchain Networks and Applications**
-- **4.4 Benefits, Limitations and Real-World Uses of Blockchain**
+- 4.1 Blockchain and DLT: Transactions, Blocks, Hashes, Nodes and Consensus
+- 4.2 Public and Permissioned Networks, Smart Contracts and Financial Uses
+- 4.3 Bitcoin, Ethereum and Other Cryptoassets: Wallets, Keys, Custody and Transaction Flow
+- 4.4 Cryptoassets, Stablecoins, Tokenised Deposits and CBDCs Compared
+- 4.5 Digital Tokens, NFTs, ICOs and STOs
+- 4.6 DeFi: Introductory Lending and Decentralised Exchange
+- 4.7 Volatility, Fraud, Custody, Smart-Contract Risk, Due Diligence, Accounting, Tax and Regulation
 
 ## Learning Outcomes
 
-After completing this chapter, you should be able to:
+After studying this chapter, you should be able to:
 
-1. **Define** blockchain and distributed ledger technology (DLT), and state the relationship between them. *(Bloom's level: Remember)*
-2. **Explain** the anatomy of a block, the transaction lifecycle, and the roles of full nodes and light nodes in a blockchain network. *(Bloom's level: Understand)*
-3. **Apply** the logic of hash-linkage and public-key cryptography to reason about tamper-evidence and transaction security. *(Bloom's level: Apply)*
-4. **Differentiate** public, private and consortium blockchain networks, and compare proof-of-work and proof-of-stake consensus mechanisms. *(Bloom's level: Analyse)*
-5. **Evaluate** the benefits and limitations of blockchain technology for financial services, including the scalability trilemma, energy use and regulatory uncertainty. *(Bloom's level: Evaluate)*
-6. **Recommend** an appropriate record-keeping design (blockchain or conventional database) for a given Malaysian business scenario, justifying your choice. *(Bloom's level: Create)*
+1. **Define** blockchain and DLT and identify their main components. *(Bloom's level: Remember)*
+2. **Trace** a mock cryptoasset transaction from wallet signing through network validation and settlement. *(Bloom's level: Understand)*
+3. **Compare** public and permissioned networks, custody models and the roles of stablecoins, tokenised deposits and CBDCs. *(Bloom's level: Analyse)*
+4. **Apply** a basic smart-contract or DeFi example while identifying its assumptions and failure points. *(Bloom's level: Apply)*
+5. **Evaluate** digital-asset volatility, fraud, custody, accounting, tax and Malaysian regulatory risks. *(Bloom's level: Evaluate)*
+6. **Recommend** controls for a digital-asset use case, explaining why a ledger or conventional system is appropriate. *(Bloom's level: Create)*
 
 ## Opening Vignette
 
@@ -1768,7 +1819,8 @@ This chapter answers Mei Lin's questions. By the end, you will understand what b
 
 ---
 
-## 4.1 Blockchain and Distributed Ledger Technology (DLT)
+## 4.1 Blockchain and DLT: Transactions, Blocks, Hashes, Nodes and Consensus
+
 
 ### 4.1.1 Defining Blockchain and DLT
 
@@ -1778,7 +1830,7 @@ A **distributed ledger technology (DLT)** is a digital system for recording tran
 
 A **blockchain** is a specific type of DLT in which transactions are grouped into *blocks*, and each new block is cryptographically linked to the block before it, forming a chronological chain (Nakamoto, 2008). The key idea is captured in the original Bitcoin white paper: a "peer-to-peer electronic cash system" in which transactions are recorded in a chain of blocks secured by cryptographic proof instead of trust in a central intermediary (Nakamoto, 2008).
 
-This leads to an important logical relationship that examiners love to test:
+This leads to an important logical relationship:
 
 - **All blockchains are DLT** — a blockchain is always a shared, replicated ledger.
 - **Not all DLT is blockchain** — some distributed ledgers organise records in other structures (for example, directed graphs or transaction-by-transaction validation) rather than chaining blocks.
@@ -1789,7 +1841,7 @@ Three properties give a blockchain its distinctive character.
 
 **First, the ledger is append-only.** New transactions can be added, but past entries are not edited or deleted. If a mistake is made, it is corrected by adding a *new* reversing entry — similar to how accountants correct errors with adjustment journals rather than erasing figures. Arslanian (2022) describes this as creating an immutable, time-stamped audit trail that any participant can inspect.
 
-**Second, records are cryptographically linked.** Each block contains a digital fingerprint (a *hash*) of the previous block. Because of this linking, altering an old record would break the chain and be immediately visible to every node. We will work through exactly how this functions in Section 4.2 and again in the Problem-Solving Corner.
+**Second, records are cryptographically linked.** Each block contains a digital fingerprint (a *hash*) of the previous block. Because of this linking, altering an old record would break the chain and be immediately visible to every node. We will work through exactly how this functions in this section and again in the Problem-Solving Corner.
 
 **Third, the network reaches agreement by consensus.** Since there is no central administrator, the nodes follow a shared set of rules — a **consensus mechanism** — to decide which new transactions are valid and which version of the ledger is the official one (Nakamoto, 2008). Consensus replaces the role traditionally played by a bank's back office or a clearing house.
 
@@ -1801,7 +1853,7 @@ In October 2008, in the middle of the global financial crisis, a person or group
 
 The Bitcoin design also introduced an unusual monetary policy: the supply of bitcoin is capped at 21 million coins, and the reward paid to the computers that maintain the network is cut in half roughly every four years in an event known as the *halving*. The April 2024 halving reduced the block reward to 3.125 BTC.
 
-The second great leap came from Vitalik Buterin, who proposed Ethereum in a 2014 white paper and launched the network in 2015 (Buterin, 2014). Ethereum generalised Nakamoto's idea: instead of recording only payments, its blockchain could run small programs called *smart contracts* (Section 4.3.2). This opened the door to decentralised applications, token issuance and much of today's digital-asset ecosystem. The years 2017–2018 saw a global boom in initial coin offerings (ICOs), followed by sharp corrections and, later, high-profile failures such as the collapse of the FTX exchange in November 2022 — events that pushed regulators worldwide, including in Malaysia, to build clearer rules (Securities Commission Malaysia [SC], 2024a).
+The second great leap came from Vitalik Buterin, who proposed Ethereum in a 2014 white paper and launched the network in 2015 (Buterin, 2014). Ethereum generalised Nakamoto's idea: instead of recording only payments, its blockchain could run small programs called *smart contracts* (Section 4.2). This opened the door to decentralised applications, token issuance and much of today's digital-asset ecosystem. The years 2017–2018 saw a global boom in initial coin offerings (ICOs), followed by sharp corrections and, later, high-profile failures such as the collapse of the FTX exchange in November 2022 — events that pushed regulators worldwide, including in Malaysia, to build clearer rules (Securities Commission Malaysia [SC], 2024a).
 
 From about 2015 onwards, banks and technology firms began asking whether the *ledger-sharing* idea could be separated from public cryptocurrencies. This produced "enterprise DLT" platforms — private or consortium ledgers designed for institutions that know each other. Central banks joined in: the Bank for International Settlements (BIS) has documented a worldwide wave of central bank digital currency (CBDC) research that builds on DLT concepts (Auer et al., 2020; Bank for International Settlements [BIS], 2021). Malaysia's own Project Dunbar, the case study at the end of this chapter, is part of this story.
 
@@ -1811,11 +1863,9 @@ For Malaysia, this history matters because local regulation evolved in response 
 
 ---
 
-## 4.2 Key Components of Blockchain (Blocks, Transactions, Nodes)
-
 To understand why a blockchain is hard to tamper with, you need to look inside it. This section examines three building blocks of the technology: the blocks themselves, the transactions they contain, and the nodes that maintain the network.
 
-### 4.2.1 Anatomy of a Block
+### 4.1.4 Anatomy of a Block
 
 A **block** is a bundle of validated transactions plus a header of metadata. Think of a page in an accounting ledger: the page lists entries, and the page header carries a page number, a date and a reference to the previous page. Table 4.1 summarises the main fields of a typical block.
 
@@ -1845,12 +1895,12 @@ A **Merkle tree** is a data structure that organises all the transactions in a b
 
 > **📌 QUICK NOTE:** A hash is a *fingerprint*, not an encryption. Encryption is meant to be decrypted later by someone with a key; a hash is one-way and is used purely for checking integrity and identity.
 
-### 4.2.2 The Transaction Lifecycle
+### 4.1.5 The Transaction Lifecycle
 
 Suppose Mei Lin wants to send 0.01 BTC to a supplier. The lifecycle of that transaction in a public blockchain typically runs as follows (Harvey et al., 2021):
 
 1. **Creation.** Mei Lin's wallet software constructs a transaction message: "from my address, to the supplier's address, 0.01 BTC, plus a network fee".
-2. **Digital signature.** The wallet signs the transaction with Mei Lin's *private key*, proving authorisation (see Section 4.2.3).
+2. **Digital signature.** The wallet signs the transaction with Mei Lin's *private key*, proving authorisation (see Section 4.1.7).
 3. **Broadcast.** The signed transaction is sent to the network and spreads from node to node.
 4. **Validation.** Nodes independently check the signature, confirm that Mei Lin's address has enough unspent funds, and confirm the funds have not already been spent elsewhere.
 5. **Inclusion in a block.** A validator (in Bitcoin, a successful miner) bundles the transaction with others into a candidate block.
@@ -1859,7 +1909,7 @@ Suppose Mei Lin wants to send 0.01 BTC to a supplier. The lifecycle of that tran
 
 Compare this with a conventional bank transfer: the bank validates, clears and settles everything internally, and customers simply trust the bank's records. A blockchain distributes those steps across the network, replacing institutional trust with cryptographic proof and economic incentives — what Buterin (2014) called moving from trusted intermediaries to "trustless" execution, meaning users need not trust any single counterparty.
 
-### 4.2.3 Nodes: Full Nodes, Light Nodes, Mining and Validation
+### 4.1.6 Nodes: Full Nodes, Light Nodes, Mining and Validation
 
 A **node** is any computer running the blockchain's software and participating in its network. Not all nodes do the same work.
 
@@ -1870,7 +1920,7 @@ A **node** is any computer running the blockchain's software and participating i
 
 > **💡 DID YOU KNOW? (TRIVIA):** Bitcoin's difficulty adjusts automatically every 2,016 blocks so that, no matter how much computing power joins or leaves the network, blocks keep arriving roughly every ten minutes. When mining power surged over the years, the puzzles simply got harder — a self-regulating feature written into the original code.
 
-### 4.2.4 Public-Key Cryptography and Consensus Mechanisms
+### 4.1.7 Public-Key Cryptography and Consensus Mechanisms
 
 **Public-key cryptography** is the security foundation on which blockchain ownership rests. Each user has a mathematically linked pair of keys: a **private key** (kept secret, like a password that must never be shared) and a **public key** (shared openly, from which a receiving *address* is derived). Data signed with the private key can be verified by anyone using the public key, which proves the owner authorised the transaction without revealing the private key itself (Nakamoto, 2008). Possession of the private key *is* ownership of the coins: lose the key and the funds are unreachable; let someone steal it and the funds are gone. This is why the industry repeats the warning "not your keys, not your coins" — a lesson Malaysian investors should remember when deciding whether to keep assets on an exchange or in self-custody (Arslanian, 2022).
 
@@ -1896,9 +1946,10 @@ In the Malaysian context, consensus design is not an abstract curiosity. Bank Ne
 
 ---
 
-## 4.3 Types of Blockchain Networks and Applications
+## 4.2 Public and Permissioned Networks, Smart Contracts and Financial Uses
 
-### 4.3.1 Public, Private and Consortium Networks
+
+### 4.2.1 Public, Private and Consortium Networks
 
 Not all blockchains are open to everyone. Networks are usually classified by *who may read the ledger* and *who may validate transactions* (Gupta & Tham, 2019).
 
@@ -1912,11 +1963,11 @@ Not all blockchains are open to everyone. Networks are usually classified by *wh
 
 A **public blockchain** such as Bitcoin or Ethereum is open: anyone can download the ledger, create an address and (subject to the consensus rules) participate in validation. Its strengths are openness, neutrality and censorship resistance; its weaknesses are limited throughput, high fees at busy times and energy cost where PoW is used.
 
-A **private blockchain** is run by a single organisation that controls access. It sacrifices decentralisation for speed, privacy and control. Critics note that a private ledger guarded by one company is arguably just a database with extra cryptography — which is why the decision framework in Section 4.4.4 begins by asking whether multiple mutually distrusting parties are involved.
+A **private blockchain** is run by a single organisation that controls access. It sacrifices decentralisation for speed, privacy and control. Critics note that a private ledger guarded by one company is arguably just a database with extra cryptography — which is why the decision framework in Section 4.7.4 begins by asking whether multiple mutually distrusting parties are involved.
 
 A **consortium blockchain** (also called a federated or **permissioned blockchain**) is governed by a group of institutions — for example, a panel of banks — that share validation duties under agreed rules. This middle path is the dominant design in finance, because regulated institutions need known counterparties, data confidentiality and clear accountability. Malaysia's digital-asset rules assume exactly this regulated environment: digital asset exchanges must register with the SC as recognised market operators under the *Guidelines on Recognized Markets* (SC, 2024b).
 
-### 4.3.2 Smart Contracts and Tokenisation
+### 4.2.2 Smart Contracts and Tokenisation
 
 A **smart contract** is a self-executing program stored on a blockchain that automatically carries out the terms of an agreement when predefined conditions are met (Buterin, 2014). The classic analogy is a vending machine: insert the correct payment, and the machine releases the item — no shop assistant needed. In Ethereum's design, smart contracts are code deployed to the blockchain and executed identically by every validating node, so the outcome cannot be quietly altered by either party (Buterin, 2014).
 
@@ -1924,7 +1975,7 @@ Smart contracts enable escrow without an escrow agent, automatic insurance payou
 
 **Tokenisation** is the process of creating a digital token on a blockchain (or other DLT) that represents ownership of, or a claim on, an underlying asset — which may be financial (a bond, a unit in a fund, a deposit) or real-world (property, commodities, carbon credits). Tokenisation promises fractional ownership (you could hold RM1,000 of a RM5 million asset), faster settlement and programmable compliance. Bank Negara Malaysia has taken this seriously: in October 2025 it published a *Discussion Paper on Asset Tokenisation in the Malaysian Financial Sector* to gather industry views on the opportunities and risks of tokenising financial assets in Malaysia (BNM, 2025a). BNM has also signalled work on tokenised deposits and ringgit-denominated stablecoins as part of its 2026 agenda.
 
-### 4.3.3 Applications: Payments, Trade Finance, Supply Chain, Identity, Tokenisation
+### 4.2.3 Applications: Payments, Trade Finance, Supply Chain, Identity, Tokenisation
 
 Blockchain applications in and around financial services cluster into several families (Pompella & Matousek, 2021; Lee & Shin, 2018).
 
@@ -1946,11 +1997,188 @@ Blockchain applications in and around financial services cluster into several fa
 
 ---
 
-## 4.4 Benefits, Limitations and Real-World Uses of Blockchain
+## 4.3 Bitcoin, Ethereum and Other Cryptoassets: Wallets, Keys, Custody and Transaction Flow
+
+
+### 4.3.1 The Nakamoto Whitepaper and the Double-Spending Problem
+
+In October 2008, a person or group using the pseudonym Satoshi Nakamoto published a nine-page whitepaper titled *Bitcoin: A Peer-to-Peer Electronic Cash System* (Nakamoto, 2008). The Bitcoin network itself began operating in January 2009. The whitepaper proposed electronic money that could be transferred directly between users "without going through a financial institution" (Nakamoto, 2008). This was a radical idea, because digital money faces a fundamental technical obstacle known as the **double-spending problem**: since digital information can be copied perfectly, what stops a user from spending the same digital coin twice? In conventional finance, banks solve this problem by maintaining central ledgers and debiting accounts; Bitcoin's innovation was to solve it without any central party.
+
+Bitcoin's solution rests on the **blockchain**, defined as a distributed, append-only ledger of transactions grouped into blocks, where each block is cryptographically linked to the previous one, and identical copies are maintained by thousands of independent computers (nodes) around the world (Arslanian, 2022). Because every node holds the full history, anyone can verify that a coin has not already been spent. Transactions are confirmed through a competitive process called mining (discussed below), and altering past records would require overpowering most of the network's computing power — practically impossible on a large network. This combination of public verifiability and economic incentives is what allows strangers to transact without trusting each other or any intermediary (Nakamoto, 2008).
+
+Key characteristics of Bitcoin include:
+
+- **Decentralisation**: no central bank, company or government issues or controls it.
+- **Fixed supply**: the protocol caps total issuance at 21 million coins.
+- **Borderless and permissionless**: anyone with an internet connection can hold or send bitcoin.
+- **Pseudonymity**: users transact through addresses that are not directly tied to real-world identities (see Section 4.3.4).
+- **Volatility**: its price is determined purely by supply and demand and can move sharply in either direction.
+
+> **📌 QUICK NOTE:** "Bitcoin" with a capital B usually refers to the network and protocol; "bitcoin" with a small b refers to the unit of currency. One bitcoin is divisible into 100 million units called satoshis, so you can buy a tiny fraction — you do not need to purchase a whole coin.
+
+### 4.3.2 The UTXO Model and the Transaction Lifecycle
+
+Unlike a bank account, which stores a single balance, Bitcoin tracks ownership using the **unspent transaction output (UTXO)** model. A UTXO is a discrete, spendable "chunk" of bitcoin recorded on the blockchain — rather like individual notes and coins in a physical wallet. Your wallet balance is simply the sum of all UTXOs that your keys can unlock. When you spend, your wallet selects one or more UTXOs as *inputs*, consumes them entirely, and creates new *outputs*: the payment to the recipient and, usually, a "change" output returning the leftover amount to you (Arslanian, 2022).
+
+**Worked example.** Suppose Aiman's wallet contains two UTXOs worth 0.003 BTC and 0.004 BTC, and he wants to pay Bella 0.005 BTC for a second-hand laptop. His wallet combines both UTXOs (0.007 BTC) as inputs and creates two outputs: 0.005 BTC to Bella's address and 0.0019 BTC back to himself as change, leaving 0.0001 BTC as the transaction fee paid to the miner. Just as you cannot tear a RM10 note in half to pay RM5, a UTXO must be spent in full, with change returned.
+
+The lifecycle of this transaction illustrates how the whole system works:
+
+1. **Creation and signing.** Aiman's wallet software constructs the transaction and signs it with his private key, proving he owns the inputs without revealing the key itself.
+2. **Broadcast.** The signed transaction is broadcast to the peer-to-peer network and enters the *mempool* — a waiting area of unconfirmed transactions held by each node.
+3. **Validation.** Nodes check that the signature is valid and that the inputs have not already been spent (the double-spending check).
+4. **Block inclusion.** Miners assemble pending transactions into a candidate block and race to solve the proof-of-work puzzle; the winner's block, including Aiman's transaction, is added to the chain.
+5. **Confirmation.** Each subsequent block built on top counts as one additional confirmation. Six confirmations is a common convention for considering a payment effectively irreversible.
+
+> **💡 DID YOU KNOW? (TRIVIA):** The first real-world Bitcoin purchase is widely reported to have taken place in May 2010, when a programmer in Florida paid 10,000 BTC for two pizzas. The date, 22 May, is still celebrated by enthusiasts as "Bitcoin Pizza Day" — a striking illustration of how much perceptions of Bitcoin's value have changed.
+
+### 4.3.3 Mining, Proof of Work, the 21 Million Cap and Halvings
+
+**Mining** is the process by which new bitcoins are issued and new blocks of transactions are added to the blockchain. Miners compete to find a valid solution to a computational puzzle, and the winner earns the right to add the next block and claim the block reward (Nakamoto, 2008). The underlying consensus mechanism is called **proof of work (PoW)**, defined as a system in which participants must demonstrate that they have expended real computational effort — and therefore real electricity and hardware costs — before they may add to the shared ledger (Arslanian, 2022). Because cheating is expensive and honest behaviour is rewarded, PoW aligns miners' incentives with the network's security. The difficulty of the puzzle adjusts automatically roughly every two weeks so that, on average, a new block is found about every ten minutes regardless of how many miners join.
+
+New bitcoins enter circulation only through block rewards, on a schedule fixed in the code:
+
+- **21 million cap**: the total number of bitcoins that can ever exist is capped at 21 million, giving the asset a digitally enforced scarcity often compared to gold.
+- **Halvings**: approximately every 210,000 blocks (about four years), the block reward is cut in half. The reward began at 50 BTC in 2009, fell to 25 BTC in 2012, 12.5 BTC in 2016, 6.25 BTC in 2020, and — at the **April 2024 halving** — to **3.125 BTC**. Halvings will continue until the reward becomes negligible, at which point miners will be compensated mainly by transaction fees.
+
+This predictable, slowing issuance schedule is central to the argument made by Bitcoin supporters that it is a "hard" asset. Critics counter that scarcity alone does not guarantee value and that PoW mining consumes very large amounts of electricity, an environmental cost that has attracted sustained debate (Scott, 2022).
+
+> **🧠 BRAINSTORMER:** Bitcoin's proof of work deliberately makes block production costly in energy terms, while newer systems achieve consensus with little energy use. Is high energy consumption an acceptable price for security and neutrality in a monetary network, or an unjustifiable environmental burden? What evidence would you need to decide?
+
+### 4.3.4 Wallets, Keys, Addresses and Pseudonymity
+
+To hold and spend bitcoin you do not store "coins" in a file; you control cryptographic keys that unlock UTXOs on the blockchain. Three linked concepts matter:
+
+- A **private key** is a secret, randomly generated number that proves ownership and authorises spending. Whoever knows the private key controls the funds.
+- A **public key** is mathematically derived from the private key and can be shared safely.
+- An **address** is a shortened, encoded representation derived from the public key — the destination to which others send bitcoin, analogous to a bank account number.
+
+A **wallet** is software or hardware that manages keys and constructs transactions. **Hot wallets** (mobile or desktop apps, exchange accounts) are connected to the internet and convenient but exposed to hacking; **cold wallets** (hardware devices or paper backups kept offline) are safer for larger amounts. The community maxim — "not your keys, not your coins" — captures the risk of leaving assets with a third party, a lesson brutally reinforced by the FTX collapse discussed in Section 4.7.8.
+
+Bitcoin is **pseudonymous**, not anonymous: transactions occur between addresses that do not carry names, but every transaction is permanently public. Blockchain-analysis firms routinely trace flows, and when an address is ever linked to a real identity (for example, when a user onboards at a regulated exchange), the entire history of that address can become attributable. This matters for both crime-fighting and privacy, and it explains why regulated exchanges — including those in Malaysia — can and do perform identity checks.
+
+> **📌 QUICK NOTE:** A private key cannot be "reset" like a banking password. If you lose the only copy of your private key or recovery phrase, the bitcoin it controls is permanently inaccessible. Estimates commonly cited in the industry suggest millions of bitcoins may already be lost this way.
+
+---
+
+### 4.3.5 Ethereum and Smart Contracts
+
+Bitcoin proved that decentralised money is possible, but its scripting capabilities are deliberately limited. In late 2013 and early 2014, programmer Vitalik Buterin proposed a more general platform in the whitepaper *Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform* (Buterin, 2014). The Ethereum network launched in 2015. Its native currency, ether (ETH), pays for computation on the platform.
+
+The central innovation is the **smart contract**, defined as a self-executing programme stored on a blockchain that automatically carries out the terms of an agreement when coded conditions are met, without needing an intermediary (Buterin, 2014). A simple analogy is a vending machine: insert the correct payment and the machine automatically dispenses the item — no cashier required. On Ethereum, developers can build decentralised applications (dApps) for lending, trading, gaming, record-keeping and much more, all running on a shared, tamper-resistant world computer.
+
+Every operation on Ethereum consumes **gas**, defined as the unit measuring computational work on the network; users pay gas fees in ether, which compensates validators and prevents spam by making computation costly (Buterin, 2014). When the network is congested, gas fees rise — an important practical limitation of public blockchains.
+
+### 4.3.6 The Merge: From Proof of Work to Proof of Stake
+
+Ethereum originally used proof of work, but in **September 2022** it completed "The Merge", switching its consensus mechanism to **proof of stake (PoS)**. Under PoS, defined as a consensus mechanism in which validators are selected to propose and confirm blocks based on the amount of cryptocurrency they lock up ("stake") as collateral, with dishonest behaviour punished by destruction of part of that stake (Harvey et al., 2021). Because PoS does not require an energy-intensive computing race, The Merge eliminated the vast majority of Ethereum's electricity consumption overnight — a landmark event in blockchain history. Table 4.4 summarises the contrast.
+
+**Table 4.4: Proof of Work vs Proof of Stake**
+
+| Aspect | Proof of Work (Bitcoin) | Proof of Stake (Ethereum) |
+|---|---|---|
+| Who adds blocks | Miners solving puzzles | Validators staking coins |
+| Cost of attacking | Computing power and electricity | Acquiring and risking a huge stake |
+| Energy use | Very high | Very low |
+| Penalty for cheating | Wasted energy ("slashing" of sunk costs) | Direct destruction of staked funds |
+| Hardware | Specialised mining machines | Ordinary servers |
+
+> **💡 DID YOU KNOW? (TRIVIA):** The Merge was executed while the Ethereum network kept running — developers compared it to swapping an aeroplane's engine mid-flight. After the switch, Ethereum no longer needed miners at all, and its energy use became a small fraction of its former level.
+
+### 4.3.7 Categories of Altcoins
+
+Any cryptocurrency other than bitcoin is commonly called an **altcoin** ("alternative coin"). Thousands exist; most are small, illiquid and speculative. Textbook categories include:
+
+- **Platform coins** (e.g., ether): fuel for smart-contract platforms.
+- **Payment coins**: aimed at faster or cheaper transfers than Bitcoin.
+- **Utility tokens**: provide access to a specific application's services.
+- **Governance tokens**: confer voting rights over a protocol's future development.
+- **Meme coins**: created as jokes or community experiments, with value driven almost entirely by social-media sentiment.
+- **Stablecoins**: tokens engineered to hold a steady price (Section 4.4.1).
+
+Students should note that the vast majority of altcoins have failed or lost nearly all their value; survival rates are poor, and marketing claims often far exceed technical substance (Arslanian, 2022).
+
+## 4.4 Cryptoassets, Stablecoins, Tokenised Deposits and CBDCs Compared
+
+The word *digital money* can describe instruments with very different issuers, legal claims and settlement arrangements. A **cryptoasset** such as bitcoin is not a claim on a bank or central bank. A **stablecoin** is a privately issued token designed to track a reference asset, commonly a currency; the holder depends on the issuer, reserve assets, redemption arrangements and the technology used. A **tokenised deposit** represents a commercial-bank deposit through a digital token or ledger interface; the underlying claim remains a deposit liability of the bank, subject to the applicable legal and regulatory framework. A **central bank digital currency (CBDC)** is a digital form of central-bank money and a direct liability of the central bank (Auer et al., 2020).
+
+| Instrument | Typical issuer or liability | What the holder relies on | Introductory example |
+|---|---|---|---|
+| Cryptoasset | Network protocol; not a bank deposit | Network rules, private-key control and market demand | Bitcoin |
+| Stablecoin | Private issuer or protocol | Reserve quality, redemption, issuer governance and peg mechanism | Fiat-backed stablecoin |
+| Tokenised deposit | Commercial bank | Bank's deposit obligation, account terms and token controls | A bank's tokenised deposit pilot |
+| CBDC | Central bank | Central bank's direct monetary liability and design rules | Wholesale CBDC explored for settlement |
+
+These categories are not interchangeable. In particular, a stablecoin is not automatically equivalent to a bank deposit, and a CBDC is not simply a government-branded cryptocurrency. Bank Negara Malaysia has explored wholesale CBDC applications and tokenisation; this research should not be mistaken for a decision to issue a retail digital ringgit (BNM, 2022; BIS Innovation Hub, 2021).
+
+### 4.4.1 Stablecoins and Peg Risk
+
+
+Because bitcoin's price swings make it awkward as everyday money, **stablecoins** emerged — tokens designed to maintain a stable value, usually pegged one-to-one to a currency such as the US dollar (Harvey et al., 2021). Three designs dominate:
+
+1. **Fiat-backed stablecoins** (e.g., Tether's USDT, Circle's USDC): the issuer holds reserves — bank deposits, short-term government securities — intended to back every token 1:1. Stability depends on the quality and transparency of those reserves.
+2. **Crypto-backed stablecoins** (e.g., DAI): users lock up crypto collateral worth more than the stablecoins issued (over-collateralisation), with automatic liquidation if collateral value falls.
+3. **Algorithmic stablecoins**: software expands or contracts token supply to defend the peg, often with a linked, freely floating sister token absorbing volatility — with no hard reserves at all.
+
+The cautionary textbook example is **TerraUSD (UST)**, an algorithmic stablecoin that collapsed in May 2022. UST maintained its US$1 peg through an arbitrage link with its sister token LUNA. When heavy redemptions shook confidence, the mechanism spiralled: UST lost its peg, LUNA hyperinflated into worthlessness, and tens of billions of US dollars in market value evaporated within days. The lesson is fundamental: an algorithmic peg is only confidence in code, and confidence can vanish. Fiat-backed stablecoins are sturdier but still carry reserve, redemption and regulatory risks.
+
+> **🧠 BRAINSTORMER:** A stablecoin promises "1 token = US$1, always". What questions would you ask about the issuer before trusting that promise with your savings? How do your questions differ for a fiat-backed versus an algorithmic design?
+
+## 4.5 Digital Tokens, NFTs, ICOs and STOs
+
+
+### 4.5.1 Fungible and Non-Fungible Tokens
+
+A **fungible** asset is one whose units are identical and interchangeable: one ringgit equals any other ringgit, one bitcoin equals any other bitcoin. A **non-fungible token (NFT)** is defined as a unique digital token recorded on a blockchain that represents ownership of, or a claim linked to, a specific digital or physical item and cannot be exchanged one-for-one with another token of the same type (Arslanian, 2022). NFTs are typically minted on smart-contract platforms; the token records provenance (who created and owned it) and transfers automatically with each sale.
+
+Use cases include digital art and collectibles, in-game items, event tickets, membership passes and experiments in certifying ownership of physical assets. A crucial subtlety: buying an NFT generally purchases the *token* and whatever rights its terms grant — it does not automatically transfer copyright in the underlying artwork. NFT markets boomed spectacularly in 2021 and then contracted sharply; many collections lost most of their value, illustrating extreme speculative risk and thin liquidity.
+
+### 4.5.2 The ICO Boom of 2017–2018 and Its Failures
+
+An **initial coin offering (ICO)** is a fundraising method in which a project sells newly created digital tokens directly to the public, often before any product exists (Arslanian, 2022). ICOs exploded in 2017–2018, when projects worldwide raised billions of US dollars, frequently from retail buyers, on the strength of little more than a whitepaper and a website. The boom ended badly. A large share of projects were abandoned, delivered nothing, or were outright frauds — plagiarised whitepapers, fake teams, "exit scams" in which founders vanished with the funds. Because most ICOs bypassed securities laws, aggrieved investors had almost no legal recourse. Regulators worldwide responded by clarifying that most tokens sold to raise funds are, in substance, securities and fall under existing capital-markets law (Zetzsche et al., 2017). The ICO episode remains the canonical lesson in why disclosure rules and gatekeepers exist.
+
+### 4.5.3 STOs, IEOs and Tokenised Securities
+
+A **security token offering (STO)** is defined as the regulated issuance of blockchain-based tokens that represent legally recognised securities — for example, shares, bonds or units in an investment fund — subject to securities law, disclosure duties and investor-protection rules (Pompella & Matousek, 2021). Unlike ICO tokens, security tokens deliberately embrace regulation. **Tokenisation** more broadly means representing a real-world asset as a digital token on a blockchain, potentially enabling fractional ownership (a small investor could hold RM1,000 of a commercial building) and faster settlement. Interest in asset tokenisation is growing among regulators globally; Bank Negara Malaysia (BNM) issued a discussion paper on asset tokenisation in the Malaysian financial sector in October 2025 (Bank Negara Malaysia [BNM], 2025).
+
+An **initial exchange offering (IEO)** is a token sale conducted through a digital asset exchange, which performs due diligence and lists the token — a structure that Malaysia chose as its regulated route for token fundraising (Securities Commission Malaysia [SC], 2024).
+
+> **🇲🇾 MALAYSIAN SPOTLIGHT:** Malaysia was an early mover in regulating digital assets. The Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019, effective 15 January 2019, prescribed digital currencies and digital tokens as *securities* under Malaysian law, bringing them inside the Securities Commission Malaysia's jurisdiction under the Capital Markets and Services Act 2007. The SC's *Guidelines on Digital Assets* — first issued on 28 October 2020 under section 377 of that Act and revised on 19 August 2024 — now govern digital token offerings and the IEO operators that conduct them, while digital asset exchanges are registered as recognised market operators under the *Guidelines on Recognized Markets* (SC, 2024).
+
+### 4.5.4 Malaysia's Digital Asset Framework: DAXs, Shariah and Legal Status
+
+Malaysia's approach combines permission with guardrails. Key elements:
+
+- **Registered exchanges.** Only digital asset exchanges (DAXs) registered with the SC may operate in Malaysia. The registered list, updated regularly, has included **Luno Malaysia, SINEGY Technologies, Tokenize Technology and Hata Digital**. Registered DAXs must meet requirements on governance, custody, cybersecurity and market conduct as recognised market operators (SC, 2024).
+- **Securities status.** Digital currencies and tokens are prescribed as securities under the 2019 Prescription Order, so capital-markets law applies to offerings and trading.
+- **Not legal tender.** Cryptocurrency is **not legal tender** in Malaysia: no one is obliged to accept it as payment, and it is not issued or guaranteed by Bank Negara Malaysia. The ringgit remains the only legal tender.
+- **Shariah position.** In 2020 the SC's Shariah Advisory Council (SAC) resolved that digital assets may be recognised as **mal** (property) from a Shariah perspective, and that trading them on SC-registered DAXs is permissible, subject to conditions — a landmark ruling that opened the door for Muslim investors to participate within a regulated environment (Oseni & Ali, 2019, provide broader context on fintech in Islamic finance).
+- **AML/CFT.** DAXs are reporting institutions under the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (AMLA), and must conduct customer due diligence and report suspicious transactions.
+
+This framework explains why Aina, in our opening vignette, could verify her identity and buy Bitcoin on a regulated platform — and also why nobody in Malaysia is required to accept her bitcoin as payment for teh tarik.
+
+> **📌 QUICK NOTE:** "Regulated" does not mean "risk-free". SC registration imposes conduct and security duties on the exchange; it does not guarantee the price of any digital asset, insure your holdings, or compensate you if prices crash or if you fall for a scam.
+
+---
+
+## 4.6 DeFi: Introductory Lending and Decentralised Exchange
+
+### 4.6.1 Decentralised Finance (DeFi): An Overview
+
+**Decentralised finance (DeFi)** is defined as an ecosystem of financial applications built on public blockchains — chiefly Ethereum — that replicate services such as lending, borrowing, trading and derivatives through smart contracts rather than through banks or brokers (Harvey et al., 2021). Core building blocks include decentralised exchanges that match trades via automated market-maker pools instead of order books; lending protocols that algorithmically set interest rates; and "yield farming", where users move funds between protocols chasing returns.
+
+DeFi promises open access (anyone with a wallet can participate), transparency (code and balances are public) and composability (protocols snap together like building blocks). The risks, however, are severe: smart-contract bugs and exploits, oracle failures, extreme leverage, anonymous developers, scams, and an almost complete absence of consumer protection or recourse (Harvey et al., 2021). For Malaysian retail investors, DeFi platforms operate outside the Securities Commission Malaysia's regulatory perimeter, meaning losses are typically unrecoverable.
+
+> **📌 QUICK NOTE:** "Decentralised" describes an aspiration, not always a fact. Many DeFi projects depend on small founding teams, centralised admin keys or a handful of large token holders. Always check who can actually change the rules or freeze the system.
+
+---
+
+## 4.7 Volatility, Fraud, Custody, Smart-Contract Risk, Due Diligence, Accounting, Tax and Regulation
+
 
 Balanced judgement requires looking at both sides of the ledger, so to speak. Blockchain is neither magic nor fraud; it is a tool with specific strengths and specific costs.
 
-### 4.4.1 Benefits
+### 4.7.1 Benefits
 
 **Immutability.** Once data is buried under subsequent blocks, altering it is computationally and economically impractical on a well-secured network. This gives blockchains their value as tamper-evident audit trails (Arslanian, 2022).
 
@@ -1960,7 +2188,7 @@ Balanced judgement requires looking at both sides of the ledger, so to speak. Bl
 
 **Programmability and resilience.** Smart contracts automate conditional payments, while replication across many nodes removes single points of failure — a property relevant to operational-resilience rules for financial institutions such as BNM's Risk Management in Technology (RMiT) requirements (BNM, 2025b).
 
-### 4.4.2 Limitations and Risks
+### 4.7.2 Limitations and Risks
 
 **The scalability trilemma.** A widely discussed design constraint holds that a blockchain can optimise only two of three properties — decentralisation, security and scalability — at once (Harvey et al., 2021). Bitcoin is highly decentralised and secure but processes only a handful of transactions per second, whereas conventional payment networks handle thousands. For perspective, Malaysia's own national payment infrastructure is vast: Payments Network Malaysia (PayNet) processed 8.44 billion digital payment transactions in 2025 — a workload far beyond any current public blockchain (Payments Network Malaysia, 2026).
 
@@ -1974,7 +2202,7 @@ Balanced judgement requires looking at both sides of the ledger, so to speak. Bl
 
 > **📌 QUICK NOTE:** Immutability is a double-edged sword. If you send funds to a wrong address, or a scammer's address, no bank manager can reverse the transaction. This is why Malaysia's anti-scam defences — such as the National Scam Response Centre hotline 997 — focus on the *banking* side of transfers, where reversal is still possible.
 
-### 4.4.3 Real-World Uses Relevant to Malaysia
+### 4.7.3 Real-World Uses Relevant to Malaysia
 
 **Multi-CBDC platforms.** Project Dunbar (2021), examined in the case study below, prototyped a shared platform on which multiple central bank digital currencies could be exchanged directly between commercial banks across borders (BIS Innovation Hub, 2021). Its successor in spirit, Project mBridge, reached minimum-viable-product stage in 2024, with BNM participating. BNM's Financial Sector Blueprint 2022–2026 commits to a multi-year, three-phase CBDC exploration — wholesale cross-border first, full-scale wholesale next, and retail consideration last — and BNM has run wholesale digital ringgit proof-of-concept trials, while emphasising that no decision has been made to issue a retail CBDC (BNM, 2022).
 
@@ -1984,7 +2212,7 @@ Balanced judgement requires looking at both sides of the ledger, so to speak. Bl
 
 **Digital asset markets.** Domestically, registered DAXs and IEO operators provide regulated venues for trading and fundraising with digital tokens (SC, 2024a, 2024b) — evidence that, in Malaysia, blockchain finance grows *inside* the regulatory perimeter.
 
-### 4.4.4 When to Use Blockchain: A Decision Framework
+### 4.7.4 When to Use Blockchain: A Decision Framework
 
 Given the costs, students should resist "blockchain for everything". Ask these questions in order:
 
@@ -1995,6 +2223,67 @@ Given the costs, students should resist "blockchain for everything". Ask these q
 5. **Do throughput, privacy and governance constraints fit a public, consortium or private design?** Match the network type to the trust model (Table 4.3).
 
 Rule of thumb: *blockchain earns its keep when many writers share one ledger, trust is limited, and tamper-evidence matters more than raw speed.* Otherwise, use a database — and spend the savings elsewhere.
+
+---
+
+
+### 4.7.5 The IFRS Accounting Gap
+
+How should a company account for cryptocurrency holdings? International Financial Reporting Standards (IFRS) contain **no standard written specifically for cryptoassets**, a gap much discussed in the accounting literature (Arslanian, 2022). Because cryptocurrencies generally fail the definitions of cash (they are not legal tender issued by a government) and of financial assets (holding bitcoin gives no contractual right to receive cash from another party), holdings are commonly fitted, imperfectly, into two existing standards:
+
+- **IAS 38 Intangible Assets**: the default treatment for many corporate holders — the crypto is an intangible asset, typically held at cost less impairment, which means price falls are recognised but subsequent recoveries are not written back up (an asymmetric result many consider misleading).
+- **IAS 2 Inventories**: applicable where the entity is a broker-trader holding crypto for sale in the ordinary course of business, which permits measurement at fair value less costs to sell with changes recognised in profit or loss.
+
+The takeaway for accounting students like Aina: classification depends on the holder's business model, measurement choices significantly affect reported profit, and the standard-setters' project pipeline should be watched for a dedicated standard. Professional judgement and clear disclosure are essential meanwhile.
+
+### 4.7.6 Malaysian Income-Tax Principles
+
+Malaysia has no crypto-specific tax statute, so general principles of the Income Tax Act 1967 apply. The widely accepted general principle — which you should treat as indicative rather than as tax advice — is:
+
+- **Revenue (taxable) treatment** may apply where trading is frequent, organised and business-like: repeated buying and selling, short holding periods, an intention to profit from trading. In such cases gains may constitute business income taxable at the taxpayer's marginal rate.
+- **Capital (generally not taxable) treatment**: Malaysia does not levy a general capital gains tax, so an individual's *occasional* disposals of long-held digital assets have generally not been taxed.
+
+The line between the two is a question of fact (the traditional "badges of trade" analysis), outcomes depend on individual circumstances, and practice continues to evolve — anyone with significant activity should obtain professional advice. Businesses accepting crypto as payment must also keep proper records of ringgit values at transaction dates.
+
+### 4.7.7 AMLA and the FATF Travel Rule
+
+Digital assets attract anti-money-laundering scrutiny because value can move globally, pseudonymously and quickly. Malaysia's principal statute is **AMLA 2001**, under which regulated intermediaries — including registered DAXs — must identify customers, keep records and file suspicious transaction reports (Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001). Internationally, the Financial Action Task Force (FATF) — the global standard-setter for AML/CFT — extended its **travel rule** to virtual assets: the requirement that identifying information about the originator and beneficiary of a transfer must "travel" with the transaction between service providers, mirroring the long-standing rule for wire transfers (Financial Action Task Force [FATF], 2021). For students, the practical consequences are exactly what Aina experienced: mandatory identity verification at onboarding, screening of transfers, and possible requests for the source of funds.
+
+### 4.7.8 Investment Risks: Volatility, Hacks, Scams and FTX
+
+Digital assets are among the riskiest assets a retail investor can buy. The principal risks:
+
+1. **Volatility.** Bitcoin has repeatedly fallen 50% or more from peaks; smaller tokens fare worse. Prices can gap violently overnight — crypto trades 24/7, so there is no closing bell to halt a rout.
+2. **Exchange hacks and failures.** Numerous platforms worldwide have been hacked or have failed. The defining case is **FTX**, once one of the world's largest crypto exchanges, which collapsed in **November 2022** amid revelations that customer funds had been misused by its affiliated trading firm; millions of customers became unsecured creditors in a lengthy bankruptcy. The lessons: an exchange's size and celebrity endorsements are no guarantee; leaving assets on any platform creates counterparty risk; and segregated custody, proof of reserves and strong regulation matter.
+3. **Scams.** Fake investment schemes, "pig-butchering" romance scams, phishing of recovery phrases and impersonation of regulators are rampant. In Malaysia, the **National Scam Response Centre (hotline 997)** can rapidly act on scam-linked bank transfers, and PDRM's **SemakMule** portal lets the public check bank account and phone numbers linked to mule accounts — but funds already converted to crypto are very hard to recover.
+4. **No safety nets.** Cryptocurrency holdings are not deposits: they carry no deposit insurance, no investor compensation scheme, and — since crypto is not legal tender — no central-bank backing.
+5. **Self-custody risk.** Holding your own keys removes exchange counterparty risk but makes *you* the single point of failure; lost keys mean lost funds.
+
+> **💡 DID YOU KNOW? (TRIVIA):** When FTX collapsed in November 2022, customers worldwide discovered they were treated as unsecured creditors — meaning they queued behind other claimants for whatever the bankruptcy estate could recover, rather than simply withdrawing "their" coins. The episode is now a standard case study in counterparty risk.
+
+> **🧠 BRAINSTORMER:** If a friend said, "Crypto is regulated in Malaysia now, so it must be safe," how would you respond? Distinguish between regulation of the *intermediary* and protection of the *investment*.
+
+**Investor-protection takeaways** for Malaysian retail investors: use only SC-registered DAXs; invest only what you can afford to lose entirely; beware of any "guaranteed return"; enable all available security features; consider moving significant long-term holdings to a well-understood cold wallet; keep records for tax purposes; and treat social-media hype as a warning sign, not research.
+
+---
+
+## Applied Activity: Mock Ledger and Digital-Asset Custody
+
+**Purpose:** Trace a transaction and compare custody and settlement risks across digital assets.
+
+Use this mock ledger. The hash labels are symbolic teaching values, not real cryptographic hashes. Initial balances are Nadi RM5.00, Firdaus RM0.00 and Mei RM0.00.
+
+| Block | Transaction | Stored hash | Previous-hash |
+|---|---|---|---|
+| 1 | Nadi pays Firdaus RM2.00 | A1 | GENESIS |
+| 2 | Firdaus pays Mei RM1.50 | B2 | A1 |
+| 3 | Mei pays Nadi RM0.50 | C3 | B2 |
+
+Verify each transaction against the running balances and check each previous-hash link. Then suppose the record in Block 2 is changed to say Firdaus paid Mei RM2.50 while the stored hash remains B2. Identify both validation problems and explain what must change in Block 3's previous-hash field if Block 2 is recalculated.
+
+Then compare three hypothetical holdings: (A) bitcoin held with an SC-registered Malaysian digital asset exchange, (B) a fiat-backed stablecoin held in a self-custody wallet, and (C) a tokenised bank deposit held through a fictional regulated bank service. For each, identify who controls the private keys or account, what claim the holder has, how settlement occurs, and one failure or recovery risk. Do not infer that registration guarantees investment value or eliminates loss.
+
+**Deliverable:** A validated ledger trace plus a three-row custody and settlement comparison. Cite at least one Malaysian regulatory source in your conclusion.
 
 ---
 
@@ -2019,18 +2308,17 @@ The project was led by the BIS Innovation Hub together with Bank Negara Malaysia
 
 ## Chapter Summary
 
-- **4.1:** Distributed ledger technology is a shared, replicated ledger maintained across many nodes; a blockchain is a *type* of DLT that groups transactions into cryptographically linked blocks (Nakamoto, 2008).
-- **4.1:** Three properties define a blockchain: an append-only ledger, cryptographic linking of blocks, and agreement by a consensus mechanism.
-- **4.1:** Blockchain history runs from Nakamoto's 2008 white paper and Bitcoin's 2009 launch, through Ethereum's smart contracts (Buterin, 2014), to enterprise DLT and central bank experiments.
-- **4.2:** A block contains a header (hash, previous-hash, timestamp, nonce, Merkle root) and a transaction list; previous-hash linkage makes tampering evident.
-- **4.2:** Transactions move through creation, signing, broadcast, validation, block inclusion and confirmation; finality grows as blocks accumulate.
-- **4.2:** Full nodes store and verify everything; light nodes verify specific transactions with Merkle proofs. Public-key cryptography ties ownership to a secret private key.
-- **4.2:** Proof of work secures by expending energy; proof of stake secures by bonding capital. Ethereum's September 2022 Merge moved the second-largest chain from PoW to PoS.
-- **4.3:** Networks may be public, private or consortium; financial applications favour permissioned consortium designs with known validators.
-- **4.3:** Smart contracts are self-executing blockchain programs; tokenisation represents assets as on-chain tokens, the subject of BNM's 2025 discussion paper.
-- **4.3:** Malaysia regulates digital assets as securities under the 2019 Prescription Order, with SC guidelines governing DAXs and IEO operators; crypto is not legal tender.
-- **4.4:** Benefits include immutability, transparency and reduced reliance on intermediaries; limitations include the scalability trilemma, PoW energy use, regulatory uncertainty, 51% attacks and the oracle problem.
-- **4.4:** Real-world uses relevant to Malaysia include Project Dunbar and mBridge, trade-finance networks, halal supply-chain provenance and regulated digital-asset markets; the decision framework shows when blockchain beats a database.
+- Blockchain is one form of DLT; it groups transactions into cryptographically linked blocks and uses consensus to update a shared record.
+- Transactions are signed with private keys, checked by network participants and recorded according to the network's validation rules.
+- Public and permissioned networks make different choices about access, governance, privacy and settlement.
+- Smart contracts automate programmed actions but do not remove legal, security or operational risk.
+- Bitcoin, Ethereum and other cryptoassets differ from stablecoins, tokenised deposits and CBDCs in issuer, holder claim and settlement arrangements.
+- NFTs, ICOs and STOs represent different token structures and fundraising approaches; their legal status depends on substance and jurisdiction.
+- DeFi lending and decentralised exchanges use smart contracts to automate financial interactions but introduce code, liquidity, oracle and governance risks.
+- Digital-asset users must consider volatility, fraud, custody, private-key loss, exchange controls, accounting, taxation and Malaysian regulation.
+- Exchange registration is not a guarantee of value or protection against market losses.
+- A blockchain should be selected only where shared verification and governance advantages justify its cost and complexity.
+
 
 ## Key Terms
 
@@ -2052,6 +2340,24 @@ The project was led by the BIS Innovation Hub together with Bank Negara Malaysia
 - **Permissioned blockchain**: a network in which read and/or validation rights are restricted to approved participants, covering private and consortium designs.
 - **51% attack**: an attack in which one actor controls the majority of a network's mining power or stake, enabling it to rewrite recent history and double-spend.
 - **Oracle problem**: the limitation that blockchains cannot verify off-chain, real-world facts, so smart contracts must rely on trusted external data feeds called oracles.
+- **Bitcoin**: the first decentralised cryptocurrency, proposed by Satoshi Nakamoto in 2008 and launched in 2009, enabling peer-to-peer value transfer without intermediaries.
+- **Blockchain**: a distributed, append-only ledger of transaction blocks, cryptographically linked and replicated across many independent computers.
+- **Double-spending problem**: the risk that digital money, being copyable, is spent more than once; blockchains solve it without a central ledger-keeper.
+- **Unspent transaction output (UTXO)**: a discrete, spendable chunk of cryptocurrency recorded on the blockchain, consumed entirely as an input when spent, with any remainder returned as change.
+- **Proof of work**: a consensus mechanism requiring participants to expend computational effort to add blocks, making attacks economically costly.
+- **Mining**: the competitive process of validating transactions and adding blocks to a proof-of-work blockchain in return for block rewards and fees.
+- **Halving**: the programmed reduction, roughly every four years, of Bitcoin's block reward by half; the April 2024 halving cut it to 3.125 BTC.
+- **Private key**: a secret cryptographic number that proves ownership of cryptocurrency and authorises spending; losing it means losing the funds permanently.
+- **Public key**: a cryptographic value derived from a private key, used to generate receiving addresses; safe to share.
+- **Smart contract**: a self-executing programme on a blockchain that automatically enforces agreed terms when coded conditions are met.
+- **Gas**: the unit measuring computational work on Ethereum, paid in ether, which compensates validators and deters spam.
+- **Proof of stake**: a consensus mechanism where validators lock up cryptocurrency as collateral to propose and confirm blocks, with dishonesty punished by slashing.
+- **Altcoin**: any cryptocurrency other than bitcoin, spanning platform, payment, utility, governance, meme and stablecoin categories.
+- **Stablecoin**: a digital token engineered to hold a stable price, typically pegged to a fiat currency, via reserves, over-collateralisation or algorithms.
+- **Decentralised finance (DeFi)**: an ecosystem of blockchain-based applications that provide lending, trading and other financial services through smart contracts without intermediaries.
+- **Non-fungible token (NFT)**: a unique blockchain token representing a specific item, not interchangeable one-for-one with other tokens.
+- **Initial coin offering (ICO)**: a largely unregulated public sale of newly created tokens to raise funds, notorious for failures and fraud during 2017–2018.
+- **Security token offering (STO)**: a regulated issuance of blockchain tokens representing legally recognised securities, subject to securities law and disclosure requirements.
 
 ## Test Your Knowledge
 
@@ -2127,21 +2433,21 @@ D. Digital assets are regulated by the Ministry of Domestic Trade.
 
 **Q4.** BNM states that any Malaysian CBDC would be a central bank liability, not a crypto-asset, and would use permissioned ledgers. Explain what this means and why a central bank would reject public proof-of-work mining for its digital currency.
 
-**Q5.** A halal food exporter asks whether to record its supply chain on a blockchain. Apply the five-question decision framework from Section 4.4.4 and state your recommendation with reasons.
+**Q5.** A halal food exporter asks whether to record its supply chain on a blockchain. Apply the five-question decision framework from Section 4.7.4 and state your recommendation with reasons.
 
 ### Answer Guide
 
 **Part A:**
 - **Q1: B** — All blockchains are DLT, but DLT includes non-blockchain structures (Section 4.1.1).
-- **Q2: C** — Previous-hash linkage creates the tamper-evident chain (Section 4.2.1).
-- **Q3: A** — Merkle proofs allow light verification of individual transactions (Section 4.2.1).
-- **Q4: C** — Light nodes store only headers and use Merkle proofs, ideal for mobile wallets (Section 4.2.3).
-- **Q5: B** — PoW miners search for a nonce yielding a hash below the difficulty target (Section 4.2.3).
-- **Q6: B** — The Merge switched Ethereum from PoW to PoS in September 2022 (Section 4.2.4).
-- **Q7: C** — Known institutional validators with restricted access = consortium design (Section 4.3.1).
-- **Q8: B** — Smart contracts are self-executing on-chain code (Section 4.3.2).
-- **Q9: B** — Majority control of mining/stake enables history rewriting and double-spending (Section 4.4.2).
-- **Q10: B** — The 2019 Prescription Order makes digital assets securities; the SC's Guidelines on Digital Assets channel offerings through IEO operators; crypto is not legal tender (Section 4.3.3).
+- **Q2: C** — Previous-hash linkage creates the tamper-evident chain (Section 4.1.4).
+- **Q3: A** — Merkle proofs allow light verification of individual transactions (Section 4.1.4).
+- **Q4: C** — Light nodes store only headers and use Merkle proofs, ideal for mobile wallets (Section 4.1.6).
+- **Q5: B** — PoW miners search for a nonce yielding a hash below the difficulty target (Section 4.1.6).
+- **Q6: B** — The Merge switched Ethereum from PoW to PoS in September 2022 (Section 4.3.6).
+- **Q7: C** — Known institutional validators with restricted access = consortium design (Section 4.2.1).
+- **Q8: B** — Smart contracts are self-executing on-chain code (Section 4.2.2).
+- **Q9: B** — Majority control of mining/stake enables history rewriting and double-spending (Section 4.7.2).
+- **Q10: B** — The 2019 Prescription Order makes digital assets securities; the SC's Guidelines on Digital Assets channel offerings through IEO operators; crypto is not legal tender (Section 4.5.4).
 
 **Part B (model answers):**
 - **Q1:** Append-only means entries can be added but past entries are never edited or deleted; corrections are new entries. Because each block stores the previous block's hash, changing old data changes that block's hash and breaks the match with the next block, so every node can detect the tampering.
@@ -2208,7 +2514,7 @@ Chain B: 2,000,000 kWh × RM0.50 = **RM1.0 million per year**.
 
 **Scenario B.** Five halal-industry players — a poultry farm, a slaughterhouse, a processor, a logistics firm and a retailer — each keep separate records. Disputes over certification and delivery events cost the group an estimated RM200,000 per year in reconciliation, audits and rejected shipments. A consortium DLT platform would cost RM250,000 to set up (shared) plus RM100,000 per year (shared equally).
 
-**Task:** For each scenario, apply the Section 4.4.4 framework and recommend a design, including a simple cost comparison.
+**Task:** For each scenario, apply the Section 4.7.4 framework and recommend a design, including a simple cost comparison.
 
 **Solution.**
 **Scenario A.** Question 1 fails immediately: a single organisation writes the data, so there is no multi-party trust problem. Questions 2–5 are moot. A conventional database (even a modest cloud accounting package at, say, RM6,000 per year) does the job faster and cheaper.
@@ -2224,56 +2530,44 @@ Chain B: 2,000,000 kWh × RM0.50 = **RM1.0 million per year**.
 ## References
 
 Arslanian, H. (2022). *The book of crypto: The complete guide to understanding Bitcoin, cryptocurrencies and digital assets*. Palgrave Macmillan.
-
 Auer, R., Cornelli, G., & Frost, J. (2020). *Rise of the central bank digital currencies: Drivers, approaches and technologies* (BIS Working Paper No. 880). Bank for International Settlements.
-
 Bank for International Settlements. (2021). *CBDCs: An opportunity for the monetary system*. In *BIS Annual Economic Report 2021* (Chapter III).
-
 Bank for International Settlements Innovation Hub. (2021). *Project Dunbar: International settlements using multi-CBDCs*.
-
 Bank Negara Malaysia. (2022). *Financial sector blueprint 2022–2026*.
-
 Bank Negara Malaysia. (2024). *Electronic know-your-customer (e-KYC)* [Policy document].
-
 Bank Negara Malaysia. (2025a). *Discussion paper on asset tokenisation in the Malaysian financial sector*.
-
 Bank Negara Malaysia. (2025b). *Risk management in technology (RMiT)* [Policy document].
-
 Buterin, V. (2014). *Ethereum: A next-generation smart contract and decentralized application platform* [White paper].
-
 Capital Markets and Services Act 2007 (Act 671) (Malaysia).
-
 Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019 (Malaysia).
-
 Gupta, P., & Tham, T. M. (2019). *Fintech: The new DNA of financial services*. De Gruyter.
-
 Harvey, C. R., Ramachandran, A., & Santoro, J. (2021). *DeFi and the future of finance*. Wiley.
-
 Lee, I., & Shin, Y. J. (2018). Fintech: Ecosystem, business models, investment decisions, and challenges. *Business Horizons, 61*(1), 35–46.
-
 Nakamoto, S. (2008). *Bitcoin: A peer-to-peer electronic cash system* [White paper].
-
 Oseni, U. A., & Ali, S. N. (Eds.). (2019). *Fintech in Islamic finance: Theory and practice*. Routledge.
-
 Payments Network Malaysia. (2026). *8.44 billion transactions processed in 2025 as digital payments become Malaysians' preferred way to pay* [Press release].
-
 Pompella, M., & Matousek, R. (Eds.). (2021). *The Palgrave handbook of FinTech and blockchain*. Palgrave Macmillan.
-
 Securities Commission Malaysia. (2024a). *Guidelines on digital assets* (rev.).
-
 Securities Commission Malaysia. (2024b). *Guidelines on recognized markets* (rev.).
+Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (Act 613) (Malaysia).
+Bank Negara Malaysia. (2025). *Discussion paper on asset tokenisation in the Malaysian financial sector*.
+Financial Action Task Force. (2021). *Updated guidance for a risk-based approach to virtual assets and virtual asset service providers*. FATF.
+Scott, B. (2022). *Cloudmoney: Cash, cards, crypto and the war for our wallets*. Bodley Head.
+Securities Commission Malaysia. (2024). *Guidelines on digital assets* (rev.).
+Securities Commission Malaysia. (2024). *Guidelines on recognized markets* (rev.).
+Zetzsche, D. A., Buckley, R. P., Arner, D. W., & Barberis, J. N. (2017). *From FinTech to TechFin: The regulatory challenges of data-driven finance* (University of Hong Kong Faculty of Law Research Paper No. 2017/011).
 
 
 ---
 
-# Chapter 5: Introduction to Algorithmic Trading and Robo-Advisory
+# Chapter 5: Algorithmic Trading and Robo-Advisory
 
 ## Chapter Outline
 
-- 5.1 Overview of Algorithmic Trading and Automated Trading
-- 5.2 Trading Strategies and Their Applications
-- 5.3 Robo-Advisory and Digital Investment Services
-- 5.4 Benefits, Limitations, Risks and Ethical Considerations
+- 5.1 Algorithmic Trading, Automated Execution, Rules and Data
+- 5.2 Illustrative Trading Rules: Moving-Average Signals and Historical Tests
+- 5.3 Robo-Advisory: Risk Profiling, Allocation, Rebalancing and Fees
+- 5.4 Suitability, Model and Execution Risk, Transaction Costs and Historical-Test Limitations
 
 ## Learning Outcomes
 
@@ -2294,7 +2588,7 @@ One evening, Aina downloads a robo-advisory app licensed by the Securities Commi
 
 Is Aina making a wise choice? How do the algorithms behind trading systems and robo-advisors actually work, what can go wrong, and what protections does Malaysian regulation give her? This chapter answers these questions.
 
-## 5.1 Overview of Algorithmic Trading and Automated Trading
+## 5.1 Algorithmic Trading, Automated Execution, Rules and Data
 
 Walk into the dealing room of a large investment bank today and you will find far fewer humans shouting into telephones than in the movies. Most trading is now done by computers that follow precise, pre-programmed instructions. This section defines algorithmic trading and high-frequency trading, explains the pipeline that turns a trading idea into an executed order, and describes how these activities are permitted and supervised on Bursa Malaysia.
 
@@ -2350,7 +2644,7 @@ Two practical consequences matter for you as a future finance professional or in
 
 > **🇲🇾 MALAYSIAN SPOTLIGHT:** Malaysia's capital market regulator, the Securities Commission Malaysia (SC), introduced the Digital Investment Management (DIM) framework in May 2017 — the first regulatory framework for robo-advisory in the region — while Bursa Malaysia's rules have long accommodated algorithmic and direct market access trading (SC, 2017; Bursa Malaysia Securities Berhad, n.d.). Together, these frameworks mean that automation in Malaysian markets operates inside clear licensing and conduct perimeters rather than in a legal vacuum.
 
-## 5.2 Trading Strategies and Their Applications
+## 5.2 Illustrative Trading Rules: Moving-Average Signals and Historical Tests
 
 An algorithm is only as good as the strategy it encodes. This section explains five widely used strategy families — momentum, mean reversion, arbitrage, market making and index-fund rebalancing — each with a simple numeric example, and then examines how strategies are tested before real money is risked.
 
@@ -2399,7 +2693,7 @@ Two real-world frictions turn many paper profits into live losses:
 
 > **🧠 BRAINSTORMER:** Suppose your classmate's backtest shows a 40% annual return over five years of historical KLCI data. What three questions would you ask before believing the result, and what does your suspicion tell you about the difference between historical and live performance?
 
-## 5.3 Robo-Advisory and Digital Investment Services
+## 5.3 Robo-Advisory: Risk Profiling, Allocation, Rebalancing and Fees
 
 Sections 5.1 and 5.2 described algorithms that *trade*. This section describes algorithms that *invest*: robo-advisors, which automate portfolio management for ordinary savers. In Malaysia these services are regulated under the Securities Commission Malaysia's Digital Investment Management framework, introduced in May 2017 — the first such framework in the region (Securities Commission Malaysia [SC], 2017).
 
@@ -2460,7 +2754,7 @@ Two balanced observations are in order. First, lower cost is a structural advant
 
 > **🧠 BRAINSTORMER:** If robo-advisors are cheaper, more accessible and more disciplined, why do you think they still manage less than 1% of Malaysia's RM1.07 trillion fund industry? Consider trust, financial literacy, marketing budgets and the role of human agents.
 
-## 5.4 Benefits, Limitations, Risks and Ethical Considerations
+## 5.4 Suitability, Model and Execution Risk, Transaction Costs and Historical-Test Limitations
 
 Automation makes markets faster, cheaper and more inclusive — and introduces failure modes that did not exist when humans traded by telephone. This final section weighs both sides, because a balanced assessment is exactly what regulators, employers and your own money deserve.
 
@@ -2492,6 +2786,18 @@ Overfitting (Section 5.2.5) is the micro-level cousin of model risk: a strategy 
 ### 5.4.4 A Balanced Assessment
 
 Algorithmic trading and robo-advisory are tools, and tools are judged by use. For institutions, automation delivers speed, consistency and lower costs, but demands investment in model governance, risk controls and cyber-resilience of the kind required by BNM's RMiT framework (BNM, 2025b). For young Malaysians like Aina, a licensed DIM offers a disciplined, low-cost start to investing — provided she understands that market risk is not automated away: her ETF portfolio can and will fall in value during downturns. The ethical frontier lies in design choices — what the app encourages you to do, whose interests the algorithm serves, and whether you can get a straight answer about how it works.
+
+## Applied Activity: Moving-Average Rule and Risk Profile
+
+**Purpose:** Apply a predefined trading rule and connect an investor profile to a suitable portfolio approach.
+
+Use the sample prices in the Problem-Solving Corner. Calculate the short and long moving averages exactly as defined there, mark each buy, sell or no-trade signal, and repeat the exercise after subtracting the stated transaction costs. Record why a historical signal is not a forecast.
+
+Then review this fictional customer: a 23-year-old with stable income, no high-interest debt, an emergency fund, a seven-year goal and low tolerance for a 20% temporary loss. Select a risk-profile band from the chapter's illustrative table, propose a broad allocation, and state what additional suitability questions a licensed provider should ask before implementation.
+
+**Deliverable:** A signal-and-trade log and a brief suitability note. Use no real customer data or investment recommendation.
+
+---
 
 ## Case Study 5.1: Aina's RM300-a-Month Robo-Advisory Journey
 
@@ -2783,494 +3089,257 @@ U.S. Commodity Futures Trading Commission & U.S. Securities and Exchange Commiss
 
 ---
 
-# Chapter 6: Introduction to Cryptocurrencies and Digital Assets
+# Chapter 6: Future of FinTech
 
 ## Chapter Outline
 
-- **6.1** Bitcoin: Development, Characteristics and Transactions
-- **6.2** Ethereum, Altcoins and Stablecoins
-- **6.3** Digital Assets (NFTs, ICOs and STOs)
-- **6.4** Accounting, Taxation, Regulation and Investment Risks
+- 6.1 Virtual and Augmented Reality for Financial Education and Customer Engagement
+- 6.2 Internet of Things and Wearables for Payments and Usage-Based Insurance
+- 6.3 Quantum Computing: Portfolio Optimisation and Encryption Implications
+- 6.4 Emerging AI-Enabled Services and DeFi Business Models
+- 6.5 Adoption Readiness, Customer Value, Accessibility, Privacy and Security
 
 ## Learning Outcomes
 
-By the end of this chapter, you should be able to:
+After studying this chapter, you should be able to:
 
-1. **Define** key terms such as blockchain, cryptocurrency, mining, stablecoin and non-fungible token. *(Bloom's level: Remember)*
-2. **Explain** how Bitcoin transactions are created, validated and recorded on the blockchain. *(Bloom's level: Understand)*
-3. **Apply** percentage, drawdown and mining-reward calculations to realistic ringgit-denominated scenarios. *(Bloom's level: Apply)*
-4. **Compare** proof of work with proof of stake, and fiat-backed with algorithmic stablecoins. *(Bloom's level: Analyse)*
-5. **Evaluate** the adequacy of Malaysia's regulatory framework for digital assets in protecting retail investors. *(Bloom's level: Evaluate)*
-6. **Design** a simple risk-management plan for a Malaysian retail investor buying cryptocurrency on a registered exchange. *(Bloom's level: Create)*
+1. **Describe** illustrative financial applications of virtual reality (VR), augmented reality (AR), the Internet of Things (IoT) and wearables. *(Bloom's level: Remember)*
+2. **Explain** how quantum computing could affect optimisation problems and current encryption assumptions. *(Bloom's level: Understand)*
+3. **Apply** an adoption-readiness checklist to a proposed Malaysian financial-technology pilot. *(Bloom's level: Apply)*
+4. **Compare** customer value, accessibility, data requirements and safeguards for two emerging technology use cases. *(Bloom's level: Analyse)*
+5. **Evaluate** privacy, cybersecurity, model, inclusion and operational risks before deployment. *(Bloom's level: Evaluate)*
+6. **Recommend** whether a fictional financial institution should pilot, defer or reject an emerging technology proposal. *(Bloom's level: Create)*
 
 ## Opening Vignette
 
-Aina Sofia, a 20-year-old accounting diploma student in George Town, Penang, reads about Bitcoin on social media and decides to invest RM500 from her part-time salary. She downloads the app of a digital asset exchange registered with the Securities Commission Malaysia, verifies her identity using her MyKad and a selfie, deposits ringgit through online banking, and buys her first fraction of a Bitcoin. Two weeks later, the price has fallen 18% and she wonders whether she has made a terrible mistake. Her cousin tells her to move her coins to a "hardware wallet" for safety; her friend says she should have bought a "stablecoin" instead; and a stranger on a messaging app offers her a "guaranteed 10% weekly return" if she transfers her coins to his platform. Aina's questions — what did I actually buy, who protects me, where should I keep it, and what could go wrong — are exactly the questions this chapter answers.
+Kavi, a product-development trainee at a fictional Malaysian bank, has been asked to assess two proposals. The first is an augmented-reality (AR) experience that lets first-time savers explore an interactive budget and practise recognising risky borrowing. The second uses vehicle sensors to price a usage-based motor takaful contribution. A colleague suggests adding a quantum-computing portfolio optimiser because it sounds future-ready; another proposes a conversational AI assistant for customer service. Kavi realises that the hard question is not whether these technologies are impressive. It is whether they solve a real customer problem, can work reliably with the institution's data and infrastructure, and can be deployed safely and accessibly. This chapter offers a practical way to assess emerging FinTech without confusing novelty with value.
 
----
+## 6.1 Virtual and Augmented Reality for Financial Education and Customer Engagement
 
-## 6.1 Bitcoin: Development, Characteristics and Transactions
+**Virtual reality (VR)** places a user inside a computer-generated environment, usually through a headset. **Augmented reality (AR)** overlays digital information on the user's view of the physical world, often through a phone camera or wearable display. Both are forms of immersive technology; they differ in how much they replace versus supplement the user's surroundings.
 
-### 6.1.1 The Nakamoto Whitepaper and the Double-Spending Problem
+In financial education, VR could provide a simulated marketplace where learners practise budgeting, compare financing terms or experience how a sequence of small purchases affects a monthly budget. AR could overlay explanations on a mock bank statement or show the effects of changing a savings contribution. A financial institution might also use immersive tools to demonstrate insurance coverage or guide a customer through product features.
 
-In October 2008, a person or group using the pseudonym Satoshi Nakamoto published a nine-page whitepaper titled *Bitcoin: A Peer-to-Peer Electronic Cash System* (Nakamoto, 2008). The Bitcoin network itself began operating in January 2009. The whitepaper proposed electronic money that could be transferred directly between users "without going through a financial institution" (Nakamoto, 2008). This was a radical idea, because digital money faces a fundamental technical obstacle known as the **double-spending problem**: since digital information can be copied perfectly, what stops a user from spending the same digital coin twice? In conventional finance, banks solve this problem by maintaining central ledgers and debiting accounts; Bitcoin's innovation was to solve it without any central party.
+These are illustrative possibilities, not claims that immersive finance is widespread in Malaysia. A pilot should be assessed against conventional alternatives such as a clear mobile interface, accessible video or a human adviser. Hardware cost, motion discomfort, language support, disability access, screen privacy and the collection of gaze or movement data can outweigh novelty. Financial education must remain accurate and should not present a simulated result as a guaranteed investment outcome.
 
-Bitcoin's solution rests on the **blockchain**, defined as a distributed, append-only ledger of transactions grouped into blocks, where each block is cryptographically linked to the previous one, and identical copies are maintained by thousands of independent computers (nodes) around the world (Arslanian, 2022). Because every node holds the full history, anyone can verify that a coin has not already been spent. Transactions are confirmed through a competitive process called mining (discussed below), and altering past records would require overpowering most of the network's computing power — practically impossible on a large network. This combination of public verifiability and economic incentives is what allows strangers to transact without trusting each other or any intermediary (Nakamoto, 2008).
+> **📌 QUICK NOTE:** VR and AR are interface technologies. They do not themselves make a financial product safer, more suitable or more profitable.
 
-Key characteristics of Bitcoin include:
+### A classroom example
 
-- **Decentralisation**: no central bank, company or government issues or controls it.
-- **Fixed supply**: the protocol caps total issuance at 21 million coins.
-- **Borderless and permissionless**: anyone with an internet connection can hold or send bitcoin.
-- **Pseudonymity**: users transact through addresses that are not directly tied to real-world identities (see Section 6.1.4).
-- **Volatility**: its price is determined purely by supply and demand and can move sharply in either direction.
+A polytechnic could compare a 3D VR budgeting simulation with a spreadsheet exercise. Students would measure completion, comprehension and accessibility rather than simply asking which experience looks more exciting. If the VR version excludes learners who cannot use a headset, the institution should provide an equivalent non-VR route.
 
-> **📌 QUICK NOTE:** "Bitcoin" with a capital B usually refers to the network and protocol; "bitcoin" with a small b refers to the unit of currency. One bitcoin is divisible into 100 million units called satoshis, so you can buy a tiny fraction — you do not need to purchase a whole coin.
+## 6.2 Internet of Things and Wearables for Payments and Usage-Based Insurance
 
-### 6.1.2 The UTXO Model and the Transaction Lifecycle
+The **Internet of Things (IoT)** is a network of connected physical devices that collect or exchange data, often through sensors and software. A **wearable** is a body-worn connected device, such as a smartwatch or fitness band. IoT devices may support contactless payments, asset monitoring, claims evidence or usage-based insurance and takaful.
 
-Unlike a bank account, which stores a single balance, Bitcoin tracks ownership using the **unspent transaction output (UTXO)** model. A UTXO is a discrete, spendable "chunk" of bitcoin recorded on the blockchain — rather like individual notes and coins in a physical wallet. Your wallet balance is simply the sum of all UTXOs that your keys can unlock. When you spend, your wallet selects one or more UTXOs as *inputs*, consumes them entirely, and creates new *outputs*: the payment to the recipient and, usually, a "change" output returning the leftover amount to you (Arslanian, 2022).
+For example, a vehicle telematics device may record distance, time of use or braking events. An insurer or takaful operator could use agreed data to offer a usage-based product. A wearable could enable a contactless payment token or, with explicit consent, share limited wellness data for a defined service. In each case, the customer should understand which data is collected, how long it is retained, whether it affects price or eligibility, and how to opt out.
 
-**Worked example.** Suppose Aiman's wallet contains two UTXOs worth 0.003 BTC and 0.004 BTC, and he wants to pay Bella 0.005 BTC for a second-hand laptop. His wallet combines both UTXOs (0.007 BTC) as inputs and creates two outputs: 0.005 BTC to Bella's address and 0.0019 BTC back to himself as change, leaving 0.0001 BTC as the transaction fee paid to the miner. Just as you cannot tear a RM10 note in half to pay RM5, a UTXO must be spent in full, with change returned.
+The data may be incomplete or misleading. A sensor can fail, a device may be shared, and a proxy such as driving time can disadvantage people whose work requires night travel. Payment wearables also depend on device security, token protection and procedures for a lost device. The institution must provide a clear fallback when the device, network or sensor is unavailable.
 
-The lifecycle of this transaction illustrates how the whole system works:
+> **🧠 BRAINSTORMER:** If two drivers make the same journey but one has a faulty sensor, what should a fair usage-based takaful provider do? What evidence should the customer be able to see or challenge?
 
-1. **Creation and signing.** Aiman's wallet software constructs the transaction and signs it with his private key, proving he owns the inputs without revealing the key itself.
-2. **Broadcast.** The signed transaction is broadcast to the peer-to-peer network and enters the *mempool* — a waiting area of unconfirmed transactions held by each node.
-3. **Validation.** Nodes check that the signature is valid and that the inputs have not already been spent (the double-spending check).
-4. **Block inclusion.** Miners assemble pending transactions into a candidate block and race to solve the proof-of-work puzzle; the winner's block, including Aiman's transaction, is added to the chain.
-5. **Confirmation.** Each subsequent block built on top counts as one additional confirmation. Six confirmations is a common convention for considering a payment effectively irreversible.
+## 6.3 Quantum Computing: Portfolio Optimisation and Encryption Implications
 
-> **💡 DID YOU KNOW? (TRIVIA):** The first real-world Bitcoin purchase is widely reported to have taken place in May 2010, when a programmer in Florida paid 10,000 BTC for two pizzas. The date, 22 May, is still celebrated by enthusiasts as "Bitcoin Pizza Day" — a striking illustration of how much perceptions of Bitcoin's value have changed.
+**Quantum computing** uses quantum-mechanical properties to process information in ways that differ from conventional computers. It is an active research area, not a general-purpose replacement for today's computers. Potential financial applications discussed in research include optimisation problems, scenario analysis and portfolio construction, but practical advantage depends on the problem, available hardware, error rates and comparison with the best classical methods.
 
-### 6.1.3 Mining, Proof of Work, the 21 Million Cap and Halvings
+Portfolio optimisation can involve selecting asset weights subject to expected-return, risk, liquidity and regulatory constraints. Some formulations become computationally difficult as the number of assets and constraints grows. Quantum algorithms may eventually help explore certain large search spaces, but a student should not conclude that they already provide better investment returns. Data quality, assumptions and model validation remain important regardless of the computing platform.
 
-**Mining** is the process by which new bitcoins are issued and new blocks of transactions are added to the blockchain. Miners compete to find a valid solution to a computational puzzle, and the winner earns the right to add the next block and claim the block reward (Nakamoto, 2008). The underlying consensus mechanism is called **proof of work (PoW)**, defined as a system in which participants must demonstrate that they have expended real computational effort — and therefore real electricity and hardware costs — before they may add to the shared ledger (Arslanian, 2022). Because cheating is expensive and honest behaviour is rewarded, PoW aligns miners' incentives with the network's security. The difficulty of the puzzle adjusts automatically roughly every two weeks so that, on average, a new block is found about every ten minutes regardless of how many miners join.
+The more immediate security issue is cryptography. A sufficiently capable future quantum computer could threaten some widely used public-key cryptographic schemes. This is not a reason to assume that current banking encryption has been broken; it is a reason for institutions to inventory cryptographic dependencies and plan migration to standards designed to resist quantum attacks. Financial institutions should follow regulator and standards-body guidance, test interoperability, and protect long-lived sensitive data against future exposure.
 
-New bitcoins enter circulation only through block rewards, on a schedule fixed in the code:
+> **💡 DID YOU KNOW? (TRIVIA):** Quantum computers do not simply try every answer at once. Quantum algorithms use carefully designed operations and measurements; their potential advantage applies only to particular problem structures.
 
-- **21 million cap**: the total number of bitcoins that can ever exist is capped at 21 million, giving the asset a digitally enforced scarcity often compared to gold.
-- **Halvings**: approximately every 210,000 blocks (about four years), the block reward is cut in half. The reward began at 50 BTC in 2009, fell to 25 BTC in 2012, 12.5 BTC in 2016, 6.25 BTC in 2020, and — at the **April 2024 halving** — to **3.125 BTC**. Halvings will continue until the reward becomes negligible, at which point miners will be compensated mainly by transaction fees.
+## 6.4 Emerging AI-Enabled Services and DeFi Business Models
 
-This predictable, slowing issuance schedule is central to the argument made by Bitcoin supporters that it is a "hard" asset. Critics counter that scarcity alone does not guarantee value and that PoW mining consumes very large amounts of electricity, an environmental cost that has attracted sustained debate (Scott, 2022).
+Artificial intelligence (AI) can enable conversational customer support, document extraction, personalised explanations and workflow assistance. Chapter 7 examines AI methods and their limitations in detail. In this chapter, the focus is on readiness: an AI service should have a defined task, reliable source data, privacy controls, human escalation and a way to correct mistakes. A generative system that confidently invents a fee or eligibility rule can cause financial harm even when its interface is convenient.
 
-> **🧠 BRAINSTORMER:** Bitcoin's proof of work deliberately makes block production costly in energy terms, while newer systems achieve consensus with little energy use. Is high energy consumption an acceptable price for security and neutrality in a monetary network, or an unjustifiable environmental burden? What evidence would you need to decide?
+**Decentralised finance (DeFi)** uses software protocols and smart contracts to provide activities such as lending or exchanging digital tokens without the conventional institutional process used by a bank or broker. A lending protocol may allow a user to supply digital assets to a pool and another user to borrow against collateral. A decentralised exchange may match or route token swaps through automated liquidity pools. These examples connect to Chapter 4; they are not endorsements or consumer instructions.
 
-### 6.1.4 Wallets, Keys, Addresses and Pseudonymity
+Potential business models include protocol transaction fees, governance tokens, automated market-making fees and software-as-a-service tools for institutions. These models face uncertain revenue, technical risk, governance concentration, liquidity risk, regulatory obligations and consumer-protection gaps. Decentralisation is not binary: developers, administrators, validators, front-end providers or token holders may retain significant control.
 
-To hold and spend bitcoin you do not store "coins" in a file; you control cryptographic keys that unlock UTXOs on the blockchain. Three linked concepts matter:
+### AI and DeFi together
 
-- A **private key** is a secret, randomly generated number that proves ownership and authorises spending. Whoever knows the private key controls the funds.
-- A **public key** is mathematically derived from the private key and can be shared safely.
-- An **address** is a shortened, encoded representation derived from the public key — the destination to which others send bitcoin, analogous to a bank account number.
+AI may support risk monitoring, customer service or anomaly detection around digital-asset services, while DeFi protocols may provide programmable settlement. Combining technologies also combines their failure modes. A flawed model can trigger an incorrect action; an exploited smart contract can move assets irreversibly; and automated interfaces can make it difficult for a customer to reach a responsible person. Any pilot needs defined limits and a human response path.
 
-A **wallet** is software or hardware that manages keys and constructs transactions. **Hot wallets** (mobile or desktop apps, exchange accounts) are connected to the internet and convenient but exposed to hacking; **cold wallets** (hardware devices or paper backups kept offline) are safer for larger amounts. The community maxim — "not your keys, not your coins" — captures the risk of leaving assets with a third party, a lesson brutally reinforced by the FTX collapse discussed in Section 6.4.
+## 6.5 Adoption Readiness, Customer Value, Accessibility, Privacy and Security
 
-Bitcoin is **pseudonymous**, not anonymous: transactions occur between addresses that do not carry names, but every transaction is permanently public. Blockchain-analysis firms routinely trace flows, and when an address is ever linked to a real identity (for example, when a user onboards at a regulated exchange), the entire history of that address can become attributable. This matters for both crime-fighting and privacy, and it explains why regulated exchanges — including those in Malaysia — can and do perform identity checks.
+Before adopting a new technology, an institution should test five questions:
 
-> **📌 QUICK NOTE:** A private key cannot be "reset" like a banking password. If you lose the only copy of your private key or recovery phrase, the bitcoin it controls is permanently inaccessible. Estimates commonly cited in the industry suggest millions of bitcoins may already be lost this way.
+1. **Customer problem:** Which identifiable customer need does it solve better than a simpler option?
+2. **Readiness:** Is the technology at concept, controlled pilot or production scale? What evidence supports that stage?
+3. **Data and infrastructure:** Are the required data accurate, lawful to use, secure and available when needed?
+4. **Inclusion and accessibility:** Can customers with disabilities, limited connectivity, lower digital literacy or older devices use the service or an equivalent alternative?
+5. **Governance and exit:** Who is accountable, how are failures handled, and can the institution stop the pilot without trapping customers or their data?
 
----
+An adoption decision should include a small, measurable pilot with clear success and stop criteria. Measures might include task completion, error rates, customer comprehension, accessibility feedback, incidents, data minimisation and cost to serve. Customer satisfaction alone is not enough if users do not understand what they have consented to or if vulnerable customers are excluded.
 
-## 6.2 Ethereum, Altcoins and Stablecoins
+Privacy and security should be designed in from the start. Collect only data necessary for the stated purpose, explain retention and sharing, test access controls, review third-party dependencies and provide a safe complaint route. A prototype should use synthetic data wherever possible. High-impact decisions about credit, insurance or investment suitability should not be delegated to an experimental technology without appropriate validation and human accountability.
 
-### 6.2.1 Ethereum and Smart Contracts
+> **📌 QUICK NOTE:** “Pilot” does not mean “risk-free.” A pilot still needs consent, security controls, incident handling, accessible alternatives and a clear way to withdraw.
 
-Bitcoin proved that decentralised money is possible, but its scripting capabilities are deliberately limited. In late 2013 and early 2014, programmer Vitalik Buterin proposed a more general platform in the whitepaper *Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform* (Buterin, 2014). The Ethereum network launched in 2015. Its native currency, ether (ETH), pays for computation on the platform.
+> **🎥 CHAPTER 6 VIEWING:** Watch *CFI Introduction to FinTech, Part 5* using the course link provided by your lecturer. Note one technology opportunity, one implementation challenge and one safeguard discussed or implied by the material. Compare these with the readiness questions in Section 6.5; the viewing is a starting point for analysis, not an endorsement of a particular product.
 
-The central innovation is the **smart contract**, defined as a self-executing programme stored on a blockchain that automatically carries out the terms of an agreement when coded conditions are met, without needing an intermediary (Buterin, 2014). A simple analogy is a vending machine: insert the correct payment and the machine automatically dispenses the item — no cashier required. On Ethereum, developers can build decentralised applications (dApps) for lending, trading, gaming, record-keeping and much more, all running on a shared, tamper-resistant world computer.
+## Applied Activity: Compare Two Emerging Technologies
 
-Every operation on Ethereum consumes **gas**, defined as the unit measuring computational work on the network; users pay gas fees in ether, which compensates validators and prevents spam by making computation costly (Buterin, 2014). When the network is congested, gas fees rise — an important practical limitation of public blockchains.
+**Purpose:** Assess a technology by its customer use case, adoption readiness and safeguards.
 
-### 6.2.2 The Merge: From Proof of Work to Proof of Stake
+A fictional Malaysian financial institution is considering two pilots: (A) an augmented-reality financial-literacy experience for first-time savers, and (B) an Internet of Things (IoT) telematics pilot for usage-based motor takaful. Compare the options using the same four questions:
 
-Ethereum originally used proof of work, but in **September 2022** it completed "The Merge", switching its consensus mechanism to **proof of stake (PoS)**. Under PoS, defined as a consensus mechanism in which validators are selected to propose and confirm blocks based on the amount of cryptocurrency they lock up ("stake") as collateral, with dishonest behaviour punished by destruction of part of that stake (Harvey et al., 2021). Because PoS does not require an energy-intensive computing race, The Merge eliminated the vast majority of Ethereum's electricity consumption overnight — a landmark event in blockchain history. Table 6.1 summarises the contrast.
+1. What specific customer problem does the pilot address, and for whom?
+2. What devices, connectivity, data and partners are required?
+3. Is the use case at concept, controlled pilot or scaled deployment stage? State what evidence would justify moving to the next stage.
+4. Name one privacy, security, accessibility or consumer-protection safeguard that must be designed in from the beginning.
 
-**Table 6.1: Proof of Work vs Proof of Stake**
-
-| Aspect | Proof of Work (Bitcoin) | Proof of Stake (Ethereum) |
-|---|---|---|
-| Who adds blocks | Miners solving puzzles | Validators staking coins |
-| Cost of attacking | Computing power and electricity | Acquiring and risking a huge stake |
-| Energy use | Very high | Very low |
-| Penalty for cheating | Wasted energy ("slashing" of sunk costs) | Direct destruction of staked funds |
-| Hardware | Specialised mining machines | Ordinary servers |
-
-> **💡 DID YOU KNOW? (TRIVIA):** The Merge was executed while the Ethereum network kept running — developers compared it to swapping an aeroplane's engine mid-flight. After the switch, Ethereum no longer needed miners at all, and its energy use became a small fraction of its former level.
-
-### 6.2.3 Categories of Altcoins
-
-Any cryptocurrency other than bitcoin is commonly called an **altcoin** ("alternative coin"). Thousands exist; most are small, illiquid and speculative. Textbook categories include:
-
-- **Platform coins** (e.g., ether): fuel for smart-contract platforms.
-- **Payment coins**: aimed at faster or cheaper transfers than Bitcoin.
-- **Utility tokens**: provide access to a specific application's services.
-- **Governance tokens**: confer voting rights over a protocol's future development.
-- **Meme coins**: created as jokes or community experiments, with value driven almost entirely by social-media sentiment.
-- **Stablecoins**: tokens engineered to hold a steady price (Section 6.2.4).
-
-Students should note that the vast majority of altcoins have failed or lost nearly all their value; survival rates are poor, and marketing claims often far exceed technical substance (Arslanian, 2022).
-
-### 6.2.4 Stablecoins: Designs and the TerraUSD Collapse
-
-Because bitcoin's price swings make it awkward as everyday money, **stablecoins** emerged — tokens designed to maintain a stable value, usually pegged one-to-one to a currency such as the US dollar (Harvey et al., 2021). Three designs dominate:
-
-1. **Fiat-backed stablecoins** (e.g., Tether's USDT, Circle's USDC): the issuer holds reserves — bank deposits, short-term government securities — intended to back every token 1:1. Stability depends on the quality and transparency of those reserves.
-2. **Crypto-backed stablecoins** (e.g., DAI): users lock up crypto collateral worth more than the stablecoins issued (over-collateralisation), with automatic liquidation if collateral value falls.
-3. **Algorithmic stablecoins**: software expands or contracts token supply to defend the peg, often with a linked, freely floating sister token absorbing volatility — with no hard reserves at all.
-
-The cautionary textbook example is **TerraUSD (UST)**, an algorithmic stablecoin that collapsed in May 2022. UST maintained its US$1 peg through an arbitrage link with its sister token LUNA. When heavy redemptions shook confidence, the mechanism spiralled: UST lost its peg, LUNA hyperinflated into worthlessness, and tens of billions of US dollars in market value evaporated within days. The lesson is fundamental: an algorithmic peg is only confidence in code, and confidence can vanish. Fiat-backed stablecoins are sturdier but still carry reserve, redemption and regulatory risks.
-
-> **🧠 BRAINSTORMER:** A stablecoin promises "1 token = US$1, always". What questions would you ask about the issuer before trusting that promise with your savings? How do your questions differ for a fiat-backed versus an algorithmic design?
-
-### 6.2.5 Decentralised Finance (DeFi): An Overview
-
-**Decentralised finance (DeFi)** is defined as an ecosystem of financial applications built on public blockchains — chiefly Ethereum — that replicate services such as lending, borrowing, trading and derivatives through smart contracts rather than through banks or brokers (Harvey et al., 2021). Core building blocks include decentralised exchanges that match trades via automated market-maker pools instead of order books; lending protocols that algorithmically set interest rates; and "yield farming", where users move funds between protocols chasing returns.
-
-DeFi promises open access (anyone with a wallet can participate), transparency (code and balances are public) and composability (protocols snap together like building blocks). The risks, however, are severe: smart-contract bugs and exploits, oracle failures, extreme leverage, anonymous developers, scams, and an almost complete absence of consumer protection or recourse (Harvey et al., 2021). For Malaysian retail investors, DeFi platforms operate outside the Securities Commission Malaysia's regulatory perimeter, meaning losses are typically unrecoverable.
-
-> **📌 QUICK NOTE:** "Decentralised" describes an aspiration, not always a fact. Many DeFi projects depend on small founding teams, centralised admin keys or a handful of large token holders. Always check who can actually change the rules or freeze the system.
-
----
-
-## 6.3 Digital Assets (NFTs, ICOs and STOs)
-
-### 6.3.1 Fungible and Non-Fungible Tokens
-
-A **fungible** asset is one whose units are identical and interchangeable: one ringgit equals any other ringgit, one bitcoin equals any other bitcoin. A **non-fungible token (NFT)** is defined as a unique digital token recorded on a blockchain that represents ownership of, or a claim linked to, a specific digital or physical item and cannot be exchanged one-for-one with another token of the same type (Arslanian, 2022). NFTs are typically minted on smart-contract platforms; the token records provenance (who created and owned it) and transfers automatically with each sale.
-
-Use cases include digital art and collectibles, in-game items, event tickets, membership passes and experiments in certifying ownership of physical assets. A crucial subtlety: buying an NFT generally purchases the *token* and whatever rights its terms grant — it does not automatically transfer copyright in the underlying artwork. NFT markets boomed spectacularly in 2021 and then contracted sharply; many collections lost most of their value, illustrating extreme speculative risk and thin liquidity.
-
-### 6.3.2 The ICO Boom of 2017–2018 and Its Failures
-
-An **initial coin offering (ICO)** is a fundraising method in which a project sells newly created digital tokens directly to the public, often before any product exists (Arslanian, 2022). ICOs exploded in 2017–2018, when projects worldwide raised billions of US dollars, frequently from retail buyers, on the strength of little more than a whitepaper and a website. The boom ended badly. A large share of projects were abandoned, delivered nothing, or were outright frauds — plagiarised whitepapers, fake teams, "exit scams" in which founders vanished with the funds. Because most ICOs bypassed securities laws, aggrieved investors had almost no legal recourse. Regulators worldwide responded by clarifying that most tokens sold to raise funds are, in substance, securities and fall under existing capital-markets law (Zetzsche et al., 2017). The ICO episode remains the canonical lesson in why disclosure rules and gatekeepers exist.
-
-### 6.3.3 STOs, IEOs and Tokenised Securities
-
-A **security token offering (STO)** is defined as the regulated issuance of blockchain-based tokens that represent legally recognised securities — for example, shares, bonds or units in an investment fund — subject to securities law, disclosure duties and investor-protection rules (Pompella & Matousek, 2021). Unlike ICO tokens, security tokens deliberately embrace regulation. **Tokenisation** more broadly means representing a real-world asset as a digital token on a blockchain, potentially enabling fractional ownership (a small investor could hold RM1,000 of a commercial building) and faster settlement. Interest in asset tokenisation is growing among regulators globally; Bank Negara Malaysia (BNM) issued a discussion paper on asset tokenisation in the Malaysian financial sector in October 2025 (Bank Negara Malaysia [BNM], 2025).
-
-An **initial exchange offering (IEO)** is a token sale conducted through a digital asset exchange, which performs due diligence and lists the token — a structure that Malaysia chose as its regulated route for token fundraising (Securities Commission Malaysia [SC], 2024).
-
-> **🇲🇾 MALAYSIAN SPOTLIGHT:** Malaysia was an early mover in regulating digital assets. The Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019, effective 15 January 2019, prescribed digital currencies and digital tokens as *securities* under Malaysian law, bringing them inside the Securities Commission Malaysia's jurisdiction under the Capital Markets and Services Act 2007. The SC's *Guidelines on Digital Assets* — first issued on 28 October 2020 under section 377 of that Act and revised on 19 August 2024 — now govern digital token offerings and the IEO operators that conduct them, while digital asset exchanges are registered as recognised market operators under the *Guidelines on Recognized Markets* (SC, 2024).
-
-### 6.3.4 Malaysia's Digital Asset Framework: DAXs, Shariah and Legal Status
-
-Malaysia's approach combines permission with guardrails. Key elements:
-
-- **Registered exchanges.** Only digital asset exchanges (DAXs) registered with the SC may operate in Malaysia. The registered list, updated regularly, has included **Luno Malaysia, SINEGY Technologies, Tokenize Technology and Hata Digital**. Registered DAXs must meet requirements on governance, custody, cybersecurity and market conduct as recognised market operators (SC, 2024).
-- **Securities status.** Digital currencies and tokens are prescribed as securities under the 2019 Prescription Order, so capital-markets law applies to offerings and trading.
-- **Not legal tender.** Cryptocurrency is **not legal tender** in Malaysia: no one is obliged to accept it as payment, and it is not issued or guaranteed by Bank Negara Malaysia. The ringgit remains the only legal tender.
-- **Shariah position.** In 2020 the SC's Shariah Advisory Council (SAC) resolved that digital assets may be recognised as **mal** (property) from a Shariah perspective, and that trading them on SC-registered DAXs is permissible, subject to conditions — a landmark ruling that opened the door for Muslim investors to participate within a regulated environment (Oseni & Ali, 2019, provide broader context on fintech in Islamic finance).
-- **AML/CFT.** DAXs are reporting institutions under the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (AMLA), and must conduct customer due diligence and report suspicious transactions.
-
-This framework explains why Aina, in our opening vignette, could verify her identity and buy Bitcoin on a regulated platform — and also why nobody in Malaysia is required to accept her bitcoin as payment for teh tarik.
-
-> **📌 QUICK NOTE:** "Regulated" does not mean "risk-free". SC registration imposes conduct and security duties on the exchange; it does not guarantee the price of any digital asset, insure your holdings, or compensate you if prices crash or if you fall for a scam.
-
----
-
-## 6.4 Accounting, Taxation, Regulation and Investment Risks
-
-### 6.4.1 The IFRS Accounting Gap
-
-How should a company account for cryptocurrency holdings? International Financial Reporting Standards (IFRS) contain **no standard written specifically for cryptoassets**, a gap much discussed in the accounting literature (Arslanian, 2022). Because cryptocurrencies generally fail the definitions of cash (they are not legal tender issued by a government) and of financial assets (holding bitcoin gives no contractual right to receive cash from another party), holdings are commonly fitted, imperfectly, into two existing standards:
-
-- **IAS 38 Intangible Assets**: the default treatment for many corporate holders — the crypto is an intangible asset, typically held at cost less impairment, which means price falls are recognised but subsequent recoveries are not written back up (an asymmetric result many consider misleading).
-- **IAS 2 Inventories**: applicable where the entity is a broker-trader holding crypto for sale in the ordinary course of business, which permits measurement at fair value less costs to sell with changes recognised in profit or loss.
-
-The takeaway for accounting students like Aina: classification depends on the holder's business model, measurement choices significantly affect reported profit, and the standard-setters' project pipeline should be watched for a dedicated standard. Professional judgement and clear disclosure are essential meanwhile.
-
-### 6.4.2 Malaysian Income-Tax Principles
-
-Malaysia has no crypto-specific tax statute, so general principles of the Income Tax Act 1967 apply. The widely accepted general principle — which you should treat as indicative rather than as tax advice — is:
-
-- **Revenue (taxable) treatment** may apply where trading is frequent, organised and business-like: repeated buying and selling, short holding periods, an intention to profit from trading. In such cases gains may constitute business income taxable at the taxpayer's marginal rate.
-- **Capital (generally not taxable) treatment**: Malaysia does not levy a general capital gains tax, so an individual's *occasional* disposals of long-held digital assets have generally not been taxed.
-
-The line between the two is a question of fact (the traditional "badges of trade" analysis), outcomes depend on individual circumstances, and practice continues to evolve — anyone with significant activity should obtain professional advice. Businesses accepting crypto as payment must also keep proper records of ringgit values at transaction dates.
-
-### 6.4.3 AMLA and the FATF Travel Rule
-
-Digital assets attract anti-money-laundering scrutiny because value can move globally, pseudonymously and quickly. Malaysia's principal statute is **AMLA 2001**, under which regulated intermediaries — including registered DAXs — must identify customers, keep records and file suspicious transaction reports (Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001). Internationally, the Financial Action Task Force (FATF) — the global standard-setter for AML/CFT — extended its **travel rule** to virtual assets: the requirement that identifying information about the originator and beneficiary of a transfer must "travel" with the transaction between service providers, mirroring the long-standing rule for wire transfers (Financial Action Task Force [FATF], 2021). For students, the practical consequences are exactly what Aina experienced: mandatory identity verification at onboarding, screening of transfers, and possible requests for the source of funds.
-
-### 6.4.4 Investment Risks: Volatility, Hacks, Scams and FTX
-
-Digital assets are among the riskiest assets a retail investor can buy. The principal risks:
-
-1. **Volatility.** Bitcoin has repeatedly fallen 50% or more from peaks; smaller tokens fare worse. Prices can gap violently overnight — crypto trades 24/7, so there is no closing bell to halt a rout.
-2. **Exchange hacks and failures.** Numerous platforms worldwide have been hacked or have failed. The defining case is **FTX**, once one of the world's largest crypto exchanges, which collapsed in **November 2022** amid revelations that customer funds had been misused by its affiliated trading firm; millions of customers became unsecured creditors in a lengthy bankruptcy. The lessons: an exchange's size and celebrity endorsements are no guarantee; leaving assets on any platform creates counterparty risk; and segregated custody, proof of reserves and strong regulation matter.
-3. **Scams.** Fake investment schemes, "pig-butchering" romance scams, phishing of recovery phrases and impersonation of regulators are rampant. In Malaysia, the **National Scam Response Centre (hotline 997)** can rapidly act on scam-linked bank transfers, and PDRM's **SemakMule** portal lets the public check bank account and phone numbers linked to mule accounts — but funds already converted to crypto are very hard to recover.
-4. **No safety nets.** Cryptocurrency holdings are not deposits: they carry no deposit insurance, no investor compensation scheme, and — since crypto is not legal tender — no central-bank backing.
-5. **Self-custody risk.** Holding your own keys removes exchange counterparty risk but makes *you* the single point of failure; lost keys mean lost funds.
-
-> **💡 DID YOU KNOW? (TRIVIA):** When FTX collapsed in November 2022, customers worldwide discovered they were treated as unsecured creditors — meaning they queued behind other claimants for whatever the bankruptcy estate could recover, rather than simply withdrawing "their" coins. The episode is now a standard case study in counterparty risk.
-
-> **🧠 BRAINSTORMER:** If a friend said, "Crypto is regulated in Malaysia now, so it must be safe," how would you respond? Distinguish between regulation of the *intermediary* and protection of the *investment*.
-
-**Investor-protection takeaways** for Malaysian retail investors: use only SC-registered DAXs; invest only what you can afford to lose entirely; beware of any "guaranteed return"; enable all available security features; consider moving significant long-term holdings to a well-understood cold wallet; keep records for tax purposes; and treat social-media hype as a warning sign, not research.
-
----
-
-## Case Study 6.1: Aina Buys Bitcoin on a Registered DAX
-
-Aina Sofia decides to invest RM2,000 in Bitcoin through Luno Malaysia, a digital asset exchange registered with the Securities Commission Malaysia. This case study traces her journey and examines what protection she does — and does not — have.
-
-**Onboarding.** Aina downloads the app and completes electronic know-your-customer (e-KYC) verification: she photographs her MyKad, takes a selfie for facial matching, and answers questions about her source of funds. This non-face-to-face onboarding is enabled by BNM's e-KYC policy (BNM, 2024) and by AMLA obligations on the exchange as a reporting institution. Her ringgit deposit arrives via online banking. She notes that the exchange is a registered recognised market operator subject to the SC's *Guidelines on Recognized Markets*, which impose requirements on governance, custody of client assets and cybersecurity.
-
-**The purchase.** With Bitcoin trading at RM400,000 per coin, Aina's RM2,000 buys 0.005 BTC. The app shows her holdings in ringgit terms, updated every second.
-
-**Custody decision.** Aina faces a choice. She can leave the bitcoin with the exchange (*custodial* holding — convenient, recoverable password, but exposed to exchange failure), or withdraw to her own hardware wallet (*self-custody* — no counterparty risk, but she alone must protect the recovery phrase). Remembering the FTX collapse of November 2022, where customers of a huge global exchange became unsecured creditors, she decides to keep only a small trading amount on the platform and move the rest to a hardware wallet, storing the written recovery phrase in a locked drawer.
-
-**What protects her — and what does not.** Aina benefits from: SC registration and supervision of the exchange; AMLA safeguards; the Shariah Advisory Council's 2020 resolution giving clarity that trading on registered DAXs is permissible for Muslim investors; and scam-response infrastructure such as the NSRC (997) and SemakMule. She is *not* protected by: deposit insurance, any investor compensation scheme, price guarantees, or legal-tender status. If the market falls 40%, that loss is entirely hers.
-
-**Discussion Questions**
-
-1. Identify the specific regulatory instruments and institutions that applied at each stage of Aina's onboarding and purchase. What does each one protect?
-2. Compare custodial and self-custody holding from Aina's perspective. Which would you choose for RM2,000, and for RM200,000? Justify your answer.
-3. Using the FTX collapse as your reference, explain why "the exchange holds my coins, so they are mine" is legally inaccurate. What is the investor's actual position in an insolvency?
-4. Aina's friend argues that because the SC regulates the exchange, Bitcoin is "government-approved and safe". Evaluate this claim and write a two-sentence reply Aina could send.
-
----
+**Deliverable:** A two-column comparison matrix and a 200-word recommendation. Do not assume that newer technology creates customer value by itself.
 
 ## Chapter Summary
 
-- **6.1** Bitcoin was proposed in Satoshi Nakamoto's 2008 whitepaper and launched in January 2009 as peer-to-peer electronic cash without a central intermediary (Nakamoto, 2008).
-- **6.1** Bitcoin solves the double-spending problem with a public blockchain secured by proof-of-work mining; ownership is tracked through the UTXO model rather than account balances.
-- **6.1** Supply is capped at 21 million coins; the block reward halves roughly every four years, falling to 3.125 BTC in April 2024.
-- **6.1** Users control coins via private keys, public keys and addresses; wallets are hot (online) or cold (offline); transactions are pseudonymous but permanently public.
-- **6.2** Ethereum (Buterin, 2014; launched 2015) introduced general-purpose smart contracts paid for with gas, and switched from proof of work to proof of stake at The Merge in September 2022.
-- **6.2** Stablecoins aim for price stability via fiat backing (USDT, USDC), crypto collateralisation, or algorithms; the 2022 TerraUSD collapse showed algorithmic pegs can fail catastrophically. DeFi rebuilds financial services in smart contracts but carries severe, largely unprotected risks (Harvey et al., 2021).
-- **6.3** NFTs are unique, non-fungible tokens representing specific items; the 2017–2018 ICO boom showed the dangers of unregulated token fundraising; STOs and IEOs bring token issuance within securities law.
-- **6.3** Malaysia prescribed digital currencies and tokens as securities in 2019; the SC's *Guidelines on Digital Assets* (2020, revised August 2024) govern IEOs; Luno, SINEGY, Tokenize and Hata are registered DAXs; the SC's Shariah Advisory Council resolved in 2020 that digital assets are *mal* and tradable on registered DAXs; crypto is not legal tender.
-- **6.4** IFRS has no dedicated crypto standard, so holdings are commonly treated under IAS 38 or IAS 2; in Malaysia, frequent trading may be taxed as business income while occasional individual gains are generally not taxed — always seek professional advice.
-- **6.4** Key risks are volatility, exchange failures (FTX, November 2022), scams, the absence of safety nets, and self-custody errors; using SC-registered DAXs and prudent custody are essential mitigations.
-
----
+- VR creates a simulated environment; AR overlays digital information on the physical environment.
+- Immersive tools may support financial learning but should be compared with simpler and more accessible options.
+- IoT and wearables can support payments and usage-based insurance, subject to consent, data quality and device security.
+- Sensor data can be incomplete or unfairly interpreted; customers need explanations, review and alternatives.
+- Quantum computing is an emerging research field with possible optimisation applications, not a present guarantee of better portfolios.
+- Future quantum capability creates a need for cryptographic inventory and migration planning, not panic about current systems.
+- AI and DeFi business models can create useful automation while combining model, protocol, governance and consumer risks.
+- Adoption decisions should be grounded in customer value, evidence, accessibility, privacy, security and an exit plan.
 
 ## Key Terms
 
-- **Bitcoin**: the first decentralised cryptocurrency, proposed by Satoshi Nakamoto in 2008 and launched in 2009, enabling peer-to-peer value transfer without intermediaries.
-- **Blockchain**: a distributed, append-only ledger of transaction blocks, cryptographically linked and replicated across many independent computers.
-- **Double-spending problem**: the risk that digital money, being copyable, is spent more than once; blockchains solve it without a central ledger-keeper.
-- **Unspent transaction output (UTXO)**: a discrete, spendable chunk of cryptocurrency recorded on the blockchain, consumed entirely as an input when spent, with any remainder returned as change.
-- **Proof of work**: a consensus mechanism requiring participants to expend computational effort to add blocks, making attacks economically costly.
-- **Mining**: the competitive process of validating transactions and adding blocks to a proof-of-work blockchain in return for block rewards and fees.
-- **Halving**: the programmed reduction, roughly every four years, of Bitcoin's block reward by half; the April 2024 halving cut it to 3.125 BTC.
-- **Private key**: a secret cryptographic number that proves ownership of cryptocurrency and authorises spending; losing it means losing the funds permanently.
-- **Public key**: a cryptographic value derived from a private key, used to generate receiving addresses; safe to share.
-- **Smart contract**: a self-executing programme on a blockchain that automatically enforces agreed terms when coded conditions are met.
-- **Gas**: the unit measuring computational work on Ethereum, paid in ether, which compensates validators and deters spam.
-- **Proof of stake**: a consensus mechanism where validators lock up cryptocurrency as collateral to propose and confirm blocks, with dishonesty punished by slashing.
-- **Altcoin**: any cryptocurrency other than bitcoin, spanning platform, payment, utility, governance, meme and stablecoin categories.
-- **Stablecoin**: a digital token engineered to hold a stable price, typically pegged to a fiat currency, via reserves, over-collateralisation or algorithms.
-- **Decentralised finance (DeFi)**: an ecosystem of blockchain-based applications that provide lending, trading and other financial services through smart contracts without intermediaries.
-- **Non-fungible token (NFT)**: a unique blockchain token representing a specific item, not interchangeable one-for-one with other tokens.
-- **Initial coin offering (ICO)**: a largely unregulated public sale of newly created tokens to raise funds, notorious for failures and fraud during 2017–2018.
-- **Security token offering (STO)**: a regulated issuance of blockchain tokens representing legally recognised securities, subject to securities law and disclosure requirements.
-
----
+- **Accessibility**: The extent to which a service can be understood and used by people with different abilities, devices, connectivity and levels of digital literacy.
+- **Adoption readiness**: An assessment of whether a technology, institution, customer need and supporting safeguards are mature enough for a controlled pilot or wider use.
+- **Augmented reality (AR)**: Digital information layered onto a view of the physical environment, commonly through a phone or wearable display.
+- **Cryptographic agility**: The ability to replace or update cryptographic algorithms and keys without disrupting essential systems.
+- **Data minimisation**: Collecting and retaining only the personal data necessary for a stated and legitimate purpose.
+- **Decentralised finance (DeFi)**: Financial activities implemented through digital-asset protocols and smart contracts, often without conventional intermediaries.
+- **Immersive technology**: An interface that places a user in a computer-generated environment or overlays digital information on the physical environment.
+- **Internet of Things (IoT)**: Connected physical devices that collect or exchange data through sensors, software and networks.
+- **Post-quantum cryptography**: Cryptographic methods designed to resist attacks from both conventional and sufficiently capable quantum computers.
+- **Quantum computing**: A computing approach using quantum-mechanical properties, with potential advantages for selected computational problems.
+- **Sensor data**: Measurements collected by a device, such as location, movement or usage, which may be incomplete or inaccurate.
+- **Usage-based insurance**: Insurance pricing or coverage informed by measured use or behaviour, such as driving distance or patterns.
+- **Virtual reality (VR)**: A computer-generated environment that immerses a user, commonly through a headset.
+- **Wearable**: A body-worn connected device that may support payments or collect user or activity data.
 
 ## Test Your Knowledge
 
 ### Part A: Multiple Choice
 
-**Q1.** The double-spending problem refers to: *(Understand)*
-A. Paying twice the intended transaction fee
-B. The risk that the same digital coin can be copied and spent more than once
-C. Two miners finding a block simultaneously
-D. Sending bitcoin to the wrong address
+1. Which statement best distinguishes AR from VR?
+   A. AR replaces the physical environment; VR only adds labels.
+   B. AR overlays digital content on the physical environment; VR immerses the user in a generated environment.
+   C. AR requires blockchain; VR requires quantum computing.
+   D. There is no practical difference.
 
-**Q2.** Under Bitcoin's UTXO model, when you spend, you must: *(Understand)*
-A. Spend exactly half of each UTXO
-B. Consume selected UTXOs entirely and receive any leftover as change
-C. Convert UTXOs into an account balance first
-D. Obtain the miner's permission
+2. What is a sensible use of vehicle telematics in a usage-based product?
+   A. Automatically deny all claims if the device disconnects.
+   B. Collect unlimited location history without informing the customer.
+   C. Use agreed driving data under disclosed terms, with a way to challenge errors.
+   D. Treat sensor data as infallible.
 
-**Q3.** After the April 2024 halving, Bitcoin's block reward became: *(Remember)*
-A. 6.25 BTC  B. 3.125 BTC  C. 1.5625 BTC  D. 12.5 BTC
+3. Which is a key question before an immersive financial-education pilot?
+   A. Does the experience use the newest headset?
+   B. Can customers learn the task accurately, including users who need an alternative format?
+   C. Can the institution collect more biometric data?
+   D. Can the pilot avoid measuring outcomes?
 
-**Q4.** The Merge (September 2022) refers to Ethereum's switch from: *(Remember)*
-A. Proof of stake to proof of work
-B. Proof of work to proof of stake
-C. A private blockchain to a public one
-D. Gas fees to subscription fees
+4. Quantum computing in portfolio optimisation should currently be described as:
+   A. A guaranteed way to increase returns.
+   B. An emerging research area whose usefulness depends on the problem and hardware.
+   C. A replacement for financial data.
+   D. A form of cryptocurrency.
 
-**Q5.** Gas on Ethereum is best described as: *(Understand)*
-A. A tax paid to the Malaysian government
-B. A unit measuring computational work, paid in ether, that compensates validators and deters spam
-C. The electricity used by Bitcoin miners
-D. A stablecoin used to pay transaction fees
+5. Why should institutions prepare for potential quantum threats to encryption?
+   A. All encrypted Malaysian bank data is already readable.
+   B. A sufficiently capable future quantum computer could threaten some current public-key schemes.
+   C. Quantum computers eliminate the need for cybersecurity.
+   D. Quantum computing only affects old mobile phones.
 
-**Q6.** The collapse of TerraUSD in 2022 primarily illustrates: *(Analyse)*
-A. The strength of fiat-backed reserves
-B. That algorithmic stablecoin pegs can fail catastrophically when confidence collapses
-C. That all stablecoins are illegal
-D. The success of over-collateralisation
+6. Which statement about DeFi is most accurate?
+   A. Decentralisation guarantees that no party has control.
+   B. DeFi protocols can automate lending or token exchange but still carry technical and governance risks.
+   C. DeFi tokens are always bank deposits.
+   D. Smart contracts cannot contain errors.
 
-**Q7.** In Malaysia, digital currencies and digital tokens are legally treated as: *(Understand)*
-A. Legal tender
-B. Deposits insured by the government
-C. Securities, under the 2019 Prescription Order
-D. E-money licensed by Bank Negara Malaysia
+7. Which data practice is most consistent with privacy by design?
+   A. Collect all potentially useful sensor data forever.
+   B. Collect only data necessary for a stated purpose and explain its use and retention.
+   C. Hide data sharing in a long link.
+   D. Make consent impossible to withdraw.
 
-**Q8.** Which of the following is a digital asset exchange registered with the Securities Commission Malaysia? *(Remember)*
-A. FTX  B. Binance  C. Luno Malaysia  D. TerraForm Labs
+8. A pilot should define stop criteria because:
+   A. pilots can fail or create harm and need a controlled exit.
+   B. success is guaranteed.
+   C. customers should not know about experiments.
+   D. stop criteria prevent learning.
 
-**Q9.** The SC Shariah Advisory Council's 2020 resolution held that digital assets: *(Understand)*
-A. Are forbidden (haram) in all circumstances
-B. May be recognised as *mal* (property) and traded on SC-registered DAXs, subject to conditions
-C. Must be converted to gold before trading
-D. Are legal tender for Islamic transactions
+9. An AI-enabled financial assistant gives a customer an incorrect fee. The best safeguard is:
+   A. Remove all ways to contact a person.
+   B. Provide verified information sources, clear correction and human escalation.
+   C. Encourage the customer to rely on the answer.
+   D. Delete the conversation without review.
 
-**Q10.** A Malaysian investor's bitcoin is held on an exchange that collapses. Which protection applies? *(Evaluate)*
-A. Full deposit insurance reimbursement
-B. Automatic compensation from a government fund
-C. The investor generally ranks as an unsecured creditor, as FTX customers discovered
-D. Bank Negara Malaysia restores the coins
+10. Which pair is the strongest adoption-readiness comparison?
+    A. Novelty and social-media attention.
+    B. Customer value and safeguards, assessed with pilot evidence.
+    C. Device price and logo design.
+    D. Number of technical terms in the proposal.
 
 ### Part B: Short Answer
 
-**Q1.** Explain, in your own words, how proof of work helps prevent double-spending on the Bitcoin network.
-
-**Q2.** Distinguish between a hot wallet and a cold wallet, and state one situation in which each is more appropriate.
-
-**Q3.** Compare the three main stablecoin designs and explain why the TerraUSD collapse damaged confidence in one of them specifically.
-
-**Q4.** Outline the main components of Malaysia's regulatory framework for digital assets, naming at least one statute, one set of guidelines and one type of registered operator.
-
-**Q5.** "Regulated exchanges make crypto a safe investment." Critically evaluate this statement for a Malaysian retail investor.
+1. Give one possible financial-education use of VR and one limitation that an institution should test.
+2. Explain how an IoT device could support usage-based insurance and name two customer safeguards.
+3. Explain why quantum computing is both a possible optimisation tool and a future encryption-planning issue.
+4. Name two risks that arise when AI tools are combined with DeFi services.
+5. Propose three measurable criteria for deciding whether a fictional Malaysian financial institution should scale an emerging-technology pilot.
 
 ### Answer Guide
 
-**Part A:**
-1. **B** — digital data is copyable, so a mechanism is needed to prevent the same coin being spent twice.
-2. **B** — UTXOs are consumed in full as inputs; change is returned as a new output.
-3. **B** — the April 2024 halving cut the reward from 6.25 to 3.125 BTC.
-4. **B** — The Merge moved Ethereum from proof of work to proof of stake in September 2022.
-5. **B** — gas prices computation in ether, aligning incentives and preventing spam.
-6. **B** — UST's algorithmic peg collapsed in a confidence death spiral, destroying tens of billions in value.
-7. **C** — the 2019 Prescription Order prescribed digital currencies and tokens as securities.
-8. **C** — Luno Malaysia is SC-registered; FTX collapsed and Binance has not been registered in Malaysia.
-9. **B** — the SAC recognised digital assets as *mal* and permitted trading on registered DAXs with conditions.
-10. **C** — no insurance or compensation applies; customers of failed exchanges are unsecured creditors.
+**Part A:** 1-B (AR overlays; VR immerses); 2-C (transparent data use and review); 3-B (measure learning and accessibility); 4-B (research-stage, use-case dependent); 5-B (future capability could affect some cryptography); 6-B (automation does not remove risk); 7-B (purpose limitation and minimisation); 8-A (controlled learning and safe exit); 9-B (verification and escalation); 10-B (customer benefit and safeguards).
 
-**Part B (model answers):**
-1. Proof of work forces miners to spend real computing power and electricity to add blocks. Transactions are grouped into blocks that all nodes verify against the shared history, so a coin already spent is rejected. Rewriting history to double-spend would require out-computing most of the honest network, which is practically and economically infeasible (Nakamoto, 2008).
-2. A hot wallet is connected to the internet (app or exchange account): convenient for small, frequent transactions but exposed to hacking and platform failure. A cold wallet keeps keys offline (hardware device or paper backup): safer for larger, long-term holdings but requires careful protection of the recovery phrase.
-3. Fiat-backed stablecoins hold reserve assets intended to back tokens 1:1; crypto-backed ones use over-collateralisation with automatic liquidation; algorithmic ones rely on supply-adjusting code and confidence. TerraUSD was algorithmic: when redemptions broke confidence, its peg and sister token collapsed in a death spiral, showing that code without hard reserves cannot guarantee a peg.
-4. The 2019 Prescription Order (under the Capital Markets and Services Act 2007) made digital currencies and tokens securities; the SC's *Guidelines on Digital Assets* (2020, revised 2024) govern token offerings and IEO operators; DAXs such as Luno Malaysia are registered as recognised market operators under the *Guidelines on Recognized Markets*; AMLA 2001 imposes AML/CFT duties; and crypto is not legal tender.
-5. SC registration regulates the intermediary's conduct, custody and security but does not guarantee prices, insure holdings or compensate losses; crypto is volatile and scams abound, so the investment itself remains high-risk even on a regulated platform.
+**Part B (model points):**
 
----
+1. VR could simulate monthly budgeting or borrowing choices. Test learning outcomes, motion discomfort, hardware access and an equivalent accessible non-VR route.
+2. Agreed vehicle-use data could inform a disclosed premium or contribution. Safeguards include opt-in consent, data minimisation, secure device handling, error correction, retention limits and a non-sensor fallback.
+3. Some quantum methods may eventually help specific optimisation problems, but performance depends on hardware and comparison with classical methods. A sufficiently capable future quantum computer may threaten some current public-key cryptography, so institutions should inventory dependencies and plan migration.
+4. Examples include model error triggering an automated transaction, smart-contract exploits, privacy leaks, oracle manipulation, governance concentration and unclear responsibility for customer complaints.
+5. Suitable measures include task completion and comprehension, error/incident rates, accessibility test results, consent withdrawal rates, customer complaints, data-quality measures and cost. Students should state a threshold and stop condition.
 
 ## Problem-Solving Corner
 
-### Problem 1: Percentage Gain/Loss and Maximum Drawdown
+### Problem 1: Pilot readiness score
 
-Aina buys RM5,000 of Bitcoin when the price is RM400,000 per BTC.
+A bank rates an AR education pilot on customer value (0–5), accessibility (0–5), privacy/security readiness (0–5) and operational feasibility (0–5). Scores are 4, 2, 3 and 4 respectively. The bank requires at least 3 in every category and a total of 14 to proceed to a limited pilot. Should it proceed?
 
-(a) How many bitcoins does she own?
-(b) The price rises to RM520,000. What is her holding worth, and her percentage gain?
-(c) The price then falls to RM312,000. What is her percentage gain/loss relative to her RM5,000 cost?
-(d) Compute the **maximum drawdown** — the percentage fall from the peak price to the trough price.
+**Solution:** The total is 4 + 2 + 3 + 4 = 13. It also scores 2 on accessibility, below the minimum of 3. It should not proceed to the pilot yet. The team should improve accessibility (for example, provide a non-headset version and test with users with disabilities), then repeat the assessment. A high overall score cannot compensate for a failed minimum safeguard.
 
-**Solution**
+### Problem 2: Cost per completed learning task
 
-(a) Units purchased = RM5,000 ÷ RM400,000 = **0.0125 BTC**.
+A conventional accessible video costs RM4,000 to produce and 200 learners complete the task. An AR pilot costs RM18,000 and 300 learners complete it. Calculate production cost per completion for each option. Does the lower unit cost alone establish which is better?
 
-(b) Value at peak = 0.0125 × RM520,000 = **RM6,500**.
-Percentage gain = (RM6,500 − RM5,000) ÷ RM5,000 × 100% = RM1,500 ÷ RM5,000 × 100% = **+30%**.
-
-(c) Value at trough = 0.0125 × RM312,000 = **RM3,900**.
-Gain/loss on cost = (RM3,900 − RM5,000) ÷ RM5,000 × 100% = −RM1,100 ÷ RM5,000 × 100% = **−22%** (a loss).
-
-(d) Maximum drawdown = (trough − peak) ÷ peak × 100%
-= (RM312,000 − RM520,000) ÷ RM520,000 × 100% = −RM208,000 ÷ RM520,000 × 100% = **−40%**.
-
-*Insight:* Aina lost only 22% on her cost, but an investor who bought at the peak lost 40%. Note also that recovering from a 40% drawdown requires a gain of 66.7% (RM312,000 → RM520,000) — losses and gains are asymmetric, which is why drawdown matters when assessing volatile assets.
-
-### Problem 2: Mining Rewards and Halving Arithmetic
-
-Recall: blocks are produced on average every 10 minutes; the block reward was 6.25 BTC in the 2020–2024 era and 3.125 BTC after the April 2024 halving; halvings occur every 210,000 blocks (≈ four years).
-
-(a) How many blocks are produced per day on average, and how many new bitcoins entered circulation per day after April 2024?
-(b) How many new bitcoins were created during the entire 2020–2024 era (210,000 blocks at 6.25 BTC each)?
-(c) What will the block reward be after the next two halvings (expected around 2028 and 2032)?
-
-**Solution**
-
-(a) Blocks per day = 24 hours × 60 minutes ÷ 10 minutes = **144 blocks**.
-New bitcoins per day after April 2024 = 144 × 3.125 = **450 BTC per day** (≈ 164,250 BTC per year, ignoring fees and minor timing variation).
-
-(b) Total issuance, 2020–2024 era = 210,000 blocks × 6.25 BTC = **1,312,500 BTC**.
-
-(c) Reward halves each era: 3.125 ÷ 2 = **1.5625 BTC** (c. 2028); 1.5625 ÷ 2 = **0.78125 BTC** (c. 2032).
-
-*Insight:* The geometric decline (50 → 25 → 12.5 → 6.25 → 3.125 → …) means most of the 21 million coins were issued early, and issuance asymptotically approaches the cap without ever exceeding it. Miners must therefore rely progressively more on transaction fees — an open question for Bitcoin's long-term security budget.
-
-### Problem 3: Stablecoin De-peg Scenario
-
-Encik Rahman converts RM20,000 into a US-dollar stablecoin at par (1 token = US$1), intending to earn yield in a DeFi protocol. At purchase, his token position is worth exactly RM20,000.
-
-(a) The stablecoin de-pegs to US$0.80. What is the ringgit value of his position, and his percentage loss?
-(b) The peg partially recovers to US$0.98 and he sells. What is his ringgit value and overall percentage result?
-(c) Contrast his likely outcome had he instead held an *algorithmic* stablecoin that failed like TerraUSD in 2022.
-
-**Solution**
-
-(a) Token value falls to 80% of par: RM20,000 × 0.80 = **RM16,000**; loss = (RM16,000 − RM20,000) ÷ RM20,000 = **−20%** (a RM4,000 loss).
-
-(b) At US$0.98: RM20,000 × 0.98 = **RM19,600**; overall result = −RM400 ÷ RM20,000 = **−2%** (a RM400 loss).
-
-(c) TerraUSD's peg collapsed almost entirely, and its sister token LUNA became worthless; holders recovered only a tiny fraction of their value. Encik Rahman's likely outcome would have been a near-total loss (for example, a fall to US$0.05 would leave RM20,000 × 0.05 = **RM1,000**, a −95% loss). The scenario shows why the *design* of a stablecoin — reserves versus algorithms — is the first thing an investor must examine, and why DeFi yield cannot compensate for the failure of the underlying asset.
-
----
+**Solution:** Video: RM4,000 ÷ 200 = RM20 per completion. AR: RM18,000 ÷ 300 = RM60 per completion. AR has a higher production cost per completion in this example. Cost alone does not establish educational value: compare comprehension, accessibility, maintenance, device requirements and learner outcomes. The numbers are illustrative only.
 
 ## References
 
-Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (Act 613) (Malaysia).
+Bank Negara Malaysia. (2022). *Financial sector blueprint 2022–2026*.
 
-Arslanian, H. (2022). *The book of crypto: The complete guide to understanding Bitcoin, cryptocurrencies and digital assets*. Palgrave Macmillan.
+Bank for International Settlements Innovation Hub. (2021). *Project Dunbar: International settlements using multi-CBDCs*.
 
-Bank Negara Malaysia. (2024). *Electronic know-your-customer (e-KYC)* [Policy document].
-
-Bank Negara Malaysia. (2025). *Discussion paper on asset tokenisation in the Malaysian financial sector*.
-
-Buterin, V. (2014). *Ethereum: A next-generation smart contract and decentralized application platform* [White paper].
-
-Capital Markets and Services Act 2007 (Act 671) (Malaysia).
-
-Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019 (Malaysia).
-
-Financial Action Task Force. (2021). *Updated guidance for a risk-based approach to virtual assets and virtual asset service providers*. FATF.
+Chishti, S., Bartoletti, I., Leslie, A., & Millie, S. M. (Eds.). (2020). *The AI book: The artificial intelligence handbook for investors, entrepreneurs and fintech visionaries*. Wiley.
 
 Harvey, C. R., Ramachandran, A., & Santoro, J. (2021). *DeFi and the future of finance*. Wiley.
 
-Nakamoto, S. (2008). *Bitcoin: A peer-to-peer electronic cash system* [White paper].
-
-Oseni, U. A., & Ali, S. N. (Eds.). (2019). *Fintech in Islamic finance: Theory and practice*. Routledge.
-
-Pompella, M., & Matousek, R. (Eds.). (2021). *The Palgrave handbook of FinTech and blockchain*. Palgrave Macmillan.
-
-Scott, B. (2022). *Cloudmoney: Cash, cards, crypto and the war for our wallets*. Bodley Head.
-
 Securities Commission Malaysia. (2024). *Guidelines on digital assets* (rev.).
-
-Securities Commission Malaysia. (2024). *Guidelines on recognized markets* (rev.).
-
-Zetzsche, D. A., Buckley, R. P., Arner, D. W., & Barberis, J. N. (2017). *From FinTech to TechFin: The regulatory challenges of data-driven finance* (University of Hong Kong Faculty of Law Research Paper No. 2017/011).
 
 
 ---
 
-# Chapter 7: Artificial Intelligence and Digital Technologies in Finance
+# Chapter 7: AI, Data and Digital Technologies in Finance
 
 ## Chapter Outline
 
-- 7.1 AI and Machine Learning (ML) in Financial Services
-- 7.2 Applications of AI in Banking and Financial Services
-- 7.3 Financial Data, Information Systems and Data Analytics
-- 7.4 Benefits, Limitations and Ethical Considerations of AI
+- 7.1 Artificial Intelligence, Machine Learning and Generative AI in Finance
+- 7.2 AI Use Cases: Credit Scoring, Fraud Detection, Customer Service and Document Processing
+- 7.3 Financial Data, Data Quality, Information Systems and Spreadsheet Analytics
+- 7.4 Limits of Automated Outputs: Bias, Verification and Human Review
 
 ## Learning Outcomes
 
@@ -3289,7 +3358,7 @@ Aina, a 22-year-old graduate in Penang, runs a small online business selling pho
 
 ---
 
-## 7.1 AI and Machine Learning (ML) in Financial Services
+## 7.1 Artificial Intelligence, Machine Learning and Generative AI in Finance
 
 ### 7.1.1 What Are AI, ML, Deep Learning and Generative AI?
 
@@ -3346,7 +3415,7 @@ Malaysia illustrates this vividly. **GXBank**, the first of Malaysia's five lice
 
 ---
 
-## 7.2 Applications of AI in Banking and Financial Services
+## 7.2 AI Use Cases: Credit Scoring, Fraud Detection, Customer Service and Document Processing
 
 AI is not a single product; it is a toolkit applied across the whole value chain of a financial institution. Bank Negara Malaysia's **Discussion Paper on Artificial Intelligence in the Malaysian Financial Sector** (BNM, 2025) surveys exactly these uses and proposes how they should be governed in Malaysia. This section walks through the major applications, from lending to customer service.
 
@@ -3398,7 +3467,7 @@ In August 2025, BNM issued its **Discussion Paper on Artificial Intelligence in 
 
 ---
 
-## 7.3 Financial Data, Information Systems and Data Analytics
+## 7.3 Financial Data, Data Quality, Information Systems and Spreadsheet Analytics
 
 ### 7.3.1 Types of Financial Data
 
@@ -3457,7 +3526,7 @@ In Malaysia, governance operates within the **Personal Data Protection Act 2010 
 
 ---
 
-## 7.4 Benefits, Limitations and Ethical Considerations of AI
+## 7.4 Limits of Automated Outputs: Bias, Verification and Human Review
 
 ### 7.4.1 The Benefits: Efficiency, Speed and Inclusion
 
@@ -3504,6 +3573,28 @@ Responsible institutions adopt **data minimisation** (collect only what is neede
 A widely accepted safeguard is the **human-in-the-loop (HITL)** principle: for high-stakes decisions, a human reviews, can override and remains accountable for the AI's recommendation. The degree of human involvement can be calibrated to risk — automatic approval for low-value, reversible decisions; mandatory human review for loan declines, account closures or AML escalations.
 
 Regionally, the benchmark for AI ethics in finance is the Monetary Authority of Singapore's **FEAT principles** (2018): firms using AI and data analytics in Singapore's financial sector should ensure their use is **Fair, Ethical, Accountable and Transparent**. *Fair* means decisions do not systematically disadvantage individuals or groups without justification; *Ethical* means AI use aligns with ethical standards and values; *Accountable* means boards and management answer for AI-driven decisions; *Transparent* means data subjects receive clear explanations where feasible. BNM's 2025 discussion paper develops Malaysia's own expectations in the same spirit, embedding governance, risk management and accountability into AI adoption (BNM, 2025). Together with RMiT and the PDPA, these frameworks sketch the emerging Malaysian rulebook: innovate, but remain explainable, fair and accountable.
+
+---
+
+## Applied Activity: Review Synthetic Credit or Fraud Outputs
+
+**Purpose:** Detect a data-quality issue and document a responsible human review.
+
+Use this synthetic payment-review table (all people and transactions are fictional):
+
+| Case | Amount (RM) | Model flag | Supporting data |
+|---|---:|---|---|
+| A | 45.00 | Review | New payee |
+| B | 4,800.00 | Review | New payee; new device |
+| C | 72.00 | Clear | Known payee |
+| D | 4,800.00 | Review | New payee; new device |
+| E | -35.00 | Clear | Known payee |
+
+In a spreadsheet, calculate the number and total value of flagged cases. Check for at least one data-quality issue (the duplicate case and negative payment amount are intentional). Identify one model output that should not be acted on automatically and explain what additional evidence a reviewer should check.
+
+For the selected case, record: the evidence reviewed, the uncertainty or data limitation, the decision made (approve, decline, hold or escalate), the reason, and what additional information could fairly resolve the uncertainty. Do not use real identity, account or transaction details.
+
+**Deliverable:** A corrected data-quality note, one labelled spreadsheet calculation and a short review record showing human accountability. State that a model flag is a prompt for investigation, not proof of fraud.
 
 ---
 
@@ -3760,14 +3851,14 @@ Zetzsche, D. A., Buckley, R. P., Arner, D. W., & Barberis, J. N. (2017). *From F
 
 ---
 
-# Chapter 8: Digital Banking Risk, Regulation and AI Ethics
+# Chapter 8: FinTech Risk, Regulation and Responsible Innovation
 
 ## Chapter Outline
 
-- 8.1 Key Risks in Digital Banking and FinTech (Cybersecurity, Fraud, Scams)
-- 8.2 Risk Management in Digital Banking Businesses
-- 8.3 AI Ethics (Bias, Fairness, Transparency and Accountability)
-- 8.4 Data Privacy, Consumer Protection and Regulatory Technology (RegTech)
+- 8.1 Cybersecurity, Phishing, Scams, Account Takeover and Operational Risk
+- 8.2 Preventive Controls, Incident Triage, Evidence Capture and Escalation
+- 8.3 AI Ethics in Practice: Bias, Fairness, Transparency and Accountability
+- 8.4 Data Privacy, Consumer Protection, AML Awareness and RegTech
 
 ## Learning Outcomes
 
@@ -3784,7 +3875,7 @@ After studying this chapter, you should be able to:
 
 Puan Rohana, 52, runs a busy nasi lemak stall in Kota Bharu. One Tuesday morning, between serving customers, she received a call from a man claiming to be from her bank's "fraud department". He knew her full name and the last four digits of her identity card number. He told her that her account was "under audit" for suspicious activity and that she must transfer RM9,500 to a "safe holding account" to protect her savings. Frightened, and impressed by how professional he sounded, she opened her banking app and made the transfer. Only when she told her daughter that evening did she realise she had been scammed. Her daughter immediately called **997**, the National Scam Response Centre hotline, and part of the money was frozen before it could be withdrawn. Rohana's story raises the questions at the heart of this chapter: What risks does digital banking create? Where did controls fail? And how do regulation and ethics protect Malaysians like her?
 
-## 8.1 Key Risks in Digital Banking and FinTech (Cybersecurity, Fraud, Scams)
+## 8.1 Cybersecurity, Phishing, Scams, Account Takeover and Operational Risk
 
 ### 8.1.1 Digital growth expands the attack surface
 
@@ -3832,7 +3923,7 @@ The logic of these measures is layered defence: prevention (device binding, OTP 
 
 > **🇲🇾 MALAYSIAN SPOTLIGHT:** Payments Network Malaysia (PayNet) is owned by Bank Negara Malaysia and operates the rails behind RENTAS, DuitNow, FPX, JomPAY and MyDebit. In 2025 it processed 8.44 billion digital payment transactions (PayNet, 2026). Because all participating banks connect through PayNet, it is uniquely positioned to run industry-wide fraud intelligence initiatives — spotting, for example, the same mule account receiving scam proceeds from customers of many different banks.
 
-## 8.2 Risk Management in Digital Banking Businesses
+## 8.2 Preventive Controls, Incident Triage, Evidence Capture and Escalation
 
 ### 8.2.1 The three lines of defence
 
@@ -3875,7 +3966,7 @@ Finally, every institution must maintain a **business continuity plan (BCP)**: a
 
 > **🧠 BRAINSTORMER:** Hyperscale cloud providers offer world-class security, but if most Malaysian banks rely on the same few providers, a single failure could affect the whole system. Should regulators cap how much of the banking industry one cloud provider may host — or would that simply force banks onto weaker, smaller platforms? Who should bear this systemic risk?
 
-## 8.3 AI Ethics (Bias, Fairness, Transparency and Accountability)
+## 8.3 AI Ethics in Practice: Bias, Fairness, Transparency and Accountability
 
 ### 8.3.1 AI in Malaysian finance and where bias comes from
 
@@ -3910,7 +4001,7 @@ Data-protection law adds a further layer. Profiling and automated decision-makin
 
 > **💡 DID YOU KNOW? (TRIVIA):** Algorithms already manage money for young Malaysians: 51% of robo-advisory (digital investment management) accounts are held by investors in their 20s, across more than one million accounts nationwide (Securities Commission Malaysia [SC], 2026). That makes the fairness and transparency of investment algorithms a question that directly affects your generation.
 
-## 8.4 Data Privacy, Consumer Protection and Regulatory Technology (RegTech)
+## 8.4 Data Privacy, Consumer Protection, AML Awareness and RegTech
 
 ### 8.4.1 The Personal Data Protection Act 2010 and its 2024 amendments
 
@@ -3953,6 +4044,18 @@ Compliance with everything described above — RMiT, PDPA, FSA conduct rules, an
 **SupTech** (supervisory technology) is the mirror image: the use of technology by *regulators themselves* to supervise more effectively — for example, collecting granular data through automated pipelines and applying analytics to detect emerging risks across the industry (Zetzsche et al., 2017). BNM's Financial Sector Blueprint 2022–2026 explicitly identifies SupTech as part of the central bank's modernisation agenda (BNM, 2022), and the Securities Commission Malaysia faces a parallel need as it supervises fast-growing capital-market fintech segments such as P2P financing, equity crowdfunding and digital asset exchanges (SC, 2026).
 
 The direction of travel is clear: as finance becomes more digital, both compliance and supervision must become more technological. For students, this also signals a career opportunity — RegTech and SupTech roles combine finance, law and data skills.
+
+## Applied Activity: Scam Response and Escalation Drill
+
+**Purpose:** Practise a calm first response to a simulated scam or disputed transaction.
+
+In pairs, role-play a customer who has just noticed an unauthorised or scam-induced transfer and a frontline support officer. Use a fictional case and follow the institution's approved process: establish immediate safety, direct the customer to contact the bank promptly and the National Scam Response Centre (NSRC) hotline at 997 where appropriate, avoid requesting passwords or one-time codes, and explain that recovery cannot be guaranteed.
+
+Complete an incident record with the time reported, channel, transaction reference, amount, relevant facts, actions already taken, evidence preserved and escalation destination. Preserve screenshots or messages without altering them; never forward sensitive material to a personal account or group chat. Escalate suspected account compromise through the approved secure channel.
+
+**Deliverable:** A two-minute customer response and a completed, privacy-conscious escalation record. Debrief which controls may prevent additional loss and which steps support investigation.
+
+---
 
 ## Case Study 8.1: Anatomy of a Malaysian Scam
 
@@ -4236,10 +4339,10 @@ Zetzsche, D. A., Buckley, R. P., Arner, D. W., & Barberis, J. N. (2017). *From F
 
 ## Chapter Outline
 
-- 9.1 Islamic Digital Finance and Its Development
-- 9.2 FinTech Applications in Islamic Banking and Financial Services
+- 9.1 Development of Islamic FinTech and Basic Shariah Considerations
+- 9.2 Islamic Digital Banking, Takaful and Digital Social Finance
 - 9.3 Shariah-Compliant Digital Investment and Financing
-- 9.4 Sustainable Finance and Its Role in Digital Finance (Green and Social)
+- 9.4 Green and Social Finance, Accessible Services and Digital Impact Tracking
 
 ## Learning Outcomes
 
@@ -4258,7 +4361,7 @@ Farah, a 22-year-old finance diploma student in Kota Kinabalu, wants to invest h
 
 ---
 
-## 9.1 Islamic Digital Finance and Its Development
+## 9.1 Development of Islamic FinTech and Basic Shariah Considerations
 
 Islamic finance is one of the fastest-growing segments of the global financial system, and Malaysia is widely recognised as one of its leaders. When financial technology (FinTech) meets Islamic finance, the result is Islamic digital finance — a field in which Malaysia holds a top-two position among global ecosystems. This section explains the Shariah principles behind Islamic finance, defines Islamic digital finance, and traces the legal and regulatory foundations that Malaysia has built over several decades.
 
@@ -4316,7 +4419,7 @@ Two lessons can be drawn from these numbers. First, Islamic fintech is no longer
 
 ---
 
-## 9.2 FinTech Applications in Islamic Banking and Financial Services
+## 9.2 Islamic Digital Banking, Takaful and Digital Social Finance
 
 The principles in Section 9.1 come alive in real products. Malaysia now has Islamic digital banks, Shariah-compliant P2P financing and equity crowdfunding (ECF) platforms, digital gold and waqf applications, and automated Shariah-screening tools. This section tours the main application areas.
 
@@ -4412,7 +4515,7 @@ Islamic digital finance inherits all the usual fintech risks — cybersecurity, 
 
 ---
 
-## 9.4 Sustainable Finance and Its Role in Digital Finance (Green and Social)
+## 9.4 Green and Social Finance, Accessible Services and Digital Impact Tracking
 
 Islamic finance and sustainable finance share a common root: both insist that finance serve real human and social purposes, not merely the multiplication of money. Malaysia has deliberately linked the two agendas, and fintech is the delivery mechanism that makes sustainable finance measurable and scalable.
 
@@ -4455,6 +4558,21 @@ Fintech contributes to sustainable finance in at least four ways:
 Every one of these channels creates a temptation toward **greenwashing** — the practice of exaggerating or misrepresenting the environmental or social benefits of a financial product to attract capital (BNM, 2021). A "green" fund that holds coal-adjacent stocks, or a "sustainable" bond with proceeds that drift to general corporate use, destroys the trust on which sustainable finance depends. Regulatory responses include taxonomy-based classification (the CCPT), disclosure standards, and independent external review of use-of-proceeds claims. For students, the working rule is simple: trust the verified data trail, not the label. Digital traceability — from tokenised proceeds tracking to ESG analytics — is precisely the tool that makes verification possible, which is why fintech and credible sustainable finance are natural partners.
 
 > **💡 DID YOU KNOW? (TRIVIA):** When Tadau Energy priced the world's first green sukuk in 2017, the instrument had to satisfy two independent review processes at once — Shariah certification of the sukuk structure and environmental certification of the solar project it financed (SC, 2019).
+
+---
+
+## Applied Activity: Shariah, Accessibility and Impact Checklist
+
+**Purpose:** Compare digital products without treating labels or marketing claims as proof.
+
+Compare two fictional product descriptions: a digital investment product advertised as Shariah-compliant and a green-social financing product advertised as having positive impact. For each product, complete this checklist:
+
+- **Shariah considerations:** Is the contract structure disclosed? Is the relevant Shariah governance or screening process identified? Are fees, purification (if applicable) and non-compliant activities explained?
+- **Accessibility:** Can users with limited connectivity, disabilities or lower digital literacy understand and use the service? Are assisted and complaint channels available?
+- **Impact claims:** Is the stated environmental or social outcome measurable, independently verifiable and linked to the use of funds? What evidence would reveal greenwashing?
+- **Consumer safeguards:** Are risks, liquidity, loss exposure and data use clearly explained?
+
+**Deliverable:** A side-by-side checklist, one question to ask each provider and a reasoned recommendation. The products are fictional; do not infer endorsement of any real provider.
 
 ---
 
@@ -4822,13 +4940,17 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **51% attack** [4]: an attack in which one actor controls the majority of a network's mining power or stake, enabling it to rewrite recent history and double-spend.
 
+**Accessibility** [6]: The extent to which a service can be understood and used by people with different abilities, devices, connectivity and levels of digital literacy.
+
 **Account takeover (ATO)** [8]: unauthorised access in which a criminal gains control of a genuine customer's account using stolen credentials.
+
+**Adoption readiness** [6]: An assessment of whether a technology, institution, customer need and supporting safeguards are mature enough for a controlled pilot or wider use.
 
 **Algorithmic bias** [8]: systematic error in an algorithm's outputs that produces unfair outcomes for particular groups of people.
 
 **Algorithmic trading** [5]: the use of computer programs to generate and submit buy or sell orders automatically according to defined rules, with little or no human intervention at execution.
 
-**Altcoin** [6]: any cryptocurrency other than bitcoin, spanning platform, payment, utility, governance, meme and stablecoin categories.
+**Altcoin** [4]: any cryptocurrency other than bitcoin, spanning platform, payment, utility, governance, meme and stablecoin categories.
 
 **Alternative data** [3]: non-traditional digital information — such as bank transaction flows, e-payment records and online sales — used to assess creditworthiness when formal records are thin.
 
@@ -4838,13 +4960,15 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Artificial intelligence (AI)** [7]: the field of building computer systems that perform tasks normally requiring human intelligence, such as understanding language, recognising images and making decisions.
 
+**Augmented reality (AR)** [6]: Digital information layered onto a view of the physical environment, commonly through a phone or wearable display.
+
 **Authorised push payment (APP) scam** [8]: a fraud in which the victim is deceived into personally authorising a transfer to the criminal's account.
 
 **Backtesting** [5]: simulating a trading strategy on historical market data to estimate how it would have performed before risking real capital.
 
 **BigTech** [1]: Large technology companies with vast user bases and data advantages that expand into financial services such as payments, lending and banking.
 
-**Bitcoin** [6]: the first decentralised cryptocurrency, proposed by Satoshi Nakamoto in 2008 and launched in 2009, enabling peer-to-peer value transfer without intermediaries.
+**Bitcoin** [4]: the first decentralised cryptocurrency, proposed by Satoshi Nakamoto in 2008 and launched in 2009, enabling peer-to-peer value transfer without intermediaries.
 
 **Black-box problem** [7]: the inability of humans to understand or explain precisely why a complex ML model produced a particular decision.
 
@@ -4868,11 +4992,15 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Crowdfunding** [3]: raising small amounts of money from a large number of people through an online platform to fund a project, cause or business.
 
+**Cryptographic agility** [6]: The ability to replace or update cryptographic algorithms and keys without disrupting essential systems.
+
 **Customer due diligence (CDD)** [2]: the process by which a financial institution identifies and verifies a customer, understands the purpose of the relationship, and monitors transactions accordingly.
 
 **Data breach** [8]: unauthorised access to or disclosure of personal or financial data, often arming future scams.
 
-**Decentralised finance (DeFi)** [6]: an ecosystem of blockchain-based applications that provide lending, trading and other financial services through smart contracts without intermediaries.
+**Data minimisation** [6]: Collecting and retaining only the personal data necessary for a stated and legitimate purpose.
+
+**Decentralised finance (DeFi)** [4]: an ecosystem of blockchain-based applications that provide lending, trading and other financial services through smart contracts without intermediaries.
 
 **Deep learning** [7]: a subset of ML using multi-layered neural networks to learn complex patterns from large volumes of data.
 
@@ -4894,7 +5022,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Distributed ledger technology (DLT)** [4]: a digital record-keeping system in which a ledger is shared, replicated and synchronised across multiple network nodes without a single central authority.
 
-**Double-spending problem** [6]: the risk that digital money, being copyable, is spent more than once; blockchains solve it without a central ledger-keeper.
+**Double-spending problem** [4]: the risk that digital money, being copyable, is spent more than once; blockchains solve it without a central ledger-keeper.
 
 **DuitNow** [2]: Malaysia's instant account-to-account transfer service (2018), addressed to proxies such as a mobile or MyKad number instead of a bank account number.
 
@@ -4932,7 +5060,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Full node** [4]: a node that downloads the entire blockchain and independently verifies every transaction and block against the consensus rules.
 
-**Gas** [6]: the unit measuring computational work on Ethereum, paid in ether, which compensates validators and deters spam.
+**Gas** [4]: the unit measuring computational work on Ethereum, paid in ether, which compensates validators and deters spam.
 
 **Generative AI** [7]: AI models that create new content — text, images, code or audio — in response to prompts.
 
@@ -4942,7 +5070,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Greenwashing** [9]: exaggerating or misrepresenting the environmental or social benefits of a financial product or activity to attract capital.
 
-**Halving** [6]: the programmed reduction, roughly every four years, of Bitcoin's block reward by half; the April 2024 halving cut it to 3.125 BTC.
+**Halving** [4]: the programmed reduction, roughly every four years, of Bitcoin's block reward by half; the April 2024 halving cut it to 3.125 BTC.
 
 **Hash** [4]: the fixed-length output of a one-way hash function; a digital fingerprint that uniquely represents any input and changes completely if the input changes.
 
@@ -4950,11 +5078,15 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Human-in-the-loop (HITL)** [7]: a safeguard in which a human reviews, can override and remains accountable for AI recommendations in high-stakes decisions.
 
+**Immersive technology** [6]: An interface that places a user in a computer-generated environment or overlays digital information on the physical environment.
+
 **Information asymmetry** [3]: a situation in which one party to a transaction holds more or better information than the other, complicating lending and investment decisions.
 
-**Initial coin offering (ICO)** [6]: a largely unregulated public sale of newly created tokens to raise funds, notorious for failures and fraud during 2017–2018.
+**Initial coin offering (ICO)** [4]: a largely unregulated public sale of newly created tokens to raise funds, notorious for failures and fraud during 2017–2018.
 
 **Interchange fee** [1]: The portion of a card transaction fee paid by the merchant's bank to the cardholder's issuing bank, forming a key revenue source for card issuers.
+
+**Internet of Things (IoT)** [6]: Connected physical devices that collect or exchange data through sensors, software and networks.
 
 **Investment note** [3]: a security issued through a registered P2P platform evidencing the issuer's obligation to repay investors principal plus agreed returns over a fixed tenor.
 
@@ -4982,7 +5114,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Merkle tree** [4]: a tree of pairwise hashes over a block's transactions, ending in a single root that enables efficient, lightweight verification of individual transactions.
 
-**Mining** [6]: the competitive process of validating transactions and adding blocks to a proof-of-work blockchain in return for block rewards and fees.
+**Mining** [4]: the competitive process of validating transactions and adding blocks to a proof-of-work blockchain in return for block rewards and fees.
 
 **Mobile-first** [2]: a design philosophy in which the smartphone application is the primary banking channel and all other channels are built around it.
 
@@ -5006,7 +5138,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Node** [4]: a computer running a blockchain's software that stores, relays and (depending on type) validates ledger data according to the consensus rules.
 
-**Non-fungible token (NFT)** [6]: a unique blockchain token representing a specific item, not interchangeable one-for-one with other tokens.
+**Non-fungible token (NFT)** [4]: a unique blockchain token representing a specific item, not interchangeable one-for-one with other tokens.
 
 **Nonce** [4]: an adjustable number in a block header that proof-of-work miners vary when searching for a hash that meets the network's difficulty target.
 
@@ -5036,21 +5168,25 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Post-money valuation** [3]: a company's value immediately after a funding round, equal to the pre-money valuation plus the amount of new capital raised.
 
+**Post-quantum cryptography** [6]: Cryptographic methods designed to resist attacks from both conventional and sufficiently capable quantum computers.
+
 **Pre-money valuation** [3]: the agreed value of a company immediately before new investment money is added in a funding round.
 
-**Private key** [6]: a secret cryptographic number that proves ownership of cryptocurrency and authorises spending; losing it means losing the funds permanently.
+**Private key** [4]: a secret cryptographic number that proves ownership of cryptocurrency and authorises spending; losing it means losing the funds permanently.
 
-**Proof of stake** [6]: a consensus mechanism where validators lock up cryptocurrency as collateral to propose and confirm blocks, with dishonesty punished by slashing.
+**Proof of stake** [4]: a consensus mechanism where validators lock up cryptocurrency as collateral to propose and confirm blocks, with dishonesty punished by slashing.
 
 **Proof of stake (PoS)** [4]: a consensus mechanism in which validators lock up cryptocurrency as a stake and are penalised for dishonesty, avoiding PoW's energy race.
 
-**Proof of work** [6]: a consensus mechanism requiring participants to expend computational effort to add blocks, making attacks economically costly.
+**Proof of work** [4]: a consensus mechanism requiring participants to expend computational effort to add blocks, making attacks economically costly.
 
 **Proof of work (PoW)** [4]: a consensus mechanism in which miners compete to solve a computational puzzle, making block production costly and attacks economically impractical.
 
-**Public key** [6]: a cryptographic value derived from a private key, used to generate receiving addresses; safe to share.
+**Public key** [4]: a cryptographic value derived from a private key, used to generate receiving addresses; safe to share.
 
 **Public-key cryptography** [4]: an encryption scheme using a linked private key (secret, used to sign) and public key (shared, used to verify), forming the basis of blockchain ownership.
+
+**Quantum computing** [6]: A computing approach using quantum-mechanical properties, with potential advantages for selected computational problems.
 
 **Real-time gross settlement (RTGS)** [2]: the settlement of high-value interbank payments individually, immediately and with finality, rather than in netted batches.
 
@@ -5072,7 +5208,9 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Robo-advisory** [5]: automated, algorithm-driven investment advice and portfolio management delivered through a digital platform with minimal human supervision.
 
-**Security token offering (STO)** [6]: a regulated issuance of blockchain tokens representing legally recognised securities, subject to securities law and disclosure requirements.
+**Security token offering (STO)** [4]: a regulated issuance of blockchain tokens representing legally recognised securities, subject to securities law and disclosure requirements.
+
+**Sensor data** [6]: Measurements collected by a device, such as location, movement or usage, which may be incomplete or inaccurate.
 
 **Shariah Advisory Council (SAC)** [9]: the apex authority under the Central Bank of Malaysia Act 2009 for ascertaining Islamic law for Islamic financial business in Malaysia.
 
@@ -5106,15 +5244,21 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Transaction monitoring** [7]: the screening of customer transactions for patterns consistent with money laundering or terrorism financing, as required under AMLA 2001.
 
-**Unspent transaction output (UTXO)** [6]: a discrete, spendable chunk of cryptocurrency recorded on the blockchain, consumed entirely as an input when spent, with any remainder returned as change.
+**Unspent transaction output (UTXO)** [4]: a discrete, spendable chunk of cryptocurrency recorded on the blockchain, consumed entirely as an input when spent, with any remainder returned as change.
 
 **Unsupervised learning** [7]: ML that finds structure, clusters or anomalies in unlabelled data without known correct answers.
+
+**Usage-based insurance** [6]: Insurance pricing or coverage informed by measured use or behaviour, such as driving distance or patterns.
 
 **Value-based Intermediation (VBI)** [9]: BNM's 2018 initiative with the Islamic banking industry to deliver measurable value to stakeholders, the economy and the community.
 
 **Virtual card** [2]: a payment card credential that exists only in digital form, issued instantly inside an app and usable for online or wallet-based payments.
 
+**Virtual reality (VR)** [6]: A computer-generated environment that immerses a user, commonly through a headset.
+
 **Wakalah** [9]: an agency contract in which a principal appoints an agent to act on their behalf, typically for a fee; used in robo-advisory and takaful.
+
+**Wearable** [6]: A body-worn connected device that may support payments or collect user or activity data.
 
 
 ---
@@ -5127,31 +5271,34 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 ## A
 
 - **51% attack**, 4
+- **Accessibility**, 6
 - **Account takeover (ATO)**, 8
+- **Adoption readiness**, 6
 - AEON Bank, 1, 2, 7, 9
 - Akru, 1, 5
 - **Algorithmic bias**, 8
 - **Algorithmic trading**, 5
 - Alixco, 1, 3
-- **Altcoin**, 6
+- **Altcoin**, 4
 - **Alternative data**, 3
-- AMLA, 2, 6, 7
+- AMLA, 2, 4, 7
 - Apple Card, 7
 - **Application programming interface (API)**, 2
 - **Arbitrage**, 5
 - **Artificial intelligence (AI)**, 7
 - Ata Plus, 1, 3, 7
+- **Augmented reality (AR)**, 6
 - **Authorised push payment (APP) scam**, 8
 
 ## B
 
 - B2B FinPAL, 1, 3
 - **Backtesting**, 5
-- Bank for International Settlements, 2, 4, 7
+- Bank for International Settlements, 2, 4, 6, 7
 - Bank Negara Malaysia, 1, 2, 3, 4, 5, 6, 7, 8, 9
 - BEST Invest, 1, 3, 5, 9
 - **BigTech**, 1
-- **Bitcoin**, 1, 2, 4, 6, 9
+- **Bitcoin**, 1, 2, 4, 9
 - **Black-box problem**, 7
 - **Block**, 4
 - **Blockchain**, 4
@@ -5159,12 +5306,12 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - Bursa Malaysia, 5, 9
 - **Business continuity plan (BCP)**, 8
 - **Business model**, 1
-- Buterin, 4, 6
+- Buterin, 4
 
 ## C
 
 - CapBay, 1, 3
-- Capital Markets and Services Act 2007, 1, 3, 4, 6
+- Capital Markets and Services Act 2007, 1, 3, 4
 - CCPT, 9
 - **Central bank digital currency (CBDC)**, 2
 - Central Bank of Malaysia Act 2009, 1, 2, 5, 7, 9
@@ -5174,12 +5321,14 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Consensus mechanism**, 4
 - **Credit scoring**, 3
 - **Crowdfunding**, 3
+- **Cryptographic agility**, 6
 - **Customer due diligence (CDD)**, 2
 
 ## D
 
 - **Data breach**, 8
-- **Decentralised finance (DeFi)**, 6
+- **Data minimisation**, 6
+- **Decentralised finance (DeFi)**, 4
 - **Deep learning**, 7
 - **Default risk**, 3
 - **Digital asset exchange (DAX)**, 1
@@ -5191,13 +5340,13 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Dilution**, 3
 - **Direct market access (DMA)**, 5
 - **Distributed ledger technology (DLT)**, 4
-- **Double-spending problem**, 6
+- **Double-spending problem**, 4
 - **DuitNow**, 1, 2, 7, 8
 - **DuitNow QR**, 1, 2, 7, 8
 
 ## E
 
-- e-KYC, 1, 2, 3, 4, 5, 6, 7, 8, 9
+- e-KYC, 1, 2, 3, 4, 5, 7, 8, 9
 - **E-wallet**, 1
 - **Effective annual cost**, 3
 - **Electronic know-your-customer (e-KYC)**, 1
@@ -5205,17 +5354,17 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Embedded finance**, 1
 - **Environmental, social and governance (ESG)**, 9
 - **Equity crowdfunding (ECF)**, 1
-- Ethereum, 4, 6
+- Ethereum, 4
 - Ethis, 1, 3, 9
 - **Exchange-traded fund (ETF)**, 5
 - **Explainability**, 8
 
 ## F
 
-- FATF, 6
+- FATF, 4
 - **FEAT principles**, 5, 7, 8
 - **Financial inclusion**, 1
-- Financial Sector Blueprint, 1, 2, 3, 4, 7, 8
+- Financial Sector Blueprint, 1, 2, 3, 4, 6, 7, 8
 - Financial Services Act 2013, 1, 2, 8, 9
 - **Financial technology (FinTech)**, 1
 - Financial Technology Regulatory Sandbox, 1
@@ -5224,14 +5373,14 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - FPX, 1, 2, 7, 8
 - **Fraud detection**, 7
 - **Freemium**, 1
-- FTX, 4, 6
+- FTX, 4
 - **Full node**, 4
 - Fundaztic, 1, 3
 - Funding Societies, 1, 3
 
 ## G
 
-- **Gas**, 6
+- **Gas**, 4
 - **Generative AI**, 7
 - **Gharar**, 9
 - Global Findex, 1, 2, 3, 7, 8, 9
@@ -5240,23 +5389,25 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Green sukuk**, 9
 - **Greenwashing**, 9
 - Guidelines on Digital Assets, 1, 4, 6, 9
-- Guidelines on Recognized Markets, 1, 3, 4, 6, 9
+- Guidelines on Recognized Markets, 1, 3, 4, 9
 - GXBank, 1, 2, 7, 9
 
 ## H
 
-- **Halving**, 6
+- **Halving**, 4
 - **Hash**, 4
-- Hata, 1, 4, 6
+- Hata, 1, 4
 - HelloGold, 1, 9
 - **High-frequency trading (HFT)**, 5
 - **Human-in-the-loop (HITL)**, 7
 
 ## I
 
+- **Immersive technology**, 6
 - **Information asymmetry**, 3
-- **Initial coin offering (ICO)**, 6
+- **Initial coin offering (ICO)**, 4
 - **Interchange fee**, 1
+- **Internet of Things (IoT)**, 6
 - **Investment note**, 3
 - **Islamic digital finance**, 9
 - Islamic Financial Services Act 2013, 1, 2, 9
@@ -5281,7 +5432,7 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - Licensing Framework for Digital Banks, 1, 2, 7, 8, 9
 - **Light node**, 4
 - **Liveness detection**, 2
-- Luno, 1, 4, 6
+- Luno, 1, 4
 
 ## M
 
@@ -5296,7 +5447,7 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Merkle tree**, 4
 - microLEAP, 1, 3, 9
 - MIFC, 1, 9
-- **Mining**, 6
+- **Mining**, 4
 - **Mobile-first**, 2
 - **Model risk**, 7
 - Modern Portfolio Theory, 5
@@ -5314,13 +5465,13 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 
 ## N
 
-- Nakamoto, 1, 4, 6
+- Nakamoto, 1, 4
 - **Neobank**, 1
 - **Neural network**, 7
 - **Node**, 4
-- **Non-fungible token (NFT)**, 6
+- **Non-fungible token (NFT)**, 4
 - **Nonce**, 4
-- NSRC, 2, 6, 7, 8
+- NSRC, 2, 7, 8
 
 ## O
 
@@ -5345,16 +5496,21 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - **Phishing**, 8
 - pitchIN, 1, 3
 - **Post-money valuation**, 3
+- **Post-quantum cryptography**, 6
 - **Pre-money valuation**, 3
-- **Private key**, 6
-- Project Dunbar, 2, 4
+- **Private key**, 4
+- Project Dunbar, 2, 4, 6
 - Project mBridge, 2, 4
-- **Proof of stake**, 6
+- **Proof of stake**, 4
 - **Proof of stake (PoS)**, 4
-- **Proof of work**, 6
+- **Proof of work**, 4
 - **Proof of work (PoW)**, 4
-- **Public key**, 6
+- **Public key**, 4
 - **Public-key cryptography**, 4
+
+## Q
+
+- **Quantum computing**, 6
 
 ## R
 
@@ -5369,20 +5525,21 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - RENTAS, 1, 2, 7, 8
 - **Riba**, 9
 - **Risk profiling**, 5
-- RMiT, 1, 2, 3, 4, 5, 6, 7, 8, 9
+- RMiT, 1, 2, 3, 4, 5, 7, 8, 9
 - **Robo-advisory**, 5
 - Ryt Bank, 1, 2, 7, 9
 
 ## S
 
 - Securities Commission Malaysia, 1, 3, 4, 5, 6, 7, 8, 9
-- **Security token offering (STO)**, 6
-- SemakMule, 6, 7, 8
-- Shariah Advisory Council, 4, 6, 9
+- **Security token offering (STO)**, 4
+- SemakMule, 4, 7, 8
+- **Sensor data**, 6
+- Shariah Advisory Council, 4, 9
 - **Shariah Advisory Council (SAC)**, 9
 - **Shariah-compliant**, 3
 - **Signal**, 5
-- SINEGY, 1, 4, 6
+- SINEGY, 1, 4
 - **Slippage**, 5
 - **Smart contract**, 4
 - **Social engineering**, 8
@@ -5397,30 +5554,33 @@ Numbers refer to chapters. Bold terms are defined in the Glossary.
 - Tadau Energy, 9
 - **Takaful**, 9
 - **Tawarruq**, 9
-- TerraUSD, 6
-- TerraUSD (UST), 6
+- TerraUSD, 4
+- TerraUSD (UST), 4
 - **Three lines of defence**, 8
 - **Tokenisation**, 4
 - **Tokenised deposit**, 2
-- Tokenize, 1, 4, 6
+- Tokenize, 1, 4
 - Touch 'n Go eWallet, 1, 2, 7
 - **Transaction monitoring**, 7
 
 ## U
 
-- **Unspent transaction output (UTXO)**, 6
+- **Unspent transaction output (UTXO)**, 4
 - **Unsupervised learning**, 7
+- **Usage-based insurance**, 6
 
 ## V
 
 - Value-based Intermediation, 1, 9
 - **Value-based Intermediation (VBI)**, 9
 - VBI, 9
-- Versa, 1, 4, 5, 7
+- Versa, 1, 4, 5, 6, 7
 - **Virtual card**, 2
+- **Virtual reality (VR)**, 6
 
 ## W
 
 - Wahed Invest, 1, 5, 7, 9
 - **Wakalah**, 9
+- **Wearable**, 6
 - World Bank, 1, 2, 3, 7, 8, 9

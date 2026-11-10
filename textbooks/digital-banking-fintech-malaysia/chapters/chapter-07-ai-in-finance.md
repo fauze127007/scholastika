@@ -1,11 +1,11 @@
-# Chapter 7: Artificial Intelligence and Digital Technologies in Finance
+# Chapter 7: AI, Data and Digital Technologies in Finance
 
 ## Chapter Outline
 
-- 7.1 AI and Machine Learning (ML) in Financial Services
-- 7.2 Applications of AI in Banking and Financial Services
-- 7.3 Financial Data, Information Systems and Data Analytics
-- 7.4 Benefits, Limitations and Ethical Considerations of AI
+- 7.1 Artificial Intelligence, Machine Learning and Generative AI in Finance
+- 7.2 AI Use Cases: Credit Scoring, Fraud Detection, Customer Service and Document Processing
+- 7.3 Financial Data, Data Quality, Information Systems and Spreadsheet Analytics
+- 7.4 Limits of Automated Outputs: Bias, Verification and Human Review
 
 ## Learning Outcomes
 
@@ -24,7 +24,7 @@ Aina, a 22-year-old graduate in Penang, runs a small online business selling pho
 
 ---
 
-## 7.1 AI and Machine Learning (ML) in Financial Services
+## 7.1 Artificial Intelligence, Machine Learning and Generative AI in Finance
 
 ### 7.1.1 What Are AI, ML, Deep Learning and Generative AI?
 
@@ -81,7 +81,7 @@ Malaysia illustrates this vividly. **GXBank**, the first of Malaysia's five lice
 
 ---
 
-## 7.2 Applications of AI in Banking and Financial Services
+## 7.2 AI Use Cases: Credit Scoring, Fraud Detection, Customer Service and Document Processing
 
 AI is not a single product; it is a toolkit applied across the whole value chain of a financial institution. Bank Negara Malaysia's **Discussion Paper on Artificial Intelligence in the Malaysian Financial Sector** (BNM, 2025) surveys exactly these uses and proposes how they should be governed in Malaysia. This section walks through the major applications, from lending to customer service.
 
@@ -133,7 +133,7 @@ In August 2025, BNM issued its **Discussion Paper on Artificial Intelligence in 
 
 ---
 
-## 7.3 Financial Data, Information Systems and Data Analytics
+## 7.3 Financial Data, Data Quality, Information Systems and Spreadsheet Analytics
 
 ### 7.3.1 Types of Financial Data
 
@@ -192,7 +192,7 @@ In Malaysia, governance operates within the **Personal Data Protection Act 2010 
 
 ---
 
-## 7.4 Benefits, Limitations and Ethical Considerations of AI
+## 7.4 Limits of Automated Outputs: Bias, Verification and Human Review
 
 ### 7.4.1 The Benefits: Efficiency, Speed and Inclusion
 
@@ -239,6 +239,28 @@ Responsible institutions adopt **data minimisation** (collect only what is neede
 A widely accepted safeguard is the **human-in-the-loop (HITL)** principle: for high-stakes decisions, a human reviews, can override and remains accountable for the AI's recommendation. The degree of human involvement can be calibrated to risk — automatic approval for low-value, reversible decisions; mandatory human review for loan declines, account closures or AML escalations.
 
 Regionally, the benchmark for AI ethics in finance is the Monetary Authority of Singapore's **FEAT principles** (2018): firms using AI and data analytics in Singapore's financial sector should ensure their use is **Fair, Ethical, Accountable and Transparent**. *Fair* means decisions do not systematically disadvantage individuals or groups without justification; *Ethical* means AI use aligns with ethical standards and values; *Accountable* means boards and management answer for AI-driven decisions; *Transparent* means data subjects receive clear explanations where feasible. BNM's 2025 discussion paper develops Malaysia's own expectations in the same spirit, embedding governance, risk management and accountability into AI adoption (BNM, 2025). Together with RMiT and the PDPA, these frameworks sketch the emerging Malaysian rulebook: innovate, but remain explainable, fair and accountable.
+
+---
+
+## Applied Activity: Review Synthetic Credit or Fraud Outputs
+
+**Purpose:** Detect a data-quality issue and document a responsible human review.
+
+Use this synthetic payment-review table (all people and transactions are fictional):
+
+| Case | Amount (RM) | Model flag | Supporting data |
+|---|---:|---|---|
+| A | 45.00 | Review | New payee |
+| B | 4,800.00 | Review | New payee; new device |
+| C | 72.00 | Clear | Known payee |
+| D | 4,800.00 | Review | New payee; new device |
+| E | -35.00 | Clear | Known payee |
+
+In a spreadsheet, calculate the number and total value of flagged cases. Check for at least one data-quality issue (the duplicate case and negative payment amount are intentional). Identify one model output that should not be acted on automatically and explain what additional evidence a reviewer should check.
+
+For the selected case, record: the evidence reviewed, the uncertainty or data limitation, the decision made (approve, decline, hold or escalate), the reason, and what additional information could fairly resolve the uncertainty. Do not use real identity, account or transaction details.
+
+**Deliverable:** A corrected data-quality note, one labelled spreadsheet calculation and a short review record showing human accountability. State that a model flag is a prompt for investigation, not proof of fraud.
 
 ---
 

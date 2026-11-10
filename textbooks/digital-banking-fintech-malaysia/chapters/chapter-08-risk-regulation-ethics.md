@@ -1,11 +1,11 @@
-# Chapter 8: Digital Banking Risk, Regulation and AI Ethics
+# Chapter 8: FinTech Risk, Regulation and Responsible Innovation
 
 ## Chapter Outline
 
-- 8.1 Key Risks in Digital Banking and FinTech (Cybersecurity, Fraud, Scams)
-- 8.2 Risk Management in Digital Banking Businesses
-- 8.3 AI Ethics (Bias, Fairness, Transparency and Accountability)
-- 8.4 Data Privacy, Consumer Protection and Regulatory Technology (RegTech)
+- 8.1 Cybersecurity, Phishing, Scams, Account Takeover and Operational Risk
+- 8.2 Preventive Controls, Incident Triage, Evidence Capture and Escalation
+- 8.3 AI Ethics in Practice: Bias, Fairness, Transparency and Accountability
+- 8.4 Data Privacy, Consumer Protection, AML Awareness and RegTech
 
 ## Learning Outcomes
 
@@ -22,7 +22,7 @@ After studying this chapter, you should be able to:
 
 Puan Rohana, 52, runs a busy nasi lemak stall in Kota Bharu. One Tuesday morning, between serving customers, she received a call from a man claiming to be from her bank's "fraud department". He knew her full name and the last four digits of her identity card number. He told her that her account was "under audit" for suspicious activity and that she must transfer RM9,500 to a "safe holding account" to protect her savings. Frightened, and impressed by how professional he sounded, she opened her banking app and made the transfer. Only when she told her daughter that evening did she realise she had been scammed. Her daughter immediately called **997**, the National Scam Response Centre hotline, and part of the money was frozen before it could be withdrawn. Rohana's story raises the questions at the heart of this chapter: What risks does digital banking create? Where did controls fail? And how do regulation and ethics protect Malaysians like her?
 
-## 8.1 Key Risks in Digital Banking and FinTech (Cybersecurity, Fraud, Scams)
+## 8.1 Cybersecurity, Phishing, Scams, Account Takeover and Operational Risk
 
 ### 8.1.1 Digital growth expands the attack surface
 
@@ -70,7 +70,7 @@ The logic of these measures is layered defence: prevention (device binding, OTP 
 
 > **🇲🇾 MALAYSIAN SPOTLIGHT:** Payments Network Malaysia (PayNet) is owned by Bank Negara Malaysia and operates the rails behind RENTAS, DuitNow, FPX, JomPAY and MyDebit. In 2025 it processed 8.44 billion digital payment transactions (PayNet, 2026). Because all participating banks connect through PayNet, it is uniquely positioned to run industry-wide fraud intelligence initiatives — spotting, for example, the same mule account receiving scam proceeds from customers of many different banks.
 
-## 8.2 Risk Management in Digital Banking Businesses
+## 8.2 Preventive Controls, Incident Triage, Evidence Capture and Escalation
 
 ### 8.2.1 The three lines of defence
 
@@ -113,7 +113,7 @@ Finally, every institution must maintain a **business continuity plan (BCP)**: a
 
 > **🧠 BRAINSTORMER:** Hyperscale cloud providers offer world-class security, but if most Malaysian banks rely on the same few providers, a single failure could affect the whole system. Should regulators cap how much of the banking industry one cloud provider may host — or would that simply force banks onto weaker, smaller platforms? Who should bear this systemic risk?
 
-## 8.3 AI Ethics (Bias, Fairness, Transparency and Accountability)
+## 8.3 AI Ethics in Practice: Bias, Fairness, Transparency and Accountability
 
 ### 8.3.1 AI in Malaysian finance and where bias comes from
 
@@ -148,7 +148,7 @@ Data-protection law adds a further layer. Profiling and automated decision-makin
 
 > **💡 DID YOU KNOW? (TRIVIA):** Algorithms already manage money for young Malaysians: 51% of robo-advisory (digital investment management) accounts are held by investors in their 20s, across more than one million accounts nationwide (Securities Commission Malaysia [SC], 2026). That makes the fairness and transparency of investment algorithms a question that directly affects your generation.
 
-## 8.4 Data Privacy, Consumer Protection and Regulatory Technology (RegTech)
+## 8.4 Data Privacy, Consumer Protection, AML Awareness and RegTech
 
 ### 8.4.1 The Personal Data Protection Act 2010 and its 2024 amendments
 
@@ -191,6 +191,18 @@ Compliance with everything described above — RMiT, PDPA, FSA conduct rules, an
 **SupTech** (supervisory technology) is the mirror image: the use of technology by *regulators themselves* to supervise more effectively — for example, collecting granular data through automated pipelines and applying analytics to detect emerging risks across the industry (Zetzsche et al., 2017). BNM's Financial Sector Blueprint 2022–2026 explicitly identifies SupTech as part of the central bank's modernisation agenda (BNM, 2022), and the Securities Commission Malaysia faces a parallel need as it supervises fast-growing capital-market fintech segments such as P2P financing, equity crowdfunding and digital asset exchanges (SC, 2026).
 
 The direction of travel is clear: as finance becomes more digital, both compliance and supervision must become more technological. For students, this also signals a career opportunity — RegTech and SupTech roles combine finance, law and data skills.
+
+## Applied Activity: Scam Response and Escalation Drill
+
+**Purpose:** Practise a calm first response to a simulated scam or disputed transaction.
+
+In pairs, role-play a customer who has just noticed an unauthorised or scam-induced transfer and a frontline support officer. Use a fictional case and follow the institution's approved process: establish immediate safety, direct the customer to contact the bank promptly and the National Scam Response Centre (NSRC) hotline at 997 where appropriate, avoid requesting passwords or one-time codes, and explain that recovery cannot be guaranteed.
+
+Complete an incident record with the time reported, channel, transaction reference, amount, relevant facts, actions already taken, evidence preserved and escalation destination. Preserve screenshots or messages without altering them; never forward sensitive material to a personal account or group chat. Escalate suspected account compromise through the approved secure channel.
+
+**Deliverable:** A two-minute customer response and a completed, privacy-conscious escalation record. Debrief which controls may prevent additional loss and which steps support investigation.
+
+---
 
 ## Case Study 8.1: Anatomy of a Malaysian Scam
 

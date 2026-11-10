@@ -1,12 +1,12 @@
-# Chapter 3: Digital Financing, Peer-to-Peer Lending and Crowdfunding
+# Chapter 3: Digital Financing, P2P Financing and Crowdfunding
 
 ## Chapter Outline
 
-- 3.1 Capital Raising and Digital Financing
-- 3.2 Peer-to-Peer (P2P) Financing
-- 3.3 Types of Crowdfunding and Equity Crowdfunding
-- 3.4 Platform Fees and Financing Costs
-- 3.5 Risks, Financial Inclusion and Regulatory Considerations
+- 3.1 Digital Financing and Capital-Raising Options for Individuals and Small Businesses
+- 3.2 P2P Financing: Issuers, Investors and Platform Operators
+- 3.3 Donation, Reward and Equity Crowdfunding: ECF Compared with P2P Financing
+- 3.4 Platform Fees, Repayment Terms and Total Financing Cost
+- 3.5 Credit and Platform Risks, Disclosure, Inclusion and Malaysian Oversight
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ Her bank asks for audited accounts, collateral and a guarantor. Aina has none of
 
 Aina's story shows why digital financing exists — and why it matters to thousands of Malaysian micro, small and medium enterprises. This chapter explains how it works, what it costs, and what can go wrong.
 
-## 3.1 Capital Raising and Digital Financing
+## 3.1 Digital Financing and Capital-Raising Options for Individuals and Small Businesses
 
 Every business needs capital. Money is needed to start a business (seed capital), to buy equipment (capital expenditure) and to pay for daily running costs such as wages, rent and raw materials (working capital). Traditionally, Malaysian businesses raised this money from their own savings, from family and friends, from bank loans or — for larger companies — from issuing shares and bonds. This section explains why that traditional system leaves many small businesses behind, and how digital channels are filling the gap.
 
@@ -82,7 +82,7 @@ Malaysia moved early. It was the first country in ASEAN to regulate equity crowd
 
 > **🇲🇾 MALAYSIAN SPOTLIGHT:** The Securities Commission Malaysia, established in 1993, has become one of Asia's most active regulators of alternative finance. Its decision to license P2P and ECF platforms in 2015–2016 — years before many neighbours — helped build a market that by 2025 had supplied more than RM12 billion in cumulative alternative financing to Malaysian MSMEs, much of it to businesses too small for conventional bank credit (SC, 2026).
 
-## 3.2 Peer-to-Peer (P2P) Financing
+## 3.2 P2P Financing: Issuers, Investors and Platform Operators
 
 P2P financing is the larger of Malaysia's two alternative-financing segments and the one most relevant to ordinary small businesses. This section defines the concept, explains how investment notes work, shows how platforms assess credit using alternative data, and presents the Malaysian market in numbers.
 
@@ -154,7 +154,7 @@ Registered operators active in Malaysia include Funding Societies, Fundaztic, B2
 
 > **🧠 BRAINSTORMER:** If 98% of P2P campaigns finance working capital, what does that suggest about the *types* of needs banks are still not meeting for Malaysian MSMEs? What might happen to these businesses if P2P platforms suddenly disappeared?
 
-## 3.3 Types of Crowdfunding and Equity Crowdfunding
+## 3.3 Donation, Reward and Equity Crowdfunding: ECF Compared with P2P Financing
 
 P2P financing is, in fact, one member of a larger family: crowdfunding. This section defines the four main types of crowdfunding, then focuses on equity crowdfunding (ECF), the segment in which investors become part-owners of the businesses they back.
 
@@ -204,7 +204,7 @@ Three observations follow. First, growth is rapid from a small base: 2025 fundra
 
 > **🧠 BRAINSTORMER:** A social enterprise wants to build recycling centres but will earn only modest profits for its first five years. Which type of crowdfunding — donation, reward, debt or equity — would you recommend, and why? Would your answer change if the founders refused to give up any ownership?
 
-## 3.4 Platform Fees and Financing Costs
+## 3.4 Platform Fees, Repayment Terms and Total Financing Cost
 
 Digital financing is convenient, but it is not free. Platforms charge fees to run their marketplaces, and investors demand returns for bearing risk. This section maps the typical fee structures, shows how to compute the *effective* cost of P2P financing, and explains the different cost logic of equity crowdfunding.
 
@@ -248,7 +248,7 @@ ECF has a different cost logic, because there is no debt to repay. Instead, an E
 
 The absence of repayment obligations, however, is a genuine benefit: an ECF-funded company keeps all its cash for growth and owes investors nothing if the plan fails. For high-risk, high-growth ventures, equity is often the *only* sustainable financing — no prudent lender will fund a firm that cannot service debt. Students should therefore resist the question "which is cheaper?" and ask instead "which instrument matches the firm's cash-flow profile and risk?".
 
-## 3.5 Risks, Financial Inclusion and Regulatory Considerations
+## 3.5 Credit and Platform Risks, Disclosure, Inclusion and Malaysian Oversight
 
 Digital financing creates real opportunities, but it also creates new ways to lose money. This final section analyses the main risks, explains how the SC's framework protects investors, introduces Shariah-compliant options, and assesses what digital financing has — and has not — achieved for financial inclusion in Malaysia.
 
@@ -285,6 +285,21 @@ The supply of Shariah-compliant digital financing is substantial and growing. In
 Digital financing helps close this credit gap in several ways. Small ticket sizes (62% of 2025 P2P campaigns raised RM50,000 or less) match the needs of micro-businesses; unsecured notes remove the collateral barrier; alternative-data credit scoring serves thin-file applicants; and fully digital journeys reduce travel and paperwork for rural entrepreneurs (SC, 2026). The issuer base confirms the inclusive character of the market: 99% of issuers are non-technology businesses, and 54% come from Selangor and Kuala Lumpur, meaning the other 46% are spread across the rest of the country (SC, 2026). For entrepreneurs in the B40 (bottom 40% income) group — a food-stall operator formalising her business, a village craftsman buying equipment — a successful small campaign can be the first rung on the ladder of formal credit, building a repayment record that unlocks larger facilities later.
 
 Two cautions complete the picture. First, digital financing presupposes digital access and literacy; entrepreneurs without smartphones, connectivity or the skills to prepare an online application may be left further behind. Second, inclusion must not become *over-indebtedness*: easy credit that funds consumption rather than productive investment can harm the very households it is meant to help. Sustainable inclusion pairs access with financial education — which is precisely why you are studying this chapter.
+
+## Applied Activity: Compare Two Digital Funding Offers
+
+**Purpose:** Compare funding offers using total ringgit cost rather than headline rates alone.
+
+A fictional Malaysian food business needs RM20,000 for six months. **Offer A** is a P2P investment note with a 10% simple annual financing return, a one-time platform fee of RM300, and six equal monthly principal instalments; calculate the return using the average outstanding balance as an explicit simplifying assumption. **Offer B** is an alternative digital facility with a 12% simple annual rate on the full RM20,000 for six months and no separate platform fee. Ignore tax and late charges; state that these are hypothetical terms, not market quotations.
+
+1. Calculate the estimated financing charge and total ringgit cost under each offer.
+2. Add any mandatory fees and repayment dates from the offer sheet; do not treat optional services as compulsory.
+3. Compare the monthly cash-flow burden and identify one disclosure question the borrower should ask before signing.
+4. Recommend an offer only after considering affordability, repayment timing and the assumptions used.
+
+**Deliverable:** A one-page comparison table showing formulas, total cost, assumptions and a short recommendation.
+
+---
 
 ## Case Study 3.1: Sri Cahaya Food Products Sdn. Bhd. — Raising RM150,000 Working Capital through a P2P Investment Note
 

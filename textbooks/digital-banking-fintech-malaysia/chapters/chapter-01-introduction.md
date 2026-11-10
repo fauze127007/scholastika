@@ -1,12 +1,12 @@
-# Chapter 1: Introduction to Digital Banking and Financial Technology
+# Chapter 1: Introduction to Financial Technology
 
 ## Chapter Outline
 
-- 1.1 Overview of Digital Banking and FinTech
-- 1.2 Evolution of Financial Services: From FinTech 1.0 to 4.0
-- 1.3 The Digital Financial Services Ecosystem and Landscape in Malaysia
-- 1.4 Key Players and Business Models
-- 1.5 Benefits and Challenges: Financial Inclusion and Operational Viability
+- 1.1 Scope of FinTech and Its Relationship to Digital Banking
+- 1.2 Evolution of Financial Technology: From Early Digitisation to Platform-Based Finance
+- 1.3 The Malaysian FinTech Ecosystem and the Roles of Banks, FinTech Firms, Regulators and Payment Operators
+- 1.4 FinTech Business Models, Customer Needs and Sources of Revenue
+- 1.5 Benefits, Operating Challenges and Barriers to Financial Inclusion
 
 ## Learning Outcomes
 
@@ -25,7 +25,7 @@ At 7.30 a.m. in Kota Bharu, Kelantan, twenty-year-old diploma student Aina Sofia
 
 None of these services existed in Malaysia when Aina was born. This chapter explains what they are, where they came from, who provides and regulates them in Malaysia, how they make money, and whether they truly make finance fairer for everyone.
 
-## 1.1 Overview of Digital Banking and FinTech
+## 1.1 Scope of FinTech and Its Relationship to Digital Banking
 
 Few pairs of words are used as loosely in business today as "digital banking" and "FinTech". News articles, bank advertisements and even regulators sometimes use them differently. Before we can study the Malaysian landscape, we need precise, citable definitions. This section defines financial technology, separates its two common meanings, defines digital banking, and distinguishes digital banking from online banking and neobanks.
 
@@ -75,7 +75,7 @@ Table 1.1 summarises the distinctions.
 | Malaysian examples | Maybank2u, CIMB Clicks | GXBank, Boost Bank, AEON Bank, KAF Digital Bank, Ryt Bank | The five licensed digital banks are the local equivalent |
 | Global examples | Internet portals of large banks | — | Chime (US), Revolut (UK/EU) |
 
-## 1.2 Evolution of Financial Services: From FinTech 1.0 to 4.0
+## 1.2 Evolution of Financial Technology: From Early Digitisation to Platform-Based Finance
 
 FinTech did not begin with the smartphone. In an influential framework, Arner, Barberis and Buckley (2016) divide the technological evolution of finance into three historical eras — FinTech 1.0, 2.0 and 3.0 (with a 3.5 variant for parts of Asia) — and subsequent literature, notably Gupta and Tham (2019), has extended the story with an emerging FinTech 4.0. Understanding this evolution matters because each era left behind institutions, regulations and habits that still shape Malaysia's financial system today.
 
@@ -128,7 +128,7 @@ A note of caution: eras overlap and labels are debated. FinTech 4.0 is an *emerg
 
 *Sources: Arner et al. (2016); Gupta and Tham (2019); BNM (2025a, 2025b).*
 
-## 1.3 The Digital Financial Services Ecosystem and Landscape in Malaysia
+## 1.3 The Malaysian FinTech Ecosystem and the Roles of Banks, FinTech Firms, Regulators and Payment Operators
 
 A FinTech *ecosystem* is the network of regulators, market operators, industry bodies, infrastructure providers and firms whose interactions produce digital financial services (Lee & Shin, 2018). Malaysia's ecosystem is distinctive in two ways: it is shared between two powerful regulators, and it contains an unusually strong Islamic finance dimension. This section maps the key institutions and market segments.
 
@@ -202,7 +202,7 @@ Behind every tap, scan and transfer lies shared infrastructure operated mainly b
 
 Usage has grown explosively. PayNet processed 8.44 billion digital payment transactions in 2025 (PayNet, 2026). DuitNow QR has also gone regional: cross-border QR payment linkages are live with Thailand, Indonesia, Singapore and China, with Cambodia added in 2025 and India expected in 2026; cross-border QR transactions grew 2.5 times in 2025 (PayNet, 2026). A Malaysian traveller in Bangkok can therefore pay a Thai merchant with the same app used at home — a quiet but remarkable piece of financial diplomacy built on shared rails.
 
-## 1.4 Key Players and Business Models
+## 1.4 FinTech Business Models, Customer Needs and Sources of Revenue
 
 Technology alone does not explain the transformation of finance; equally important is *who* provides the services and *how* they earn revenue. This section identifies five groups of players and examines the business models that sustain them, drawing on Lee and Shin's (2018) analysis of fintech ecosystems and business models.
 
@@ -254,7 +254,7 @@ In practice, successful firms combine several models. A digital bank, for instan
 
 > **🧠 BRAINSTORMER:** If customers expect payments, accounts and transfers to be free, where should a digital bank's profits come from? Would you rather pay visible fees, a subscription, or allow the provider to earn from your data and spending behaviour? What are the trade-offs?
 
-## 1.5 Benefits and Challenges: Financial Inclusion and Operational Viability
+## 1.5 Benefits, Operating Challenges and Barriers to Financial Inclusion
 
 Is the fintech transformation actually good for Malaysians? The honest answer is: mostly yes, with important qualifications. This section weighs the documented benefits — cost efficiency, convenience and financial inclusion — against the challenges of the digital divide, trust, regulation and, especially for new providers, operational viability.
 
@@ -289,6 +289,21 @@ By 2024 the gender gap in Malaysian account ownership had narrowed to less than 
 > **📌 QUICK NOTE:** An asset cap limits the *balance sheet*, not the number of customers. A digital bank can still grow deposits, accounts and fee income beyond the cap's shadow — which is why fee-based business models (Section 1.4.2) matter so much to its survival.
 
 The central policy tension of Malaysian digital banking is now clear: the same licence conditions that push digital banks towards *financial inclusion* (serving small, remote, thin-file customers) make *operational viability* harder, because such customers are costly to serve and generate small balances. Whether Malaysia's digital banks can resolve this tension — through fee income, ecosystem partnerships and disciplined cost control — is one of the most important questions this book will follow.
+
+## Applied Activity: Map a Malaysian FinTech Service
+
+**Purpose:** Identify the providers, infrastructure and regulators involved in a familiar financial service.
+
+Work in pairs and choose one service: paying a shop using DuitNow QR, transferring money using DuitNow, paying an online merchant through FPX, or opening an account with a licensed digital bank.
+
+1. Draw the customer journey from the user's action to the final account entry.
+2. Label the customer-facing provider, any bank or e-money issuer, the payment operator or rail, and the regulator(s).
+3. Mark where customer data, payment instructions and money move. Distinguish the commercial provider from the shared infrastructure.
+4. Identify one customer benefit, one operational dependency and one inclusion barrier.
+
+**Deliverable:** A labelled one-page ecosystem map and a 150-word explanation. Check your map against the provider and regulator roles in Section 1.3.
+
+---
 
 ## Case Study 1.1: Malaysia's Five Digital Banks — The Licensing Journey
 

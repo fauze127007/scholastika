@@ -2,10 +2,10 @@
 
 ## Chapter Outline
 
-- 9.1 Islamic Digital Finance and Its Development
-- 9.2 FinTech Applications in Islamic Banking and Financial Services
+- 9.1 Development of Islamic FinTech and Basic Shariah Considerations
+- 9.2 Islamic Digital Banking, Takaful and Digital Social Finance
 - 9.3 Shariah-Compliant Digital Investment and Financing
-- 9.4 Sustainable Finance and Its Role in Digital Finance (Green and Social)
+- 9.4 Green and Social Finance, Accessible Services and Digital Impact Tracking
 
 ## Learning Outcomes
 
@@ -24,7 +24,7 @@ Farah, a 22-year-old finance diploma student in Kota Kinabalu, wants to invest h
 
 ---
 
-## 9.1 Islamic Digital Finance and Its Development
+## 9.1 Development of Islamic FinTech and Basic Shariah Considerations
 
 Islamic finance is one of the fastest-growing segments of the global financial system, and Malaysia is widely recognised as one of its leaders. When financial technology (FinTech) meets Islamic finance, the result is Islamic digital finance — a field in which Malaysia holds a top-two position among global ecosystems. This section explains the Shariah principles behind Islamic finance, defines Islamic digital finance, and traces the legal and regulatory foundations that Malaysia has built over several decades.
 
@@ -82,7 +82,7 @@ Two lessons can be drawn from these numbers. First, Islamic fintech is no longer
 
 ---
 
-## 9.2 FinTech Applications in Islamic Banking and Financial Services
+## 9.2 Islamic Digital Banking, Takaful and Digital Social Finance
 
 The principles in Section 9.1 come alive in real products. Malaysia now has Islamic digital banks, Shariah-compliant P2P financing and equity crowdfunding (ECF) platforms, digital gold and waqf applications, and automated Shariah-screening tools. This section tours the main application areas.
 
@@ -178,7 +178,7 @@ Islamic digital finance inherits all the usual fintech risks — cybersecurity, 
 
 ---
 
-## 9.4 Sustainable Finance and Its Role in Digital Finance (Green and Social)
+## 9.4 Green and Social Finance, Accessible Services and Digital Impact Tracking
 
 Islamic finance and sustainable finance share a common root: both insist that finance serve real human and social purposes, not merely the multiplication of money. Malaysia has deliberately linked the two agendas, and fintech is the delivery mechanism that makes sustainable finance measurable and scalable.
 
@@ -221,6 +221,21 @@ Fintech contributes to sustainable finance in at least four ways:
 Every one of these channels creates a temptation toward **greenwashing** — the practice of exaggerating or misrepresenting the environmental or social benefits of a financial product to attract capital (BNM, 2021). A "green" fund that holds coal-adjacent stocks, or a "sustainable" bond with proceeds that drift to general corporate use, destroys the trust on which sustainable finance depends. Regulatory responses include taxonomy-based classification (the CCPT), disclosure standards, and independent external review of use-of-proceeds claims. For students, the working rule is simple: trust the verified data trail, not the label. Digital traceability — from tokenised proceeds tracking to ESG analytics — is precisely the tool that makes verification possible, which is why fintech and credible sustainable finance are natural partners.
 
 > **💡 DID YOU KNOW? (TRIVIA):** When Tadau Energy priced the world's first green sukuk in 2017, the instrument had to satisfy two independent review processes at once — Shariah certification of the sukuk structure and environmental certification of the solar project it financed (SC, 2019).
+
+---
+
+## Applied Activity: Shariah, Accessibility and Impact Checklist
+
+**Purpose:** Compare digital products without treating labels or marketing claims as proof.
+
+Compare two fictional product descriptions: a digital investment product advertised as Shariah-compliant and a green-social financing product advertised as having positive impact. For each product, complete this checklist:
+
+- **Shariah considerations:** Is the contract structure disclosed? Is the relevant Shariah governance or screening process identified? Are fees, purification (if applicable) and non-compliant activities explained?
+- **Accessibility:** Can users with limited connectivity, disabilities or lower digital literacy understand and use the service? Are assisted and complaint channels available?
+- **Impact claims:** Is the stated environmental or social outcome measurable, independently verifiable and linked to the use of funds? What evidence would reveal greenwashing?
+- **Consumer safeguards:** Are risks, liquidity, loss exposure and data use clearly explained?
+
+**Deliverable:** A side-by-side checklist, one question to ask each provider and a reasoned recommendation. The products are fictional; do not infer endorsement of any real provider.
 
 ---
 

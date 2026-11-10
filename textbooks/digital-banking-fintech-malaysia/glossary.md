@@ -4,13 +4,17 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **51% attack** [4]: an attack in which one actor controls the majority of a network's mining power or stake, enabling it to rewrite recent history and double-spend.
 
+**Accessibility** [6]: The extent to which a service can be understood and used by people with different abilities, devices, connectivity and levels of digital literacy.
+
 **Account takeover (ATO)** [8]: unauthorised access in which a criminal gains control of a genuine customer's account using stolen credentials.
+
+**Adoption readiness** [6]: An assessment of whether a technology, institution, customer need and supporting safeguards are mature enough for a controlled pilot or wider use.
 
 **Algorithmic bias** [8]: systematic error in an algorithm's outputs that produces unfair outcomes for particular groups of people.
 
 **Algorithmic trading** [5]: the use of computer programs to generate and submit buy or sell orders automatically according to defined rules, with little or no human intervention at execution.
 
-**Altcoin** [6]: any cryptocurrency other than bitcoin, spanning platform, payment, utility, governance, meme and stablecoin categories.
+**Altcoin** [4]: any cryptocurrency other than bitcoin, spanning platform, payment, utility, governance, meme and stablecoin categories.
 
 **Alternative data** [3]: non-traditional digital information — such as bank transaction flows, e-payment records and online sales — used to assess creditworthiness when formal records are thin.
 
@@ -20,13 +24,15 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Artificial intelligence (AI)** [7]: the field of building computer systems that perform tasks normally requiring human intelligence, such as understanding language, recognising images and making decisions.
 
+**Augmented reality (AR)** [6]: Digital information layered onto a view of the physical environment, commonly through a phone or wearable display.
+
 **Authorised push payment (APP) scam** [8]: a fraud in which the victim is deceived into personally authorising a transfer to the criminal's account.
 
 **Backtesting** [5]: simulating a trading strategy on historical market data to estimate how it would have performed before risking real capital.
 
 **BigTech** [1]: Large technology companies with vast user bases and data advantages that expand into financial services such as payments, lending and banking.
 
-**Bitcoin** [6]: the first decentralised cryptocurrency, proposed by Satoshi Nakamoto in 2008 and launched in 2009, enabling peer-to-peer value transfer without intermediaries.
+**Bitcoin** [4]: the first decentralised cryptocurrency, proposed by Satoshi Nakamoto in 2008 and launched in 2009, enabling peer-to-peer value transfer without intermediaries.
 
 **Black-box problem** [7]: the inability of humans to understand or explain precisely why a complex ML model produced a particular decision.
 
@@ -50,11 +56,15 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Crowdfunding** [3]: raising small amounts of money from a large number of people through an online platform to fund a project, cause or business.
 
+**Cryptographic agility** [6]: The ability to replace or update cryptographic algorithms and keys without disrupting essential systems.
+
 **Customer due diligence (CDD)** [2]: the process by which a financial institution identifies and verifies a customer, understands the purpose of the relationship, and monitors transactions accordingly.
 
 **Data breach** [8]: unauthorised access to or disclosure of personal or financial data, often arming future scams.
 
-**Decentralised finance (DeFi)** [6]: an ecosystem of blockchain-based applications that provide lending, trading and other financial services through smart contracts without intermediaries.
+**Data minimisation** [6]: Collecting and retaining only the personal data necessary for a stated and legitimate purpose.
+
+**Decentralised finance (DeFi)** [4]: an ecosystem of blockchain-based applications that provide lending, trading and other financial services through smart contracts without intermediaries.
 
 **Deep learning** [7]: a subset of ML using multi-layered neural networks to learn complex patterns from large volumes of data.
 
@@ -76,7 +86,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Distributed ledger technology (DLT)** [4]: a digital record-keeping system in which a ledger is shared, replicated and synchronised across multiple network nodes without a single central authority.
 
-**Double-spending problem** [6]: the risk that digital money, being copyable, is spent more than once; blockchains solve it without a central ledger-keeper.
+**Double-spending problem** [4]: the risk that digital money, being copyable, is spent more than once; blockchains solve it without a central ledger-keeper.
 
 **DuitNow** [2]: Malaysia's instant account-to-account transfer service (2018), addressed to proxies such as a mobile or MyKad number instead of a bank account number.
 
@@ -114,7 +124,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Full node** [4]: a node that downloads the entire blockchain and independently verifies every transaction and block against the consensus rules.
 
-**Gas** [6]: the unit measuring computational work on Ethereum, paid in ether, which compensates validators and deters spam.
+**Gas** [4]: the unit measuring computational work on Ethereum, paid in ether, which compensates validators and deters spam.
 
 **Generative AI** [7]: AI models that create new content — text, images, code or audio — in response to prompts.
 
@@ -124,7 +134,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Greenwashing** [9]: exaggerating or misrepresenting the environmental or social benefits of a financial product or activity to attract capital.
 
-**Halving** [6]: the programmed reduction, roughly every four years, of Bitcoin's block reward by half; the April 2024 halving cut it to 3.125 BTC.
+**Halving** [4]: the programmed reduction, roughly every four years, of Bitcoin's block reward by half; the April 2024 halving cut it to 3.125 BTC.
 
 **Hash** [4]: the fixed-length output of a one-way hash function; a digital fingerprint that uniquely represents any input and changes completely if the input changes.
 
@@ -132,11 +142,15 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Human-in-the-loop (HITL)** [7]: a safeguard in which a human reviews, can override and remains accountable for AI recommendations in high-stakes decisions.
 
+**Immersive technology** [6]: An interface that places a user in a computer-generated environment or overlays digital information on the physical environment.
+
 **Information asymmetry** [3]: a situation in which one party to a transaction holds more or better information than the other, complicating lending and investment decisions.
 
-**Initial coin offering (ICO)** [6]: a largely unregulated public sale of newly created tokens to raise funds, notorious for failures and fraud during 2017–2018.
+**Initial coin offering (ICO)** [4]: a largely unregulated public sale of newly created tokens to raise funds, notorious for failures and fraud during 2017–2018.
 
 **Interchange fee** [1]: The portion of a card transaction fee paid by the merchant's bank to the cardholder's issuing bank, forming a key revenue source for card issuers.
+
+**Internet of Things (IoT)** [6]: Connected physical devices that collect or exchange data through sensors, software and networks.
 
 **Investment note** [3]: a security issued through a registered P2P platform evidencing the issuer's obligation to repay investors principal plus agreed returns over a fixed tenor.
 
@@ -164,7 +178,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Merkle tree** [4]: a tree of pairwise hashes over a block's transactions, ending in a single root that enables efficient, lightweight verification of individual transactions.
 
-**Mining** [6]: the competitive process of validating transactions and adding blocks to a proof-of-work blockchain in return for block rewards and fees.
+**Mining** [4]: the competitive process of validating transactions and adding blocks to a proof-of-work blockchain in return for block rewards and fees.
 
 **Mobile-first** [2]: a design philosophy in which the smartphone application is the primary banking channel and all other channels are built around it.
 
@@ -188,7 +202,7 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Node** [4]: a computer running a blockchain's software that stores, relays and (depending on type) validates ledger data according to the consensus rules.
 
-**Non-fungible token (NFT)** [6]: a unique blockchain token representing a specific item, not interchangeable one-for-one with other tokens.
+**Non-fungible token (NFT)** [4]: a unique blockchain token representing a specific item, not interchangeable one-for-one with other tokens.
 
 **Nonce** [4]: an adjustable number in a block header that proof-of-work miners vary when searching for a hash that meets the network's difficulty target.
 
@@ -218,21 +232,25 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Post-money valuation** [3]: a company's value immediately after a funding round, equal to the pre-money valuation plus the amount of new capital raised.
 
+**Post-quantum cryptography** [6]: Cryptographic methods designed to resist attacks from both conventional and sufficiently capable quantum computers.
+
 **Pre-money valuation** [3]: the agreed value of a company immediately before new investment money is added in a funding round.
 
-**Private key** [6]: a secret cryptographic number that proves ownership of cryptocurrency and authorises spending; losing it means losing the funds permanently.
+**Private key** [4]: a secret cryptographic number that proves ownership of cryptocurrency and authorises spending; losing it means losing the funds permanently.
 
-**Proof of stake** [6]: a consensus mechanism where validators lock up cryptocurrency as collateral to propose and confirm blocks, with dishonesty punished by slashing.
+**Proof of stake** [4]: a consensus mechanism where validators lock up cryptocurrency as collateral to propose and confirm blocks, with dishonesty punished by slashing.
 
 **Proof of stake (PoS)** [4]: a consensus mechanism in which validators lock up cryptocurrency as a stake and are penalised for dishonesty, avoiding PoW's energy race.
 
-**Proof of work** [6]: a consensus mechanism requiring participants to expend computational effort to add blocks, making attacks economically costly.
+**Proof of work** [4]: a consensus mechanism requiring participants to expend computational effort to add blocks, making attacks economically costly.
 
 **Proof of work (PoW)** [4]: a consensus mechanism in which miners compete to solve a computational puzzle, making block production costly and attacks economically impractical.
 
-**Public key** [6]: a cryptographic value derived from a private key, used to generate receiving addresses; safe to share.
+**Public key** [4]: a cryptographic value derived from a private key, used to generate receiving addresses; safe to share.
 
 **Public-key cryptography** [4]: an encryption scheme using a linked private key (secret, used to sign) and public key (shared, used to verify), forming the basis of blockchain ownership.
+
+**Quantum computing** [6]: A computing approach using quantum-mechanical properties, with potential advantages for selected computational problems.
 
 **Real-time gross settlement (RTGS)** [2]: the settlement of high-value interbank payments individually, immediately and with finality, rather than in netted batches.
 
@@ -254,7 +272,9 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Robo-advisory** [5]: automated, algorithm-driven investment advice and portfolio management delivered through a digital platform with minimal human supervision.
 
-**Security token offering (STO)** [6]: a regulated issuance of blockchain tokens representing legally recognised securities, subject to securities law and disclosure requirements.
+**Security token offering (STO)** [4]: a regulated issuance of blockchain tokens representing legally recognised securities, subject to securities law and disclosure requirements.
+
+**Sensor data** [6]: Measurements collected by a device, such as location, movement or usage, which may be incomplete or inaccurate.
 
 **Shariah Advisory Council (SAC)** [9]: the apex authority under the Central Bank of Malaysia Act 2009 for ascertaining Islamic law for Islamic financial business in Malaysia.
 
@@ -288,12 +308,18 @@ All terms are defined as they appear in the chapters; the number in brackets is 
 
 **Transaction monitoring** [7]: the screening of customer transactions for patterns consistent with money laundering or terrorism financing, as required under AMLA 2001.
 
-**Unspent transaction output (UTXO)** [6]: a discrete, spendable chunk of cryptocurrency recorded on the blockchain, consumed entirely as an input when spent, with any remainder returned as change.
+**Unspent transaction output (UTXO)** [4]: a discrete, spendable chunk of cryptocurrency recorded on the blockchain, consumed entirely as an input when spent, with any remainder returned as change.
 
 **Unsupervised learning** [7]: ML that finds structure, clusters or anomalies in unlabelled data without known correct answers.
+
+**Usage-based insurance** [6]: Insurance pricing or coverage informed by measured use or behaviour, such as driving distance or patterns.
 
 **Value-based Intermediation (VBI)** [9]: BNM's 2018 initiative with the Islamic banking industry to deliver measurable value to stakeholders, the economy and the community.
 
 **Virtual card** [2]: a payment card credential that exists only in digital form, issued instantly inside an app and usable for online or wallet-based payments.
 
+**Virtual reality (VR)** [6]: A computer-generated environment that immerses a user, commonly through a headset.
+
 **Wakalah** [9]: an agency contract in which a principal appoints an agent to act on their behalf, typically for a fee; used in robo-advisory and takaful.
+
+**Wearable** [6]: A body-worn connected device that may support payments or collect user or activity data.
